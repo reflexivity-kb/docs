@@ -12,7 +12,7 @@
 3. **[제품](03-제품/README.md)** — 공개
 4. **[릴리스](04-릴리스/README.md)** — 공개
 5. **[유스케이스](05-유스케이스/README.md)** — 공개
-6. **[Articles](06-articles/README.md)** — 공개
+6. **[각종 Articles](06-articles/README.md)** — 공개
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)** — 열람 권한이 있는 사용자만
 8. **[Data](https://github.com/reflexivity-kb/data)** — 열람 권한이 있는 사용자만
 9. **[FAQ](https://github.com/reflexivity-kb/platform/blob/main/ko/02-이용가이드/FAQ/README.md)** — 열람 권한이 있는 사용자만
