@@ -18,9 +18,7 @@ undefined
 - **Part 1: Data** - [資料可信度正成為機構投資研究 AI 落地的前提](02-可信度與可稽核性/資料可信度正成為機構投資研究AI落地的前提.md)
 - **Part 2: Flow** - [AI 只有在正確的決策時點進入工作流程才真正有用](04-研究工作流程/AI只有在正確的決策時點進入工作流程才真正有用.md)
 - **Part 3: Compliance** - [為什麼合規必須設計進研究工作流程](02-可信度與可稽核性/為什麼合規必須設計進研究工作流程.md)
-- **Supporting Research** - [主要金融市場的金融機構如何採用 AI](02-可信度與可稽核性/主要金融市場的金融機構如何採用AI.md)
-
-Supporting Research 用於說明為什麼這三個採用問題會在不同市場反覆出現。它**不是 Part 4**。
+- **全球趨勢** - [主要金融市場的金融機構如何採用 AI](02-可信度與可稽核性/主要金融市場的金融機構如何採用AI.md)
 
 其他受存取限制的 Articles 仍可在 [Reflexivity Platform](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/06-articles/README.md) 中查看（需要存取權限）。
 

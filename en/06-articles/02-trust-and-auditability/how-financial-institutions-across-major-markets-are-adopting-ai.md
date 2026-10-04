@@ -31,7 +31,7 @@ But the official evidence is beginning to converge on a common operating problem
 
 As AI moves from experimentation into production, institutions are asking increasingly similar questions about **data quality and provenance, workflow control, human oversight, third-party dependencies, explainability, monitoring, and accountability**.
 
-This article reviews official material from Japan, the United States, the United Kingdom, the European Union, South Korea, China, Hong Kong, and Singapore. It is a supporting research note for Reflexivity's **Data / Flow / Compliance** series. It is **not a fourth installment**. Its purpose is to preserve the country-by-country evidence behind those three themes so the main series can stay concise.
+This article compares official material from Japan, the United States, the United Kingdom, the European Union, South Korea, China, Hong Kong, and Singapore. Across these markets, three operating questions recur: **Can institutions trust the data and evidence path? Can AI enter the research workflow at the right point in the decision process? Can people review, explain, and govern the result?**
 
 ## The pattern at a glance
 
@@ -199,15 +199,17 @@ An analyst may need to know:
 
 The markets reviewed here use different language, but the direction is remarkably consistent: **production-grade AI in finance is becoming an operating-model problem, not just a model-capability problem.**
 
-## How this research fits the Data / Flow / Compliance series
+## Three operating questions that recur across markets
 
-This article is a shared evidence base for a three-part series. It is not Part 4.
+The official evidence reviewed here points to three connected operating questions.
 
-- **Part 1: Data:** [Data Trust Is Becoming the Adoption Layer for AI in Institutional Research](data-trust-is-becoming-the-adoption-layer-for-ai-in-institutional-research.md)
-- **Part 2: Flow:** [AI Is Only Useful When It Arrives at the Point of Decision](../04-research-workflows/ai-is-only-useful-when-it-arrives-at-the-point-of-decision.md)
-- **Part 3: Compliance:** [Compliance Has to Be Designed Into the Research Workflow](compliance-has-to-be-designed-into-the-research-workflow.md)
+1. **Data:** Can the institution verify where a number or claim came from, what time it represents, and whether the coverage is sufficient for the question?
+2. **Workflow:** Does the analysis arrive at the point in the research and decision process where it can actually be used?
+3. **Review and accountability:** Can people inspect the evidence, understand material limitations, intervene when needed, and explain the final judgment?
 
-Keeping the detailed market evidence here allows each main article to stay focused on one question while preserving the underlying research for readers who want to inspect the broader pattern.
+These are not isolated checkboxes. As AI moves into production, they become parts of the same operating model.
+
+For a deeper look at the first question, see [Data Trust Is Becoming the Adoption Layer for AI in Institutional Research](data-trust-is-becoming-the-adoption-layer-for-ai-in-institutional-research.md).
 
 ## Official sources
 

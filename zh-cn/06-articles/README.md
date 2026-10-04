@@ -18,9 +18,7 @@ undefined
 - **Part 1: Data** - [数据可信度正在成为机构投资研究 AI 落地的前提](02-可信度与可审计性/数据可信度正在成为机构投资研究AI落地的前提.md)
 - **Part 2: Flow** - [AI 只有在正确的决策时点进入工作流才真正有用](04-研究工作流/AI只有在正确的决策时点进入工作流才真正有用.md)
 - **Part 3: Compliance** - [为什么合规必须设计进研究工作流](02-可信度与可审计性/为什么合规必须设计进研究工作流.md)
-- **Supporting Research** - [主要金融市场的金融机构如何采用 AI](02-可信度与可审计性/主要金融市场的金融机构如何采用AI.md)
-
-Supporting Research 用于说明为什么这三个采用问题会在不同市场反复出现。它**不是 Part 4**。
+- **全球趋势** - [主要金融市场的金融机构如何采用 AI](02-可信度与可审计性/主要金融市场的金融机构如何采用AI.md)
 
 其他受访问限制的 Articles 仍可在 [Reflexivity Platform](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/06-articles/README.md) 中查看（需要访问权限）。
 
