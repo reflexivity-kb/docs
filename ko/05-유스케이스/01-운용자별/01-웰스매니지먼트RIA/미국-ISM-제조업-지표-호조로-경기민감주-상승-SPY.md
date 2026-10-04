@@ -29,7 +29,7 @@ editorial_reviewed: 2026-10-04
 
 [← Wealth Management / RIA](README.md) · [전체 유스케이스](../../README.md)
 
-**페르소나:** Wealth Management / RIA<br>
+**대상 사용자:** 웰스매니지먼트 / RIA<br>
 **인사이트 유형:** Market Catalyst<br>
 **시그널:** 강세<br>
 **날짜:** 2026-08-03
