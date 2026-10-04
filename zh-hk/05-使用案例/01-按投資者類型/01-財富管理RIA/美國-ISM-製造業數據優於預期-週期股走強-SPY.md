@@ -24,7 +24,7 @@ editorial_reviewed: 2026-10-04
 # 美國 ISM 製造業數據優於預期，週期股走強 (SPY)
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/05-use-cases/01-investor-type/01-wealth-management-RIA/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md) · [한국어](../../../../ko/05-유스케이스/01-운용자별/01-웰스매니지먼트RIA/미국-ISM-제조업-지표-호조로-경기민감주-상승-SPY.md) · [简体中文](../../../../zh-cn/05-使用案例/01-按投资者类型/01-财富管理RIA/美国-ISM-制造业数据超预期-周期股走强-SPY.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/01-依投資者類型/01-財富管理RIA/美國-ISM-製造業數據優於預期-週期股走強-SPY.md) · **繁體中文（香港）**
+**Languages:** [English](../../../../en/05-use-cases/01-investor-type/01-wealth-management-RIA/u-s-ism-manufacturing-beat-lifts-cyclicals-spy.md) · [日本語](../../../../ja/05-ユースケース/01-運用者別/01-ウェルスマネジメントRIA/米国ISM製造業の上振れで景気敏感株が上昇-SPY.md) · [한국어](../../../../ko/05-유스케이스/01-운용자별/01-웰스매니지먼트RIA/미국-ISM-제조업-지표-호조로-경기민감주-상승-SPY.md) · [简体中文](../../../../zh-cn/05-使用案例/01-按投资者类型/01-财富管理RIA/美国-ISM-制造业数据超预期-周期股走强-SPY.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/01-依投資者類型/01-財富管理RIA/美國-ISM-製造業數據優於預期-週期股走強-SPY.md) · **繁體中文（香港）**
 <!-- locale-switcher:end -->
 
 [← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../../README.md)
