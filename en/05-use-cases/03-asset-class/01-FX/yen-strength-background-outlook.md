@@ -42,7 +42,7 @@ A sharp fall in USD/JPY does not by itself tell us whether the move is being dri
 The research therefore follows a sequence:
 
 1. measure the size and speed of the USD/JPY move and the rise in volatility;
-2. separate the main explanatory drivers — Bank of Japan policy expectations, intervention risk, and US economic data;
+2. separate the main explanatory drivers: Bank of Japan policy expectations, intervention risk, and US economic data;
 3. compare the yen with other major currencies to test whether the move is yen-specific or part of a broader dollar move;
 4. frame the outlook around the FOMC and BOJ meetings, identifying the conditions under which yen strength could continue or reverse.
 

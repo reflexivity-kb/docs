@@ -61,10 +61,10 @@ editorial_reviewed: 2026-10-04
 
 這份 Insight 區分第一層政策曝險與第二層需求、財測風險。
 
-- **AI Chips** — 依曝險角色、傳導路徑與下一步需要觀察的證據連結 Nvidia、AMD、Broadcom、Marvell Technology 與 TSMC。
-- **Export Restrictions** — 區分直接涉及受限加速器類別的公司，以及透過客戶部署計畫與無晶圓廠需求受到間接影響的公司。
-- **Earnings Guidance** — 接下來的問題是出貨時間、區域需求能見度或客戶謹慎態度是否開始改變公司的財測措辭。
-- **Country / Region Impact** — 美國被視為政策來源，而台灣與韓國主要透過製造與供應鏈傳導來理解。
+- **AI Chips**: 依曝險角色、傳導路徑與下一步需要觀察的證據連結 Nvidia、AMD、Broadcom、Marvell Technology 與 TSMC。
+- **Export Restrictions**: 區分直接涉及受限加速器類別的公司，以及透過客戶部署計畫與無晶圓廠需求受到間接影響的公司。
+- **Earnings Guidance**: 接下來的問題是出貨時間、區域需求能見度或客戶謹慎態度是否開始改變公司的財測措辭。
+- **Country / Region Impact**: 美國被視為政策來源，而台灣與韓國主要透過製造與供應鏈傳導來理解。
 
 這種結構有助於把直接的出口限制衝擊，與更廣泛的 AI 基礎設施需求重估區分開來。
 

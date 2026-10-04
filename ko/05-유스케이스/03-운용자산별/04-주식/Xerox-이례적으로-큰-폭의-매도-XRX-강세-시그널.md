@@ -19,7 +19,7 @@ source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entit
 prompt_status: not_provided
 -->
 
-# Xerox: 이례적으로 큰 폭의 매도 (XRX) — 강세 시그널
+# Xerox: 이례적으로 큰 폭의 매도 (XRX): 강세 시그널
 
 <!-- locale-switcher:start -->
 **Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/xerox-unusually-large-selloff-xrx.md) · **한국어** · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/Xerox-异常大幅抛售-XRX.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/Xerox-異常大幅拋售-XRX.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/Xerox-異常大幅拋售-XRX.md)

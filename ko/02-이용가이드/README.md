@@ -9,7 +9,7 @@
 
 ## Platform 자료 (접근 권한 필요)
 
-- [기술 레퍼런스](https://github.com/reflexivity-kb/platform/blob/main/ko/02-이용가이드/기술-레퍼런스/README.md) — REST API 및 AI/MCP 연결을 위한 기술 자료입니다.
+- [기술 레퍼런스](https://github.com/reflexivity-kb/platform/blob/main/ko/02-이용가이드/기술-레퍼런스/README.md): REST API 및 AI/MCP 연결을 위한 기술 자료입니다.
 
 ## FAQ
 

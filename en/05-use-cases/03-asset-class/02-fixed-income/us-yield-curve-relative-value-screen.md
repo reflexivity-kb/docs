@@ -64,9 +64,9 @@ The apparent valuation signal and the carry/rolldown signal work against each ot
 
 ## Corrected distribution
 
-- **Steepener / pay:** 3 pairs — 5y-4y, 25y-20y, 30y-25y
-- **Flattener / receive:** 1 pair — 12y-8y
-- **Neutral:** 5 pairs — 3y-2y, 4y-3y, 7y-5y, 8y-7y, 20y-12y
+- **Steepener / pay:** 3 pairs: 5y-4y, 25y-20y, 30y-25y
+- **Flattener / receive:** 1 pair: 12y-8y
+- **Neutral:** 5 pairs: 3y-2y, 4y-3y, 7y-5y, 8y-7y, 20y-12y
 
 ## How to read the screen
 

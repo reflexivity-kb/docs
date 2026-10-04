@@ -61,10 +61,10 @@ editorial_reviewed: 2026-10-04
 
 这份 Insight 区分了第一层政策敞口与第二层需求、业绩指引风险。
 
-- **AI Chips** — 按敞口角色、传导路径和下一步需要观察的证据连接 Nvidia、AMD、Broadcom、Marvell Technology 与 TSMC。
-- **Export Restrictions** — 区分直接涉及受限加速器类别的公司，以及通过客户部署计划与无晶圆厂需求受到间接影响的公司。
-- **Earnings Guidance** — 接下来的问题是出货时间、区域需求可见度或客户谨慎态度是否开始改变公司的指引措辞。
-- **Country / Region Impact** — 美国被作为政策来源，而台湾与韩国主要通过制造和供应链传导来理解。
+- **AI Chips**: 按敞口角色、传导路径和下一步需要观察的证据连接 Nvidia、AMD、Broadcom、Marvell Technology 与 TSMC。
+- **Export Restrictions**: 区分直接涉及受限加速器类别的公司，以及通过客户部署计划与无晶圆厂需求受到间接影响的公司。
+- **Earnings Guidance**: 接下来的问题是出货时间、区域需求可见度或客户谨慎态度是否开始改变公司的指引措辞。
+- **Country / Region Impact**: 美国被作为政策来源，而台湾与韩国主要通过制造和供应链传导来理解。
 
 这种结构有助于把直接的出口限制冲击，与更广泛的 AI 基础设施需求重估区分开来。
 

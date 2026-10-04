@@ -50,7 +50,7 @@ That separates **visual co-movement → quantitative correlation → exceptions 
 
 | Episode | Timing | HOOD | Bitcoin | Direction |
 | --- | --- | --- | --- | --- |
-| Starting point | late Aug 2025 | ~108 | ~110,000 | — |
+| Starting point | late Aug 2025 | ~108 | ~110,000 |: |
 | Peak | early Oct 2025 | ~150 | ~124,800 | both near highs |
 | Sharp selloff | early Feb 2026 | 72 | ~63,300 | both fell sharply |
 | Secondary low | Jun 2026 | ~93 | ~58,500 | partial divergence |

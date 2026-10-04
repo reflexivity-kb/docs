@@ -95,10 +95,10 @@ The source therefore treats “deal-calendar congestion” as a market-liquidity
 
 A useful IPO-market dashboard should keep four separate views:
 
-1. **proceeds concentration** — how much aggregate issuance depends on a few mega-deals;
-2. **aftermarket return** — whether buyers are actually being rewarded after listing;
-3. **sector concentration** — where capital is clustering;
-4. **future supply** — how much new equity could arrive next and compete for capital.
+1. **proceeds concentration**: how much aggregate issuance depends on a few mega-deals;
+2. **aftermarket return**: whether buyers are actually being rewarded after listing;
+3. **sector concentration**: where capital is clustering;
+4. **future supply**: how much new equity could arrive next and compete for capital.
 
 The next update should also examine lock-up expirations, rates, and flows into growth equities, because those can change the market impact even if the forward IPO calendar itself is unchanged.
 

@@ -45,7 +45,7 @@ The approved source does not specify the exact prompt used.
 A macro demand-downshift is exactly the kind of top-down signal that drives same-day client questions an advisor has to answer without a research desk.
 ## Compelling
 
-The platform frames it as a broad read-through to housing-linked cyclicals — homebuilders, suppliers, lenders — rather than a single data point, and separates the trend from the noise.
+The platform frames it as a broad read-through to housing-linked cyclicals - homebuilders, suppliers, lenders - rather than a single data point, and separates the trend from the noise.
 ## Workflow
 
 The advisor can send a source-cited client note explaining the pending-home-sales miss (-5.4% vs -0.5% expected) and soft NAHB print, and which housing-exposed names to watch.

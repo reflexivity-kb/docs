@@ -58,10 +58,10 @@ editorial_reviewed: 2026-10-04
 
 這份 Insight 沒有停留在 PMI 標題數字，而是把影響拆成多個傳導路徑：
 
-- **Industrial Machinery** — 透過機械、自動化、材料、產能利用與積壓訂單呈現的直接工業曝險
-- **GDP Growth** — 延伸至大盤、設備租賃、MRO 與貨運的更廣泛週期性影響
-- **Interest Rate Sensitivity** — 較強經濟活動與較不利折現率環境之間的張力
-- **Country / Region Impact** — 依當地製造業曝險、利率與匯率條件形成不同地區影響
+- **Industrial Machinery**: 透過機械、自動化、材料、產能利用與積壓訂單呈現的直接工業曝險
+- **GDP Growth**: 延伸至大盤、設備租賃、MRO 與貨運的更廣泛週期性影響
+- **Interest Rate Sensitivity**: 較強經濟活動與較不利折現率環境之間的張力
+- **Country / Region Impact**: 依當地製造業曝險、利率與匯率條件形成不同地區影響
 
 Industrial Machinery 群組包括 Caterpillar、Deere、Honeywell、Emerson Electric 與 Freeport-McMoRan，並分別呈現各公司的關聯、傳導路徑與下一步需要觀察的證據。
 

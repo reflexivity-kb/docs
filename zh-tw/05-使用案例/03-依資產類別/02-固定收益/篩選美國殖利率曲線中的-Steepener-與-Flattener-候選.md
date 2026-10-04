@@ -66,9 +66,9 @@ prompt_status: not_provided
 
 ## 更正後分布
 
-- **Steepener / pay：** 3 組 — 5y-4y、25y-20y、30y-25y
-- **Flattener / receive：** 1 組 — 12y-8y
-- **中性：** 5 組 — 3y-2y、4y-3y、7y-5y、8y-7y、20y-12y
+- **Steepener / pay：** 3 組: 5y-4y、25y-20y、30y-25y
+- **Flattener / receive：** 1 組: 12y-8y
+- **中性：** 5 組: 3y-2y、4y-3y、7y-5y、8y-7y、20y-12y
 
 ## 如何閱讀這個篩選
 

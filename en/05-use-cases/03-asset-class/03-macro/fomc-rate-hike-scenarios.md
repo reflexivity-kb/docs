@@ -73,7 +73,7 @@ Immediately before the meeting, update four inputs:
 3. labor-market data;
 4. the market-implied policy distribution.
 
-After the meeting, compare both the decision and the Chair's emphasis with the pre-defined scenarios. Which variable did the Chair foreground — inflation, oil, labor, or another risk — and which market repriced first: rates, FX, or broader risk assets?
+After the meeting, compare both the decision and the Chair's emphasis with the pre-defined scenarios. Which variable did the Chair foreground - inflation, oil, labor, or another risk - and which market repriced first: rates, FX, or broader risk assets?
 
 That turns a meeting preview into a repeatable pre/post-event research process rather than a one-point forecast.
 

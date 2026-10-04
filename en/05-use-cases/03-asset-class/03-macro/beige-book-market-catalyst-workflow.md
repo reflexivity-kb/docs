@@ -47,7 +47,7 @@ Market Catalyst provides an entry point from the event headline into the analysi
 If no country, region, or theme has been configured, the Market Catalyst view may appear blank. The source suggests:
 
 1. open **Insights** and select **Market Catalyst**;
-2. configure the relevant theme, country, or region — one filter is sufficient;
+2. configure the relevant theme, country, or region: one filter is sufficient;
 3. select an important event such as the Beige Book from the resulting list;
 4. open the event to review key points and market implications.
 

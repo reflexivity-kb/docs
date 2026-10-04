@@ -55,8 +55,8 @@ After identifying the positioning bias, the next question is whether relative ec
 
 ### PMI differential
 
-- EU Manufacturing PMI **46.0** vs US **48.5** — a -2.5 spread favoring USD
-- EU Services PMI **51.5** vs US **54.0** — also a -2.5 spread
+- EU Manufacturing PMI **46.0** vs US **48.5**: a -2.5 spread favoring USD
+- EU Services PMI **51.5** vs US **54.0**: also a -2.5 spread
 
 ### Labor and inflation
 

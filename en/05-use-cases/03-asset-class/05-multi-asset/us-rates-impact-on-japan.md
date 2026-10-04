@@ -47,8 +47,8 @@ At the time of the QUICK-provided research:
 | US 10Y yield | 4.71% | 4.32% | +0.39pp |
 | US 30Y yield | 5.29% | 4.92% | +0.37pp |
 | Japan 10Y yield | 2.95% | 1.57% | +1.38pp |
-| BOJ policy rate | 1.00% | — | tightening cycle |
-| Japan core CPI YoY | 1.6% | — | around 2% |
+| BOJ policy rate | 1.00% |: | tightening cycle |
+| Japan core CPI YoY | 1.6% |: | around 2% |
 | USD/JPY | 159.6 | 147.9 | +7.9% yen weakening |
 
 The source interpreted the combination of higher US yields, a wider rate differential, and yen weakness as an external pressure that could reinforce BOJ normalization and higher Japanese yields.
@@ -69,9 +69,9 @@ This is why the research moves from rates into FX before discussing equities.
 
 The source separated three channels:
 
-1. **Yen weakness and BOJ policy** — a wider yield gap and weaker yen can add import-price pressure and strengthen the case for additional normalization.
-2. **Higher Japanese long-term yields** — global duration pressure and domestic normalization can reinforce each other.
-3. **Two-sided economic effects** — exporters and inbound-sensitive businesses may benefit from yen weakness while households and domestic demand face higher import costs.
+1. **Yen weakness and BOJ policy**: a wider yield gap and weaker yen can add import-price pressure and strengthen the case for additional normalization.
+2. **Higher Japanese long-term yields**: global duration pressure and domestic normalization can reinforce each other.
+3. **Two-sided economic effects**: exporters and inbound-sensitive businesses may benefit from yen weakness while households and domestic demand face higher import costs.
 
 ## Sector implications
 

@@ -58,10 +58,10 @@ source_manifest: RX-USECASE-0020
 
 このInsightは、政策の直接影響と、需要・ガイダンスを通じた二次的な影響を分けています。
 
-- **AI Chips** — Nvidia、AMD、Broadcom、Marvell Technology、TSMCについて、エクスポージャー、波及経路、次の確認材料を整理
-- **Export Restrictions** — 規制対象アクセラレーターへの直接露出と、顧客の導入計画やファブレス需要を通じた間接露出を区別
-- **Earnings Guidance** — 出荷時期、地域別需要の見通し、顧客の慎重姿勢が業績ガイダンスにどう表れるかを確認
-- **Country / Region Impact** — 米国を政策の起点として、台湾・韓国への影響を製造・サプライチェーン経由で整理
+- **AI Chips**: Nvidia、AMD、Broadcom、Marvell Technology、TSMCについて、エクスポージャー、波及経路、次の確認材料を整理
+- **Export Restrictions**: 規制対象アクセラレーターへの直接露出と、顧客の導入計画やファブレス需要を通じた間接露出を区別
+- **Earnings Guidance**: 出荷時期、地域別需要の見通し、顧客の慎重姿勢が業績ガイダンスにどう表れるかを確認
+- **Country / Region Impact**: 米国を政策の起点として、台湾・韓国への影響を製造・サプライチェーン経由で整理
 
 これにより、輸出規制の直接的な影響と、AIインフラ需要全体の再評価を分けて考えることができます。
 

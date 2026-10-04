@@ -43,13 +43,13 @@ The approved source does not specify the exact prompt used.
 
 ## Relevant
 
-A pod PM needs a fast, auditable read across a crowded semis book when the group de-rates even as bellwethers beat — exactly this segment’s pain point.
+A pod PM needs a fast, auditable read across a crowded semis book when the group de-rates even as bellwethers beat - exactly this segment’s pain point.
 ## Compelling
 
 The platform frames it as a multiple-compression / demand-durability debate rather than a revenue roll-over, and shows the move is broad (SMH -5.48%, SOXX -7.61%) not idiosyncratic.
 ## Insight
 
-The PM instantly sees the shift from AI-narrative to durability skepticism — TSMC’s 77% profit jump and ASML’s guidance raise did not stop the group — and where to concentrate or hedge.
+The PM instantly sees the shift from AI-narrative to durability skepticism - TSMC’s 77% profit jump and ASML’s guidance raise did not stop the group - and where to concentrate or hedge.
 
 ## Resource
 

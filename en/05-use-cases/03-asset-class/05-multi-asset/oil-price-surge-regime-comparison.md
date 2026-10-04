@@ -47,7 +47,7 @@ That produces a chain of **oil move → cause of the move → cost/revenue trans
 
 ## Two different oil-price regimes
 
-### March episode — geopolitical supply shock
+### March episode: geopolitical supply shock
 
 The QUICK-provided source characterized the March episode as a sudden geopolitical supply shock tied to the US-Iran war and severe disruption risk around Gulf/Hormuz exports.
 
@@ -57,7 +57,7 @@ In the source snapshot:
 - the main interpretation was physical-supply disruption risk rather than a gradual demand repricing;
 - the episode was treated as an abrupt shock whose persistence depended heavily on the actual supply route and conflict situation.
 
-### August onward — supply/demand balance plus renewed supply risk
+### August onward: supply/demand balance plus renewed supply risk
 
 The later episode was more mixed in the source analysis.
 

@@ -56,8 +56,8 @@ prompt_status: not_provided
 
 ### PMI 差距
 
-- EU Manufacturing PMI **46.0** vs US **48.5** — 相差 -2.5，偏向支持美元
-- EU Services PMI **51.5** vs US **54.0** — 同樣相差 -2.5
+- EU Manufacturing PMI **46.0** vs US **48.5**: 相差 -2.5，偏向支持美元
+- EU Services PMI **51.5** vs US **54.0**: 同樣相差 -2.5
 
 ### 就業及通脹
 

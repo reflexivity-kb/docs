@@ -34,7 +34,7 @@ prompt_status: present
 ## Prompt used
 > [!IMPORTANT]
 > Has an inversion of the US 2-year / 10-year Treasury spread historically predicted a recession nine to twelve months later?
-The source examines 1976–2025 and tests the familiar yield-curve rule across several lead windows. The broader purpose is to ask whether a widely repeated market heuristic survives an explicit data test — including false positives and missed recessions.
+The source examines 1976–2025 and tests the familiar yield-curve rule across several lead windows. The broader purpose is to ask whether a widely repeated market heuristic survives an explicit data test - including false positives and missed recessions.
 
 > **Data-quality caution:** the source contains values whose construction and definitions should be rechecked. In particular, its statement that the curve was inverted for **83.5% of the period since 1976** appears unusual and requires revalidation. This page records the research output faithfully; it does not present that statistic as a verified general fact.
 

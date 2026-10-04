@@ -19,7 +19,7 @@ source_url: https://reflexivity.com/app/stream/focus?activeDrawer=insights&entit
 prompt_status: not_provided
 -->
 
-# Gulf Resources: 애널리스트 매출 전망 하향 (GURE) — 약세 시그널
+# Gulf Resources: 애널리스트 매출 전망 하향 (GURE): 약세 시그널
 
 <!-- locale-switcher:start -->
 **Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/gulf-resources-analyst-sales-forecast-decline-gure.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/Gulf-Resources-アナリスト売上予想の低下-GURE-弱気シグナル.md) · **한국어** · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/Gulf-Resources-分析师下调销售预测-GURE.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/Gulf-Resources-分析師下調銷售預測-GURE.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/Gulf-Resources-分析師下調銷售預測-GURE.md)

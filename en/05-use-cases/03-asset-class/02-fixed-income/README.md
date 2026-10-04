@@ -18,7 +18,7 @@ These pages preserve source context, dated observations, limitations, and uncert
 
 ## QUICK Partner-Provided Use Cases
 
-- [Analyze the global rates outlook and the implications for USD/JPY](global-rates-outlook-and-usdjpy.md) — QUICK | 2026-09-30
+- [Analyze the global rates outlook and the implications for USD/JPY](global-rates-outlook-and-usdjpy.md): QUICK | 2026-09-30
 
 ---
 

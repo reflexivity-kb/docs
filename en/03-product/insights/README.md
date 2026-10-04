@@ -10,11 +10,11 @@ Reflexivity Insights organize market and company developments into research work
 
 A typical Insight can be read through five layers:
 
-1. **Signal** — what changed and how the relevant market moved.
-2. **Top takeaways** — the immediate research implications.
-3. **Reflexivity Graph** — related companies, themes, exposures, and transmission paths.
-4. **What to watch** — evidence that can confirm, weaken, or redirect the current interpretation.
-5. **Ask Alfred next** — follow-up questions that continue the research from the surfaced cohort.
+1. **Signal**: what changed and how the relevant market moved.
+2. **Top takeaways**: the immediate research implications.
+3. **Reflexivity Graph**: related companies, themes, exposures, and transmission paths.
+4. **What to watch**: evidence that can confirm, weaken, or redirect the current interpretation.
+5. **Ask Alfred next**: follow-up questions that continue the research from the surfaced cohort.
 
 This page does not duplicate the canonical examples. It links to the existing Use Case articles where the research examples live.
 

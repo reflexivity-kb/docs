@@ -12,18 +12,18 @@ Explore Reflexivity examples by **persona**, **insight type**, or **asset class*
 ## Browse by Persona
 
 - [Wealth Management / RIA](01-investor-type/01-wealth-management-RIA)
-- [Hedge Fund](01-investor-type/02-hedge-fund) — Tier 1 / 2 / 3 are shown as audience classifications within the index
+- [Hedge Fund](01-investor-type/02-hedge-fund): Tier 1 / 2 / 3 are shown as audience classifications within the index
 - [Long-only Asset Manager](01-investor-type/03-long-only-asset-manager)
 
 Browse examples relevant to each investor type. Some examples may appear in more than one browsing view when the same research question is relevant to multiple audiences.
 
 ## Browse by Insight Type
 
-- [Market Catalyst](02-insight-type/market-catalyst.md) — 10 examples
-- [Geopolitical Catalyst](02-insight-type/geopolitical-catalyst.md) — 1 example
-- [Company Catalyst](02-insight-type/company-catalyst.md) — 9 examples
-- [Earnings Catalyst](02-insight-type/earnings-catalyst.md) — 8 examples
-- [Scenario Insight](02-insight-type/scenario-insight.md) — 5 examples
+- [Market Catalyst](02-insight-type/market-catalyst.md): 10 examples
+- [Geopolitical Catalyst](02-insight-type/geopolitical-catalyst.md): 1 example
+- [Company Catalyst](02-insight-type/company-catalyst.md): 9 examples
+- [Earnings Catalyst](02-insight-type/earnings-catalyst.md): 8 examples
+- [Scenario Insight](02-insight-type/scenario-insight.md): 5 examples
 
 ## Browse by Asset Class
 

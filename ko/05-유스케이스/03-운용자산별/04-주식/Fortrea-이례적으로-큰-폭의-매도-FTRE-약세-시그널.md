@@ -19,7 +19,7 @@ source_url: https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-
 prompt_status: not_provided
 -->
 
-# Fortrea: 이례적으로 큰 폭의 매도 (FTRE) — 약세 시그널
+# Fortrea: 이례적으로 큰 폭의 매도 (FTRE): 약세 시그널
 
 <!-- locale-switcher:start -->
 **Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/fortrea-unusually-large-selloff-ftre.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/Fortrea-異例の大幅下落-FTRE-弱気シグナル.md) · **한국어** · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/Fortrea-异常大幅抛售-FTRE.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/Fortrea-異常大幅拋售-FTRE.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/Fortrea-異常大幅拋售-FTRE.md)

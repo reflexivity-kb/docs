@@ -51,38 +51,38 @@ The original prompt did not require listed companies only and did not yet apply 
 ### Gene editing
 
 **United States**
-- CRISPR Therapeutics — gene-editing therapies using CRISPR-Cas9
-- Intellia Therapeutics — CRISPR-based genome-editing medicines
-- Editas Medicine — gene-editing therapies for genetic disease
+- CRISPR Therapeutics: gene-editing therapies using CRISPR-Cas9
+- Intellia Therapeutics: CRISPR-based genome-editing medicines
+- Editas Medicine: gene-editing therapies for genetic disease
 
 **Japan**
-- Takara Bio — gene-transfer and analysis technologies; gene / regenerative medicine research
-- SanBio — regenerative-medicine product development
-- Gene Techno Science — gene-therapy development and manufacturing-related activity in the source
+- Takara Bio: gene-transfer and analysis technologies; gene / regenerative medicine research
+- SanBio: regenerative-medicine product development
+- Gene Techno Science: gene-therapy development and manufacturing-related activity in the source
 
 ### Satellite technology
 
 **United States**
-- Maxar Technologies — Earth-observation imagery and geospatial services
-- Planet Labs — small-satellite constellations and frequent Earth imaging
-- SpaceX — Starlink satellite internet
+- Maxar Technologies: Earth-observation imagery and geospatial services
+- Planet Labs: small-satellite constellations and frequent Earth imaging
+- SpaceX: Starlink satellite internet
 
 **Japan**
-- Mitsubishi Electric — satellite buses and onboard equipment
-- NEC — satellite communications, ground systems, and onboard equipment
-- Canon Electronics — small-satellite development and manufacturing
+- Mitsubishi Electric: satellite buses and onboard equipment
+- NEC: satellite communications, ground systems, and onboard equipment
+- Canon Electronics: small-satellite development and manufacturing
 
 ### Space exploration
 
 **United States**
-- SpaceX — reusable launch systems and space transportation
-- Blue Origin — launch vehicles and space infrastructure
-- Lockheed Martin — spacecraft and systems for exploration missions
+- SpaceX: reusable launch systems and space transportation
+- Blue Origin: launch vehicles and space infrastructure
+- Lockheed Martin: spacecraft and systems for exploration missions
 
 **Japan**
-- Mitsubishi Heavy Industries — launch systems and launch services
-- JAXA — public space agency; included because the source prompt was not limited to listed companies
-- IHI — rocket-engine and space-development exposure
+- Mitsubishi Heavy Industries: launch systems and launch services
+- JAXA: public space agency; included because the source prompt was not limited to listed companies
+- IHI: rocket-engine and space-development exposure
 
 ### Copper mining
 

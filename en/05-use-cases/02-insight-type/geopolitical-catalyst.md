@@ -4,7 +4,7 @@ These examples are dated platform outputs. Check them against current market dat
 
 ## Wealth Management / RIA
 
-- [Trump Threatens Spain Trade Ties (EWP)](../01-investor-type/01-wealth-management-RIA/trump-threatens-spain-trade-ties-ewp.md) — July 8, 2026 — Bearish
+- [Trump Threatens Spain Trade Ties (EWP)](../01-investor-type/01-wealth-management-RIA/trump-threatens-spain-trade-ties-ewp.md): July 8, 2026: Bearish
 
 ---
 

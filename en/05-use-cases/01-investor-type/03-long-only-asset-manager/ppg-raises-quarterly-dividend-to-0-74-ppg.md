@@ -45,7 +45,7 @@ A dividend raise is a clean, low-noise signal for a quality-focused, buy-and-hol
 The platform frames it as a management-confidence signal on cash flow while flagging that the increase is modest and unlikely to reset the core earnings debate on its own.
 ## Workflow
 
-The PM gets a ready-made read on capital-allocation posture — payout raised to $0.74 from $0.71, board-approved, record date Aug. 10 and pay date Sept. 11 — to slot into a long-term position review.
+The PM gets a ready-made read on capital-allocation posture - payout raised to $0.74 from $0.71, board-approved, record date Aug. 10 and pay date Sept. 11 - to slot into a long-term position review.
 
 ## Resource
 

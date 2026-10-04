@@ -58,10 +58,10 @@ editorial_reviewed: 2026-10-04
 
 这份 Insight 没有停留在 PMI 标题数字，而是把影响拆成多个传导路径：
 
-- **Industrial Machinery** — 通过机械、自动化、材料、产能利用与积压订单体现的直接工业敞口
-- **GDP Growth** — 延伸到大盘、设备租赁、MRO 和货运的更广泛周期性影响
-- **Interest Rate Sensitivity** — 更强经济活动与较不利贴现率环境之间的张力
-- **Country / Region Impact** — 根据当地制造业敞口、利率与汇率条件形成不同地区影响
+- **Industrial Machinery**: 通过机械、自动化、材料、产能利用与积压订单体现的直接工业敞口
+- **GDP Growth**: 延伸到大盘、设备租赁、MRO 和货运的更广泛周期性影响
+- **Interest Rate Sensitivity**: 更强经济活动与较不利贴现率环境之间的张力
+- **Country / Region Impact**: 根据当地制造业敞口、利率与汇率条件形成不同地区影响
 
 Industrial Machinery 群组包括 Caterpillar、Deere、Honeywell、Emerson Electric 和 Freeport-McMoRan，并分别展示各公司的关联、传导路径和下一步需要观察的证据。
 

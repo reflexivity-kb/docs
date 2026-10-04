@@ -59,10 +59,10 @@ In this dated Reflexivity output, new U.S. limits on advanced AI-accelerator exp
 
 The Insight separates first-order policy exposure from second-order demand and guidance risk.
 
-- **AI Chips** — Nvidia, AMD, Broadcom, Marvell Technology, and TSMC are mapped by exposure role, transmission path, and the next evidence to watch.
-- **Export Restrictions** — the analysis distinguishes companies directly tied to covered accelerator categories from names exposed through customer deployment plans and fabless demand.
-- **Earnings Guidance** — the next question becomes whether shipment timing, regional demand visibility, or customer caution changes company guidance.
-- **Country / Region Impact** — the U.S. is treated as the policy source, while Taiwan and South Korea are shown primarily through manufacturing and supply-chain read-through.
+- **AI Chips**: Nvidia, AMD, Broadcom, Marvell Technology, and TSMC are mapped by exposure role, transmission path, and the next evidence to watch.
+- **Export Restrictions**: the analysis distinguishes companies directly tied to covered accelerator categories from names exposed through customer deployment plans and fabless demand.
+- **Earnings Guidance**: the next question becomes whether shipment timing, regional demand visibility, or customer caution changes company guidance.
+- **Country / Region Impact**: the U.S. is treated as the policy source, while Taiwan and South Korea are shown primarily through manufacturing and supply-chain read-through.
 
 This structure makes it possible to distinguish a direct export-control hit from a broader reassessment of AI infrastructure demand.
 

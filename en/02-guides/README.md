@@ -9,7 +9,7 @@ Usage, onboarding guides, and frequently asked questions (FAQ) are collected her
 
 ## Platform resources (access required)
 
-- [Technical Reference](https://github.com/reflexivity-kb/platform/blob/main/en/02-guides/technical-reference/README.md) — REST API reference and AI/MCP connection guides.
+- [Technical Reference](https://github.com/reflexivity-kb/platform/blob/main/en/02-guides/technical-reference/README.md): REST API reference and AI/MCP connection guides.
 
 ## FAQ
 

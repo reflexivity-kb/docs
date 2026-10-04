@@ -12,26 +12,26 @@
 ## 依角色瀏覽
 
 - [財富管理 / RIA](01-依投資者類型/01-財富管理RIA)
-- [對沖基金](01-依投資者類型/02-對沖基金) — Tier 1 / 2 / 3 作為目標使用者分類顯示
+- [對沖基金](01-依投資者類型/02-對沖基金): Tier 1 / 2 / 3 作為目標使用者分類顯示
 - [Long-only 資產管理人](01-依投資者類型/03-長期多頭資產管理人)
 
 可依不同投資者類型查看相關研究案例。同一案例若適用於多個受眾，也可能出現在多個瀏覽入口。
 
 ## 依洞察類型瀏覽
 
-- [Market Catalyst](02-依洞察類型/market-catalyst.md) — 10 篇
-- [Geopolitical Catalyst](02-依洞察類型/geopolitical-catalyst.md) — 1 篇
-- [Company Catalyst](02-依洞察類型/company-catalyst.md) — 9 篇
-- [Earnings Catalyst](02-依洞察類型/earnings-catalyst.md) — 8 篇
-- [Scenario Insight](02-依洞察類型/scenario-insight.md) — 5 篇
+- [Market Catalyst](02-依洞察類型/market-catalyst.md): 10 篇
+- [Geopolitical Catalyst](02-依洞察類型/geopolitical-catalyst.md): 1 篇
+- [Company Catalyst](02-依洞察類型/company-catalyst.md): 9 篇
+- [Earnings Catalyst](02-依洞察類型/earnings-catalyst.md): 8 篇
+- [Scenario Insight](02-依洞察類型/scenario-insight.md): 5 篇
 
 ## 依資產類別瀏覽
 
-- [FX](03-依資產類別/01-FX) — 3 篇案例
-- [固定收益](03-依資產類別/02-固定收益) — 9 篇案例
-- [總體](03-依資產類別/03-總體) — 8 篇案例
-- [股票](03-依資產類別/04-股票) — 13 篇案例
-- [多資產](03-依資產類別/05-多資產) — 11 篇案例
+- [FX](03-依資產類別/01-FX): 3 篇案例
+- [固定收益](03-依資產類別/02-固定收益): 9 篇案例
+- [總體](03-依資產類別/03-總體): 8 篇案例
+- [股票](03-依資產類別/04-股票): 13 篇案例
+- [多資產](03-依資產類別/05-多資產): 11 篇案例
 
 同一案例可能適用於多個角色或資產類別，因此會在相應的多個瀏覽入口中呈現。
 

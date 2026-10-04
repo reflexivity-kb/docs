@@ -9,7 +9,7 @@
 
 ## Platform 資料（需要存取權限）
 
-- [技術參考](https://github.com/reflexivity-kb/platform/blob/main/zh-hk/02-使用指南/技術參考/README.md) — REST API 及 AI/MCP 連接技術資料。
+- [技術參考](https://github.com/reflexivity-kb/platform/blob/main/zh-hk/02-使用指南/技術參考/README.md): REST API 及 AI/MCP 連接技術資料。
 
 ## FAQ
 

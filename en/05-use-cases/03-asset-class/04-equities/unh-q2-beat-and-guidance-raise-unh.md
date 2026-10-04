@@ -46,10 +46,10 @@ The approved source does not specify the exact prompt used.
 A large-cap beat-and-raise moves an entire book, and a Tier 2 PM needs a fast read on whether the print changes the thesis or just the tape.
 ## Compelling
 
-The platform frames it as a fundamentals reset — margin control and a higher profit outlook — that matters more than the prior AI narrative, rather than a one-day pop.
+The platform frames it as a fundamentals reset - margin control and a higher profit outlook - that matters more than the prior AI narrative, rather than a one-day pop.
 ## Workflow
 
-The PM gets the numbers ready to act on — Q2 EPS $6.38 vs $4.85 est., revenue $112.03B vs $110.81B, 2026 EPS guide $19.50-$20.00, ~+6-7% premarket — to size the position and screen managed-care peers.
+The PM gets the numbers ready to act on - Q2 EPS $6.38 vs $4.85 est., revenue $112.03B vs $110.81B, 2026 EPS guide $19.50-$20.00, ~+6-7% premarket - to size the position and screen managed-care peers.
 
 ## Resource
 

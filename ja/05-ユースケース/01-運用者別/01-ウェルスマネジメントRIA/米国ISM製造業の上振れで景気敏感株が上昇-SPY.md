@@ -54,10 +54,10 @@ source_manifest: RX-USECASE-0008
 
 このInsightでは、PMIの上振れを単一のマクロ指標として見るのではなく、複数の経路に分けて確認します。
 
-- **Industrial Machinery** — 機械、オートメーション、素材、設備稼働、受注残を通じた直接的な恩恵
-- **GDP Growth** — 株式市場、設備レンタル、MRO、貨物輸送まで広がる景気敏感の波及
-- **Interest Rate Sensitivity** — 景気改善と、金利上昇によるバリュエーション負担の綱引き
-- **Country / Region Impact** — 各国の製造業エクスポージャー、金利、為替条件による違い
+- **Industrial Machinery**: 機械、オートメーション、素材、設備稼働、受注残を通じた直接的な恩恵
+- **GDP Growth**: 株式市場、設備レンタル、MRO、貨物輸送まで広がる景気敏感の波及
+- **Interest Rate Sensitivity**: 景気改善と、金利上昇によるバリュエーション負担の綱引き
+- **Country / Region Impact**: 各国の製造業エクスポージャー、金利、為替条件による違い
 
 Industrial Machineryのコホートでは、Caterpillar、Deere、Honeywell、Emerson Electric、Freeport-McMoRanについて、関連性、波及経路、次に確認すべき材料が整理されています。
 

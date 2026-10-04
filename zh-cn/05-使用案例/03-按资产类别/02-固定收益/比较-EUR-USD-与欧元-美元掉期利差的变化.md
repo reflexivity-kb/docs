@@ -13,7 +13,7 @@ publication_mode: faithful-source-preserving
 prompt_status: present
 -->
 
-# 比较 EUR/USD 与欧元—美元掉期利差的变化
+# 比较 EUR/USD 与欧元: 美元掉期利差的变化
 
 <!-- locale-switcher:start -->
 **Languages:** [English](../../../../en/05-use-cases/03-asset-class/02-fixed-income/eurusd-vs-eur-usd-swap-spread.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/02-債券/EUR-USDの動きとEUR・USDスワップ差の動きを比較する.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/02-채권/EUR-USD-움직임과-EUR·USD-스왑-금리차-비교하기.md) · **简体中文** · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/02-固定收益/比較-EUR-USD-與-EUR-USD-Swap-利差的變動.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/02-固定收益/比較-EUR-USD-走勢與-EUR／USD-Swap-Spread.md)

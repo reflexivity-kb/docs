@@ -40,9 +40,9 @@ Cross-asset examples are also included when they help connect equity analysis wi
 
 ## QUICK Partner-Provided Use Cases
 
-- [Analyze the impact of NVIDIA's $150 billion share-repurchase increase](nvidia-share-repurchase-impact.md) — QUICK | 2026-09-29
-- [Prepare for Micron earnings with the Earnings Preview workflow](micron-earnings-preview-workflow.md) — QUICK | 2026-09-30
-- [Compare AI, semiconductor and data-center themes in the US and Japan](ai-semiconductor-data-center-themes-us-japan.md) — QUICK | 2026-10-01
+- [Analyze the impact of NVIDIA's $150 billion share-repurchase increase](nvidia-share-repurchase-impact.md): QUICK | 2026-09-29
+- [Prepare for Micron earnings with the Earnings Preview workflow](micron-earnings-preview-workflow.md): QUICK | 2026-09-30
+- [Compare AI, semiconductor and data-center themes in the US and Japan](ai-semiconductor-data-center-themes-us-japan.md): QUICK | 2026-10-01
 
 ---
 

@@ -49,7 +49,7 @@ A small bolt-on AI acquisition is exactly the kind of under-covered move a solo 
 The platform reframes it as an enterprise-software / retail-workflow push rather than a delivery story, and flags the -2.6% reaction despite the strategic logic.
 ## Insight
 
-The PM gets the deal specifics in one place — target Arpalus, shelf-intelligence use case, >95% claimed accuracy, ~100,000 stores across 2,200+ banners — to judge whether the market’s skepticism is an opportunity.
+The PM gets the deal specifics in one place - target Arpalus, shelf-intelligence use case, >95% claimed accuracy, ~100,000 stores across 2,200+ banners - to judge whether the market’s skepticism is an opportunity.
 
 ## Resource
 

@@ -46,10 +46,10 @@ It starts with the event screen, uses previews to define what matters before the
 
 The source lists the following Japan-time events for that week:
 
-- Home Depot — Aug. 18, 19:00 JST
-- Target — Aug. 19, 19:30 JST
-- Walmart — Aug. 20, 20:02 JST
-- Ross — Aug. 21, 05:00 JST
+- Home Depot: Aug. 18, 19:00 JST
+- Target: Aug. 19, 19:30 JST
+- Walmart: Aug. 20, 20:02 JST
+- Ross: Aug. 21, 05:00 JST
 
 The platform workflow opens the **Events** view to see companies reporting on each date.
 

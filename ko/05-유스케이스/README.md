@@ -12,26 +12,26 @@ Reflexivity의 사례를 **페르소나별**, **인사이트 유형별**, 또는
 ## 페르소나별
 
 - [Wealth Management / RIA](01-운용자별/01-웰스매니지먼트RIA)
-- [헤지펀드](01-운용자별/02-헤지펀드) — Tier 1 / 2 / 3은 대상 사용자 분류로 표시
+- [헤지펀드](01-운용자별/02-헤지펀드): Tier 1 / 2 / 3은 대상 사용자 분류로 표시
 - [Long-only Asset Manager](01-운용자별/03-롱온리자산운용사)
 
 각 투자자 유형과 관련된 리서치 사례를 모아 볼 수 있습니다. 하나의 사례가 여러 투자자 유형과 관련될 경우 여러 탐색 페이지에서 함께 소개될 수 있습니다.
 
 ## 인사이트 유형별
 
-- [Market Catalyst](02-인사이트유형별/market-catalyst.md) — 10건
-- [Geopolitical Catalyst](02-인사이트유형별/geopolitical-catalyst.md) — 1건
-- [Company Catalyst](02-인사이트유형별/company-catalyst.md) — 9건
-- [Earnings Catalyst](02-인사이트유형별/earnings-catalyst.md) — 8건
-- [Scenario Insight](02-인사이트유형별/scenario-insight.md) — 5건
+- [Market Catalyst](02-인사이트유형별/market-catalyst.md): 10건
+- [Geopolitical Catalyst](02-인사이트유형별/geopolitical-catalyst.md): 1건
+- [Company Catalyst](02-인사이트유형별/company-catalyst.md): 9건
+- [Earnings Catalyst](02-인사이트유형별/earnings-catalyst.md): 8건
+- [Scenario Insight](02-인사이트유형별/scenario-insight.md): 5건
 
 ## 운용자산별
 
-- [FX](03-운용자산별/01-FX) — 3개 사례
-- [채권](03-운용자산별/02-채권) — 9개 사례
-- [매크로](03-운용자산별/03-매크로) — 8개 사례
-- [주식](03-운용자산별/04-주식) — 13개 사례
-- [멀티에셋](03-운용자산별/05-멀티에셋) — 11개 사례
+- [FX](03-운용자산별/01-FX): 3개 사례
+- [채권](03-운용자산별/02-채권): 9개 사례
+- [매크로](03-운용자산별/03-매크로): 8개 사례
+- [주식](03-운용자산별/04-주식): 13개 사례
+- [멀티에셋](03-운용자산별/05-멀티에셋): 11개 사례
 
 하나의 유스케이스가 여러 자산군이나 투자자 유형과 관련될 수 있으며, 해당되는 여러 탐색 페이지에서 함께 확인할 수 있습니다.
 

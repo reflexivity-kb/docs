@@ -55,7 +55,7 @@ The source interpretation was that the authorization was large but financially s
 
 | Company | Announcement | Date | Next trading day | About one month later |
 |---|---:|---|---:|---:|
-| NVIDIA | +$150B | 2026-09-28 | +1.7% | — |
+| NVIDIA | +$150B | 2026-09-28 | +1.7% |: |
 | Meta | $50B | 2024-02-01 | +20.3% | +27.2% |
 | Alphabet | $70B | 2024-04-25 | +10.2% | +12.2% |
 | Apple | $110B | 2024-05-02 | +6.0% | +11.1% |

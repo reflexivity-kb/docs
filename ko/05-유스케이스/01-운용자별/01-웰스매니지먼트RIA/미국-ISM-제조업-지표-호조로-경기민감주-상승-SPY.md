@@ -58,10 +58,10 @@ editorial_reviewed: 2026-10-04
 
 이 Insight는 PMI 헤드라인에 그치지 않고 여러 전파 경로를 나눠 보여줍니다.
 
-- **Industrial Machinery** — 기계, 자동화, 소재, 가동률, 수주잔고를 통한 직접적인 산업 노출
-- **GDP Growth** — 시장 전반, 장비 임대, MRO, 화물운송으로 이어지는 더 넓은 경기민감 경로
-- **Interest Rate Sensitivity** — 개선된 경기활동과 덜 우호적인 할인율 환경 사이의 긴장
-- **Country / Region Impact** — 각국 제조업 노출, 금리, 통화 여건에 따라 달라지는 지역별 영향
+- **Industrial Machinery**: 기계, 자동화, 소재, 가동률, 수주잔고를 통한 직접적인 산업 노출
+- **GDP Growth**: 시장 전반, 장비 임대, MRO, 화물운송으로 이어지는 더 넓은 경기민감 경로
+- **Interest Rate Sensitivity**: 개선된 경기활동과 덜 우호적인 할인율 환경 사이의 긴장
+- **Country / Region Impact**: 각국 제조업 노출, 금리, 통화 여건에 따라 달라지는 지역별 영향
 
 Industrial Machinery 코호트에는 Caterpillar, Deere, Honeywell, Emerson Electric, Freeport-McMoRan이 포함되며, 각 종목별 연결고리와 전파 경로, 다음 확인 포인트를 함께 보여줍니다.
 

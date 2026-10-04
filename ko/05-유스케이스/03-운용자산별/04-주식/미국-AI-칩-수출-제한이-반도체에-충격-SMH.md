@@ -61,10 +61,10 @@ editorial_reviewed: 2026-10-04
 
 이 Insight는 1차 정책 노출과 2차 수요·가이던스 리스크를 구분합니다.
 
-- **AI Chips** — Nvidia, AMD, Broadcom, Marvell Technology, TSMC를 노출 역할, 전파 경로, 다음 확인 포인트별로 연결합니다.
-- **Export Restrictions** — 규제 대상 가속기 범주에 직접 연결된 기업과 고객의 배치 계획·fabless 수요를 통해 간접 노출되는 기업을 구분합니다.
-- **Earnings Guidance** — 출하 시점, 지역별 수요 가시성, 고객의 보수적 대응이 회사 가이던스에 영향을 주는지가 다음 질문이 됩니다.
-- **Country / Region Impact** — 미국은 정책의 출발점으로, 대만과 한국은 주로 제조 및 공급망 경로로 구분해 보여줍니다.
+- **AI Chips**: Nvidia, AMD, Broadcom, Marvell Technology, TSMC를 노출 역할, 전파 경로, 다음 확인 포인트별로 연결합니다.
+- **Export Restrictions**: 규제 대상 가속기 범주에 직접 연결된 기업과 고객의 배치 계획·fabless 수요를 통해 간접 노출되는 기업을 구분합니다.
+- **Earnings Guidance**: 출하 시점, 지역별 수요 가시성, 고객의 보수적 대응이 회사 가이던스에 영향을 주는지가 다음 질문이 됩니다.
+- **Country / Region Impact**: 미국은 정책의 출발점으로, 대만과 한국은 주로 제조 및 공급망 경로로 구분해 보여줍니다.
 
 이 구조를 통해 직접적인 수출규제 영향과 AI 인프라 수요 전반의 재평가를 분리해 볼 수 있습니다.
 

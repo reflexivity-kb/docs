@@ -55,10 +55,10 @@ July ISM Manufacturing PMI came in at **53.3 versus 52.8 expected**. New orders 
 
 The Insight did not stop at the headline PMI beat. It separated several transmission channels:
 
-- **Industrial Machinery** — direct operating exposure through machinery, automation, materials, utilization, and backlog.
-- **GDP Growth** — a broader cyclical read-through across market, rental, MRO, and freight exposures.
-- **Interest Rate Sensitivity** — the tension between stronger activity and a less supportive discount-rate backdrop.
-- **Country / Region Impact** — different read-throughs depending on local manufacturing exposure, yields, and currency conditions.
+- **Industrial Machinery**: direct operating exposure through machinery, automation, materials, utilization, and backlog.
+- **GDP Growth**: a broader cyclical read-through across market, rental, MRO, and freight exposures.
+- **Interest Rate Sensitivity**: the tension between stronger activity and a less supportive discount-rate backdrop.
+- **Country / Region Impact**: different read-throughs depending on local manufacturing exposure, yields, and currency conditions.
 
 The Industrial Machinery cohort included Caterpillar, Deere, Honeywell, Emerson Electric, and Freeport-McMoRan, with the relationship, transmission path, and next evidence to watch shown for each name.
 

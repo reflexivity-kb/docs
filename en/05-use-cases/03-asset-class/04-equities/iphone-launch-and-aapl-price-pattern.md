@@ -83,7 +83,7 @@ This matters because a positive share-price reaction to pricing does not automat
 
 ## Conclusion
 
-The source sees the latest event as partly consistent with history — launch-day reaction remained muted — but unusual in the strength of the next-day buying response.
+The source sees the latest event as partly consistent with history - launch-day reaction remained muted - but unusual in the strength of the next-day buying response.
 
 It attributes that difference primarily to the pricing strategy and demand expectations, while identifying **initial sales, shipment data, and margin impact** as the next evidence needed to test the thesis.
 
