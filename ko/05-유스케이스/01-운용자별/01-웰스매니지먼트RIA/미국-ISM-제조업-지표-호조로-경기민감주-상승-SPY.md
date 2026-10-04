@@ -40,9 +40,6 @@ editorial_reviewed: 2026-10-04
 
 ## Insight 화면
 
-![Reflexivity Insight 개요 화면](../../../../assets/use-cases/RX-USECASE-0008/insight-overview.webp)
-
-*당시 Insight의 이벤트 요약과 주요 포인트 화면입니다.*
 
 ![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0008/reflexivity-graph.webp)
 
