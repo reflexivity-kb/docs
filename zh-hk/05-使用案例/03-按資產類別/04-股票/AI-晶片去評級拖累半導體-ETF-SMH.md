@@ -24,7 +24,7 @@ editorial_reviewed: 2026-10-04
 # AI 晶片去評級拖累半導體 ETF (SMH)
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/ai-chip-de-rating-hits-semiconductor-etfs-smh.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/AI-칩-디레이팅이-반도체-ETF에-충격-SMH.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/AI-芯片去评级拖累半导体-ETF-SMH.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/AI-晶片去評級拖累半導體-ETF-SMH.md) · **繁體中文（香港）**
+**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/ai-chip-de-rating-hits-semiconductor-etfs-smh.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/AIチップのバリュエーション調整で半導体ETFが下落-SMH.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/AI-칩-디레이팅이-반도체-ETF에-충격-SMH.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/AI-芯片去评级拖累半导体-ETF-SMH.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/AI-晶片去評級拖累半導體-ETF-SMH.md) · **繁體中文（香港）**
 <!-- locale-switcher:end -->
 
 [← 股票使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
