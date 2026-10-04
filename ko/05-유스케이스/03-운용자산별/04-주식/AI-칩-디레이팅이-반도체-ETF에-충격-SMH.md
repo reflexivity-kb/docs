@@ -29,7 +29,7 @@ editorial_reviewed: 2026-10-04
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-**페르소나:** 헤지펀드<br>
+**대상 사용자:** 헤지펀드 Tier 1<br>
 **인사이트 유형:** Market Catalyst<br>
 **시그널:** 약세<br>
 **날짜:** 2026-07-16
