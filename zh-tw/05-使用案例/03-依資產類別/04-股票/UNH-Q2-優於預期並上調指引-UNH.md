@@ -24,7 +24,7 @@ source_manifest: RX-USECASE-0015
 # UNH：Q2 優於預期並上調指引 (UNH)
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/unh-q2-beat-and-guidance-raise-unh.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/UNH-Q2-실적-상회-및-가이던스-상향-UNH.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/UNH-Q2-超预期并上调指引-UNH.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/UNH-Q2-優於預期並上調指引-UNH.md)
+**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/unh-q2-beat-and-guidance-raise-unh.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/UNH-第2四半期が予想を上回りガイダンスを引き上げ-UNH.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/UNH-Q2-실적-상회-및-가이던스-상향-UNH.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/UNH-Q2-超预期并上调指引-UNH.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/UNH-Q2-優於預期並上調指引-UNH.md)
 <!-- locale-switcher:end -->
 
 [← 股票使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
