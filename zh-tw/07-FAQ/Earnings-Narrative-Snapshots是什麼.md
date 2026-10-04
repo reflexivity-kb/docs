@@ -1,0 +1,32 @@
+<!--
+id: RX-ARTICLE-0075
+type: article
+language: zh-tw
+locale: zh-tw
+author: Reflexivity GTM Team
+source_created: 2026-08
+published: 2026-10-03
+revised: 2026-10-03
+editorial_reviewed: 2026-10-03
+kb_imported: 2026-10-03
+status: published
+translation_status: current
+-->
+
+# Earnings Narrative Snapshots 是什麼？
+
+<!-- locale-switcher:start -->
+**Languages:** [English](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/en/07-FAQ/what-are-earnings-narrative-snapshots.md) · [日本語](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/ja/07-FAQ/Earnings-Narrative-Snapshotsとは何ですか.md) · [한국어](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/ko/07-FAQ/Earnings-Narrative-Snapshots란-무엇인가요.md) · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/zh-cn/07-FAQ/Earnings-Narrative-Snapshots是什么.md) · **繁體中文（台灣）** · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/zh-hk/07-FAQ/Earnings-Narrative-Snapshots是甚麼.md)
+<!-- locale-switcher:end -->
+
+[← FAQ](README.md) · [2026 年 7 月產品路線圖](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/04-版本說明/2026-07-產品路線圖.md)
+
+Earnings Narrative Snapshots 旨在把財報理解為持續發展的敘事，而不只是一組數字。它面向所追蹤公司橫向閱讀財報，並幫助使用者更容易辨識接下來可能發生的變化。
+
+**2026 年 7 月路線圖**將其放在年底前路線圖中，**2026 年 8 月產品更新**則將其列為「準備推出」。這些是對應時點的狀態，並不表示今天一定可用。
+
+另請參閱 [2026 年 7 月產品路線圖](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/04-版本說明/2026-07-產品路線圖.md) 與 [2026 年 8 月產品更新快照](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/04-版本說明/2026-08-產品更新快照.md)。
+
+如需確認目前可用狀態或權限，請聯絡 **jim@reflexivity.com**。
+
+[← FAQ](README.md)

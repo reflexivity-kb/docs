@@ -15,7 +15,7 @@
 6. **[各種Articles](06-articles/README.md)**: 公開
 7. **[Knowledge Graph](https://github.com/reflexivity-kb/knowledge-graph)**: 閲覧権限のあるユーザーのみ
 8. **[Data](https://github.com/reflexivity-kb/data)**: 閲覧権限のあるユーザーのみ
-9. **[FAQ](https://github.com/reflexivity-kb/platform/blob/main/ja/02-利用ガイド/FAQ/README.md)**: 閲覧権限のあるユーザーのみ
+9. **[FAQ](07-FAQ/README.md)**: 公開
 
 > 閲覧権限がない場合、GitHubでは非公開リポジトリが「Not Found」と表示されることがあります。
 

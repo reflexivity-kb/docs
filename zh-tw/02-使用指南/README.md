@@ -5,7 +5,8 @@
 <!-- locale-switcher:end -->
 
 [← 繁體中文（台灣）文件選單](../README.md)
-這裡彙整使用方式、入門指南與常見問題（FAQ）。
+
+這裡彙整使用方式與入門指南。
 
 ## Platform 資料（需要存取權限）
 
@@ -13,4 +14,4 @@
 
 ## FAQ
 
-FAQ 會與使用指南一起持續補充。如果找不到需要的答案，請聯絡 **jim@reflexivity.com**。
+常見問題請查看公開的 [FAQ](../07-FAQ/README.md)。

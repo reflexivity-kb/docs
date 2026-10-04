@@ -5,7 +5,8 @@
 <!-- locale-switcher:end -->
 
 [← 简体中文文档菜单](../README.md)
-这里汇总使用方法、入门指南和常见问题（FAQ）。
+
+这里汇总使用方法和入门指南。
 
 ## Platform 资料（需要访问权限）
 
@@ -13,4 +14,4 @@
 
 ## FAQ
 
-FAQ 将与使用指南一起持续补充。如果找不到所需答案，请联系 **jim@reflexivity.com**。
+常见问题请查看公开的 [FAQ](../07-FAQ/README.md)。

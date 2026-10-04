@@ -5,6 +5,7 @@
 <!-- locale-switcher:end -->
 
 [← 日本語のドキュメントメニュー](../README.md)
+
 Reflexivityの基本的な使い方と、実際のプロンプトを使ったオンボーディング向けガイドを掲載しています。
 
 **最終更新: 2026年9月17日**
@@ -16,12 +17,12 @@ Reflexivityの基本的な使い方と、実際のプロンプトを使ったオ
 
 マルチアセット・債券向けガイドでは、Reflexivity Researchが作成した実際の調査例を確認した後、すぐに試せる実習用プロンプトやパートナー提供の事例へ進みます。公開ユースケースから、ログイン後のReflexivityインサイトを開ける例も掲載しています。
 
-一般的なご質問や詳細については **jim@reflexivity.com** までお問い合わせください。
-
 ## Platform資料（アクセス権が必要）
 
 - [技術リファレンス](https://github.com/reflexivity-kb/platform/blob/main/ja/02-利用ガイド/技術リファレンス/README.md): REST APIおよびAI/MCP連携の技術資料です。
 
 ## FAQ
 
-よくある質問も利用ガイドと同じセクションで順次追加します。必要な情報が見つからない場合は **jim@reflexivity.com** までお問い合わせください。
+よくある質問は公開の [FAQ](../07-FAQ/README.md) で確認できます。
+
+一般的なご質問や詳細については **jim@reflexivity.com** までお問い合わせください。
