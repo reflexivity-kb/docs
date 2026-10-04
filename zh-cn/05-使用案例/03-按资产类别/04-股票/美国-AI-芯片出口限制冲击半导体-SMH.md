@@ -24,7 +24,7 @@ editorial_reviewed: 2026-10-04
 # 美国 AI 芯片出口限制冲击半导体 (SMH)
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/us-ai-chip-export-curb-hits-semis-smh.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/미국-AI-칩-수출-제한이-반도체에-충격-SMH.md) · **简体中文** · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/美國-AI-晶片出口限制衝擊半導體-SMH.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/美國-AI-晶片出口限制衝擊半導體-SMH.md)
+**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/us-ai-chip-export-curb-hits-semis-smh.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/米国のAIチップ輸出規制で半導体株が下落-SMH.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/미국-AI-칩-수출-제한이-반도체에-충격-SMH.md) · **简体中文** · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/美國-AI-晶片出口限制衝擊半導體-SMH.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/美國-AI-晶片出口限制衝擊半導體-SMH.md)
 <!-- locale-switcher:end -->
 
 [← 股票使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
