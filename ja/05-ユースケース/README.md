@@ -17,9 +17,9 @@ Reflexivityの調査・分析例を、**運用者別**、**インサイト別**�
 
 ## インサイト別
 
-- [Market Catalyst](02-インサイト別/market-catalyst.md) — 1件
-- [企業カタリスト](02-インサイト別/company-catalyst.md) — 4件
-- [Earnings Catalyst](02-インサイト別/earnings-catalyst.md) — 1件
+- [Market Catalyst](02-インサイト別/market-catalyst.md) — 5件
+- [企業カタリスト](02-インサイト別/company-catalyst.md) — 5件
+- [Earnings Catalyst](02-インサイト別/earnings-catalyst.md) — 2件
 - [シナリオ分析](02-インサイト別/scenario-insight.md) — 4件
 
 現在公開済みの日本語ユースケースを、インサイトの種類からご覧いただけます。
