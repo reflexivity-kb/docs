@@ -8,7 +8,7 @@
 
 一般公開できる各種Articlesやリサーチ資料は、このセクションに掲載します。
 
-機関投資家向けAIリサーチ、リサーチワークフロー、Alfred、各種連携、リレーションシップ・インテリジェンスに関するアクセス制限付きの各種Articlesは Reflexivity Platform で確認できます。
+機関投資家向けAIリサーチ、リサーチワークフロー、Alfred、各種連携、リレーションシップ・インテリジェンスに関するアクセス制限付きコンテンツは、Reflexivity Platform の **各種Articles** で確認できます。
 
 [Platformで各種Articlesを開く（アクセス権が必要）](https://github.com/reflexivity-kb/platform/blob/main/ja/06-articles/README.md)
 
