@@ -27,7 +27,7 @@ source_manifest: RX-USECASE-0015
 
 [← 株式ユースケース](README.md) · [運用資産別](../README.md) · [ユースケース一覧](../../README.md)
 
-**対象ユーザー:** ヘッジファンド Tier 2  
+**対象ユーザー:** ヘッジファンド  
 **インサイトの種類:** Earnings Catalyst  
 **シグナル:** 強気  
 **対象日:** 2026年7月16日
