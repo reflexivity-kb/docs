@@ -27,7 +27,7 @@ editorial_reviewed: 2026-10-04
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
 
-**Persona:** Hedge Fund
+**Persona:** Hedge Fund  
 **Insight type:** Market Catalyst  
 **Signal:** Bearish  
 **Date:** August 10, 2026
