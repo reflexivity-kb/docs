@@ -4,6 +4,10 @@
 
 ## Reflexivityのユースケース
 
+- [米国のAIチップ輸出規制で半導体株が下落 (SMH)](米国のAIチップ輸出規制で半導体株が下落-SMH.md)
+- [AIチップのバリュエーション調整で半導体ETFが下落 (SMH)](AIチップのバリュエーション調整で半導体ETFが下落-SMH.md)
+- [UNH：第2四半期が予想を上回りガイダンスを引き上げ (UNH)](UNH-第2四半期が予想を上回りガイダンスを引き上げ-UNH.md)
+- [MasTec：16.5億ドルのSuperior買収 (MTZ)](MasTec-16.5億ドルのSuperior買収-MTZ.md)
 - [Gulf Resources：アナリスト売上予想の低下 (GURE)](Gulf-Resources-アナリスト売上予想の低下-GURE-弱気シグナル.md)
 - [ACV：VIPERを全国展開し、ディーラー仕入れを強化 (ACVA)](ACV-VIPERを全国展開し-ディーラー仕入れを強化-ACVA-中立.md)
 - [Fortrea：異例の大幅下落 (FTRE)](Fortrea-異例の大幅下落-FTRE-弱気シグナル.md)
