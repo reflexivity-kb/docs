@@ -16,8 +16,8 @@
 
 ## 關於 Reflexivity
 
-- [Reflexivity 的管理團隊是誰？](Reflexivity的管理团队是谁.md)
-- [Reflexivity 現場示範會展示什麼？](Reflexivity现场演示会展示什麼.md)
+- [Reflexivity 的管理團隊是誰？](Reflexivity的管理團隊是誰.md)
+- [Reflexivity 現場示範會展示什麼？](Reflexivity現場示範會展示什麼.md)
 
 ## Knowledge Graph 與主題
 
@@ -32,7 +32,7 @@
 
 - [Reflexivity 產品路線圖包含哪些內容？](Reflexivity產品路線圖中有哪些即將推出的功能.md)
 - [路線圖功能何時可以使用？](路線圖功能何時可以使用.md)
-- [可以申請提前體驗即將推出的功能嗎？](可以申請提前體驗即將推出的功能.md)
+- [可以申請提前體驗即將推出的功能嗎？](可以申請提前體驗即將推出的功能嗎.md)
 
 ## Alfred 與產品功能
 
