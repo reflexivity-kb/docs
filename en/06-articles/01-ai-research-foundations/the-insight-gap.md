@@ -20,7 +20,7 @@ translation_status: canonical
 **Languages:** **English** · [日本語](../../../ja/06-articles/01-AIリサーチの基礎/投資リサーチのインサイトギャップ.md) · [한국어](../../../ko/06-articles/01-AI-리서치-기초/투자-리서치의-인사이트-갭.md) · [简体中文](../../../zh-cn/06-articles/01-AI研究基础/投资研究的洞察缺口.md) · [繁體中文（台灣）](../../../zh-tw/06-articles/01-AI研究基礎/投資研究的洞察缺口.md) · [繁體中文（香港）](../../../zh-hk/06-articles/01-AI研究基礎/投資研究的洞察缺口.md)
 <!-- locale-switcher:end -->
 
-[← AI Research Foundations](README.md) · [← Articles](../README.md) · [AI-Powered Investment Research](../ai-powered-investment-research.md)
+[← AI Research Foundations](README.md) · [← Articles](../README.md) · [AI-Powered Investment Research (access required)](https://github.com/reflexivity-kb/platform/blob/main/en/06-articles/ai-powered-investment-research.md)
 
 <!-- article-byline:start -->
 **By:** Reflexivity GTM Team [![LinkedIn](https://raw.githubusercontent.com/reflexivity-kb/docs/main/assets/ui/linkedin.svg)](https://www.linkedin.com/company/reflexivityai) · **Published:** 2026-10-03 · **Updated:** 2026-10-03
@@ -61,8 +61,8 @@ That is the insight gap Reflexivity is designed to address.
 ## Related reading
 
 - [From More Information to Knowing What Matters](from-more-information-to-knowing-what-matters.md)
-- [How Reflexivity Is Built Differently](how-reflexivity-is-built-differently.md)
+- [How Reflexivity Is Built Differently (access required)](https://github.com/reflexivity-kb/platform/blob/main/en/06-articles/01-ai-research-foundations/how-reflexivity-is-built-differently.md)
 - [What Auditable AI Means in Investment Research](../02-trust-and-auditability/what-auditable-ai-means-in-investment-research.md)
 - [Finding the Questions You Didn’t Know to Ask](../04-research-workflows/finding-the-questions-you-didnt-know-to-ask.md)
 
-[← AI Research Foundations](README.md) · [← Articles](../README.md) · [AI-Powered Investment Research](../ai-powered-investment-research.md)
+[← AI Research Foundations](README.md) · [← Articles](../README.md) · [AI-Powered Investment Research (access required)](https://github.com/reflexivity-kb/platform/blob/main/en/06-articles/ai-powered-investment-research.md)
