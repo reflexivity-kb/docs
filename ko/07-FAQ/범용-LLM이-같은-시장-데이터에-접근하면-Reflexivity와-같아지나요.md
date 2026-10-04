@@ -16,7 +16,7 @@ translation_status: current
 # 범용 LLM이 같은 시장 데이터에 접근하면 Reflexivity와 같아지나요?
 
 <!-- locale-switcher:start -->
-**Languages:** [English](https://github.com/reflexivity-kb/platform/blob/main/ko/en/07-FAQ/if-a-general-purpose-llm-has-the-same-market-data-is-it-equivalent-to-reflexivity.md) · [日本語](https://github.com/reflexivity-kb/platform/blob/main/ko/ja/07-FAQ/汎用LLMが同じ市場データにアクセスできればReflexivityと同じか.md) · **한국어** · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/ko/zh-cn/07-FAQ/通用LLM接入相同市场数据后是否等同于Reflexivity.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/ko/zh-tw/07-FAQ/通用LLM接入相同市場資料後是否等同於Reflexivity.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/ko/zh-hk/07-FAQ/通用LLM接入相同市場數據後是否等同於Reflexivity.md)
+**Languages:** [English](../../en/07-FAQ/if-a-general-purpose-llm-has-the-same-market-data-is-it-equivalent-to-reflexivity.md) · [日本語](../../ja/07-FAQ/汎用LLMが同じ市場データにアクセスできればReflexivityと同じか.md) · **한국어** · [简体中文](../../zh-cn/07-FAQ/通用LLM接入相同市场数据后是否等同于Reflexivity.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/通用LLM接入相同市場資料後是否等同於Reflexivity.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/通用LLM接入相同市場數據後是否等同於Reflexivity.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [← 이용 가이드](../02-이용가이드/README.md) · [← 한국어 문서 메뉴](https://github.com/reflexivity-kb/docs/blob/main/ko/README.md)

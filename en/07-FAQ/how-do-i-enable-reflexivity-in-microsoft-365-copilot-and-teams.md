@@ -15,7 +15,7 @@ translation_status: canonical
 # How Do I Enable Reflexivity in Microsoft 365 Copilot and Teams?
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](https://github.com/reflexivity-kb/platform/blob/main/en/ja/07-FAQ/Microsoft-365-CopilotとTeamsでReflexivityを有効にするには.md) · [한국어](https://github.com/reflexivity-kb/platform/blob/main/en/ko/07-FAQ/Microsoft-365-Copilot과-Teams에서-Reflexivity를-활성화하려면.md) · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/en/zh-cn/07-FAQ/如何在Microsoft-365-Copilot与Teams中启用Reflexivity.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-tw/07-FAQ/如何在Microsoft-365-Copilot與Teams中啟用Reflexivity.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-hk/07-FAQ/如何在Microsoft-365-Copilot及Teams中啟用Reflexivity.md)
+**Languages:** **English** · [日本語](../../ja/07-FAQ/Microsoft-365-CopilotとTeamsでReflexivityを有効にするには.md) · [한국어](../../ko/07-FAQ/Microsoft-365-Copilot과-Teams에서-Reflexivity를-활성화하려면.md) · [简体中文](../../zh-cn/07-FAQ/如何在Microsoft-365-Copilot与Teams中启用Reflexivity.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/如何在Microsoft-365-Copilot與Teams中啟用Reflexivity.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/如何在Microsoft-365-Copilot及Teams中啟用Reflexivity.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [← Guides](../02-guides/README.md)

@@ -15,7 +15,7 @@ translation_status: canonical
 # Which Microsoft 365 Sources Can Alfred Use?
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](https://github.com/reflexivity-kb/platform/blob/main/en/ja/07-FAQ/AlfredはどのMicrosoft-365データソースを利用できますか.md) · [한국어](https://github.com/reflexivity-kb/platform/blob/main/en/ko/07-FAQ/Alfred는-어떤-Microsoft-365-소스를-사용할-수-있나요.md) · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/en/zh-cn/07-FAQ/Alfred可以使用哪些Microsoft-365数据来源.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-tw/07-FAQ/Alfred可以使用哪些Microsoft-365資料來源.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-hk/07-FAQ/Alfred可以使用哪些Microsoft-365數據來源.md)
+**Languages:** **English** · [日本語](../../ja/07-FAQ/AlfredはどのMicrosoft-365データソースを利用できますか.md) · [한국어](../../ko/07-FAQ/Alfred는-어떤-Microsoft-365-소스를-사용할-수-있나요.md) · [简体中文](../../zh-cn/07-FAQ/Alfred可以使用哪些Microsoft-365数据来源.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/Alfred可以使用哪些Microsoft-365資料來源.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/Alfred可以使用哪些Microsoft-365數據來源.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [← Guides](../02-guides/README.md)

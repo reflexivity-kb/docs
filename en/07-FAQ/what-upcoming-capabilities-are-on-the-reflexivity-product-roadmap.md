@@ -16,7 +16,7 @@ translation_status: canonical
 # What Is on the Reflexivity Product Roadmap?
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](https://github.com/reflexivity-kb/platform/blob/main/en/ja/07-FAQ/Reflexivityの製品ロードマップには今後どのような機能がありますか.md) · [한국어](https://github.com/reflexivity-kb/platform/blob/main/en/ko/07-FAQ/Reflexivity-제품-로드맵에는-앞으로-어떤-기능이-있나요.md) · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/en/zh-cn/07-FAQ/Reflexivity产品路线图中有哪些即将推出的功能.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-tw/07-FAQ/Reflexivity產品路線圖中有哪些即將推出的功能.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-hk/07-FAQ/Reflexivity產品路線圖中有哪些即將推出的功能.md)
+**Languages:** **English** · [日本語](../../ja/07-FAQ/Reflexivityの製品ロードマップには今後どのような機能がありますか.md) · [한국어](../../ko/07-FAQ/Reflexivity-제품-로드맵에는-앞으로-어떤-기능이-있나요.md) · [简体中文](../../zh-cn/07-FAQ/Reflexivity产品路线图中有哪些即将推出的功能.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/Reflexivity產品路線圖中有哪些即將推出的功能.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/Reflexivity產品路線圖中有哪些即將推出的功能.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [Product Roadmap - July 2026](https://github.com/reflexivity-kb/platform/blob/main/en/04-releases/2026-07-product-roadmap.md)

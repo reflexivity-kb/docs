@@ -16,7 +16,7 @@ translation_status: current
 # Reflexivity의 경영진은 누구인가요?
 
 <!-- locale-switcher:start -->
-**Languages:** [English](https://github.com/reflexivity-kb/platform/blob/main/ko/en/07-FAQ/who-leads-reflexivity.md) · [日本語](https://github.com/reflexivity-kb/platform/blob/main/ko/ja/07-FAQ/Reflexivityの経営陣は誰ですか.md) · **한국어** · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/ko/zh-cn/07-FAQ/Reflexivity的管理团队是谁.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/ko/zh-tw/07-FAQ/Reflexivity的管理團隊是誰.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/ko/zh-hk/07-FAQ/Reflexivity的管理團隊是誰.md)
+**Languages:** [English](../../en/07-FAQ/who-leads-reflexivity.md) · [日本語](../../ja/07-FAQ/Reflexivityの経営陣は誰ですか.md) · **한국어** · [简体中文](../../zh-cn/07-FAQ/Reflexivity的管理团队是谁.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/Reflexivity的管理團隊是誰.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/Reflexivity的管理團隊是誰.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [← 이용가이드](../02-이용가이드/README.md) · [AI 기반 투자 리서치](https://github.com/reflexivity-kb/platform/blob/main/ko/06-articles/AI-기반-투자-리서치.md)

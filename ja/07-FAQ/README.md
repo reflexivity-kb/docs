@@ -1,7 +1,7 @@
 # FAQ
 
 <!-- locale-switcher:start -->
-**Languages:** [English](https://github.com/reflexivity-kb/platform/blob/main/ja/en/07-FAQ/README.md) · **日本語** · [한국어](https://github.com/reflexivity-kb/platform/blob/main/ja/ko/07-FAQ/README.md) · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/ja/zh-cn/07-FAQ/README.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/ja/zh-tw/07-FAQ/README.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/ja/zh-hk/07-FAQ/README.md)
+**Languages:** [English](../../en/07-FAQ/README.md) · **日本語** · [한국어](../../ko/07-FAQ/README.md) · [简体中文](../../zh-cn/07-FAQ/README.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/README.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/README.md)
 <!-- locale-switcher:end -->
 
 [← 利用ガイド](../02-利用ガイド/README.md) · [← 日本語のドキュメントメニュー](https://github.com/reflexivity-kb/docs/blob/main/ja/README.md)

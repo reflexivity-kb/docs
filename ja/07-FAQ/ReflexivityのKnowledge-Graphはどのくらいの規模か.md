@@ -16,7 +16,7 @@ translation_status: current
 # ReflexivityのKnowledge Graphはどのくらいの規模ですか？
 
 <!-- locale-switcher:start -->
-**言語:** [English](https://github.com/reflexivity-kb/platform/blob/main/ja/en/07-FAQ/how-large-is-the-reflexivity-knowledge-graph.md) · **日本語** · [한국어](https://github.com/reflexivity-kb/platform/blob/main/ja/ko/07-FAQ/Reflexivity-Knowledge-Graph의-규모는-어느-정도인가.md) · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/ja/zh-cn/07-FAQ/Reflexivity-Knowledge-Graph的规模有多大.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/ja/zh-tw/07-FAQ/Reflexivity-Knowledge-Graph的規模有多大.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/ja/zh-hk/07-FAQ/Reflexivity-Knowledge-Graph的規模有多大.md)
+**言語:** [English](../../en/07-FAQ/how-large-is-the-reflexivity-knowledge-graph.md) · **日本語** · [한국어](../../ko/07-FAQ/Reflexivity-Knowledge-Graph의-규모는-어느-정도인가.md) · [简体中文](../../zh-cn/07-FAQ/Reflexivity-Knowledge-Graph的规模有多大.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/Reflexivity-Knowledge-Graph的規模有多大.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/Reflexivity-Knowledge-Graph的規模有多大.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [← 利用ガイド](../02-利用ガイド/README.md) · [← 日本語のドキュメントメニュー](https://github.com/reflexivity-kb/docs/blob/main/ja/README.md)

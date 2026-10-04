@@ -16,7 +16,7 @@ translation_status: current
 # Reflexivity 现场演示会展示什么？
 
 <!-- locale-switcher:start -->
-**Languages:** [English](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/en/07-FAQ/what-does-a-live-reflexivity-demo-cover.md) · [日本語](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/ja/07-FAQ/Reflexivityのライブデモでは何を確認できますか.md) · [한국어](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/ko/07-FAQ/Reflexivity-라이브-데모에서는-무엇을-볼-수-있나요.md) · **简体中文** · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/zh-tw/07-FAQ/Reflexivity現場示範會展示什麼.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/zh-hk/07-FAQ/Reflexivity現場示範會展示甚麼.md)
+**Languages:** [English](../../en/07-FAQ/what-does-a-live-reflexivity-demo-cover.md) · [日本語](../../ja/07-FAQ/Reflexivityのライブデモでは何を確認できますか.md) · [한국어](../../ko/07-FAQ/Reflexivity-라이브-데모에서는-무엇을-볼-수-있나요.md) · **简体中文** · [繁體中文（台灣）](../../zh-tw/07-FAQ/Reflexivity現場示範會展示什麼.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/Reflexivity現場示範會展示甚麼.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [← 使用指南](../02-使用指南/README.md) · [AI 驱动的投资研究](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/06-articles/AI驱动的投资研究.md)

@@ -16,7 +16,7 @@ translation_status: canonical
 # When Will Roadmap Features Become Available?
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](https://github.com/reflexivity-kb/platform/blob/main/en/ja/07-FAQ/ロードマップ上の機能はいつ利用できるようになりますか.md) · [한국어](https://github.com/reflexivity-kb/platform/blob/main/en/ko/07-FAQ/로드맵-기능은-언제-사용할-수-있나요.md) · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/en/zh-cn/07-FAQ/路线图功能何时可以使用.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-tw/07-FAQ/路線圖功能何時可以使用.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-hk/07-FAQ/路線圖功能何時可以使用.md)
+**Languages:** **English** · [日本語](../../ja/07-FAQ/ロードマップ上の機能はいつ利用できるようになりますか.md) · [한국어](../../ko/07-FAQ/로드맵-기능은-언제-사용할-수-있나요.md) · [简体中文](../../zh-cn/07-FAQ/路线图功能何时可以使用.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/路線圖功能何時可以使用.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/路線圖功能何時可以使用.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [Product Roadmap - July 2026](https://github.com/reflexivity-kb/platform/blob/main/en/04-releases/2026-07-product-roadmap.md)

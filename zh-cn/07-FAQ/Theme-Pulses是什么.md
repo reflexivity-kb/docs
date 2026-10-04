@@ -16,7 +16,7 @@ translation_status: current
 # Theme Pulses 是什么？
 
 <!-- locale-switcher:start -->
-**Languages:** [English](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/en/07-FAQ/what-are-theme-pulses.md) · [日本語](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/ja/07-FAQ/Theme-Pulsesとは何ですか.md) · [한국어](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/ko/07-FAQ/Theme-Pulses란-무엇인가요.md) · **简体中文** · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/zh-tw/07-FAQ/Theme-Pulses是什麼.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/zh-hk/07-FAQ/Theme-Pulses是甚麼.md)
+**Languages:** [English](../../en/07-FAQ/what-are-theme-pulses.md) · [日本語](../../ja/07-FAQ/Theme-Pulsesとは何ですか.md) · [한국어](../../ko/07-FAQ/Theme-Pulses란-무엇인가요.md) · **简体中文** · [繁體中文（台灣）](../../zh-tw/07-FAQ/Theme-Pulses是什麼.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/Theme-Pulses是甚麼.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [2026 年 7 月产品路线图](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/04-发布说明/2026-07-产品路线图.md)

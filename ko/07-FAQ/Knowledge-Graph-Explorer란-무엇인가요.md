@@ -16,7 +16,7 @@ translation_status: current
 # Knowledge Graph Explorer란 무엇인가요?
 
 <!-- locale-switcher:start -->
-**Languages:** [English](https://github.com/reflexivity-kb/platform/blob/main/ko/en/07-FAQ/what-is-knowledge-graph-explorer.md) · [日本語](https://github.com/reflexivity-kb/platform/blob/main/ko/ja/07-FAQ/Knowledge-Graph-Explorerとは何ですか.md) · **한국어** · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/ko/zh-cn/07-FAQ/Knowledge-Graph-Explorer是什么.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/ko/zh-tw/07-FAQ/Knowledge-Graph-Explorer是什麼.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/ko/zh-hk/07-FAQ/Knowledge-Graph-Explorer是甚麼.md)
+**Languages:** [English](../../en/07-FAQ/what-is-knowledge-graph-explorer.md) · [日本語](../../ja/07-FAQ/Knowledge-Graph-Explorerとは何ですか.md) · **한국어** · [简体中文](../../zh-cn/07-FAQ/Knowledge-Graph-Explorer是什么.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/Knowledge-Graph-Explorer是什麼.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/Knowledge-Graph-Explorer是甚麼.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [2026년 7월 제품 로드맵](https://github.com/reflexivity-kb/platform/blob/main/ko/04-릴리스/2026-07-제품-로드맵.md)

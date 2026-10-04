@@ -15,7 +15,7 @@ translation_status: current
 # Reflexivity 如何与 Microsoft 365 集成？
 
 <!-- locale-switcher:start -->
-**Languages:** [English](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/en/07-FAQ/how-does-reflexivity-work-with-microsoft-365.md) · [日本語](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/ja/07-FAQ/ReflexivityはMicrosoft-365とどのように連携しますか.md) · [한국어](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/ko/07-FAQ/Reflexivity는-Microsoft-365와-어떻게-연동되나요.md) · **简体中文** · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/zh-tw/07-FAQ/Reflexivity如何與Microsoft-365整合.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/zh-hk/07-FAQ/Reflexivity如何與Microsoft-365整合.md)
+**Languages:** [English](../../en/07-FAQ/how-does-reflexivity-work-with-microsoft-365.md) · [日本語](../../ja/07-FAQ/ReflexivityはMicrosoft-365とどのように連携しますか.md) · [한국어](../../ko/07-FAQ/Reflexivity는-Microsoft-365와-어떻게-연동되나요.md) · **简体中文** · [繁體中文（台灣）](../../zh-tw/07-FAQ/Reflexivity如何與Microsoft-365整合.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/Reflexivity如何與Microsoft-365整合.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [← 使用指南](../02-使用指南/README.md)

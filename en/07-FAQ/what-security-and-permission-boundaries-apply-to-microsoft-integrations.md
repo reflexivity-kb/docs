@@ -15,7 +15,7 @@ translation_status: canonical
 # What Security and Permission Boundaries Apply to Microsoft Integrations?
 
 <!-- locale-switcher:start -->
-**Languages:** **English** · [日本語](https://github.com/reflexivity-kb/platform/blob/main/en/ja/07-FAQ/Microsoft連携ではどのセキュリティとアクセス権限が適用されますか.md) · [한국어](https://github.com/reflexivity-kb/platform/blob/main/en/ko/07-FAQ/Microsoft-연동에는-어떤-보안과-권한-경계가-적용되나요.md) · [简体中文](https://github.com/reflexivity-kb/platform/blob/main/en/zh-cn/07-FAQ/Microsoft集成适用哪些安全与权限边界.md) · [繁體中文（台灣）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-tw/07-FAQ/Microsoft整合適用哪些安全與權限邊界.md) · [繁體中文（香港）](https://github.com/reflexivity-kb/platform/blob/main/en/zh-hk/07-FAQ/Microsoft整合適用哪些安全及權限邊界.md)
+**Languages:** **English** · [日本語](../../ja/07-FAQ/Microsoft連携ではどのセキュリティとアクセス権限が適用されますか.md) · [한국어](../../ko/07-FAQ/Microsoft-연동에는-어떤-보안과-권한-경계가-적용되나요.md) · [简体中文](../../zh-cn/07-FAQ/Microsoft集成适用哪些安全与权限边界.md) · [繁體中文（台灣）](../../zh-tw/07-FAQ/Microsoft整合適用哪些安全與權限邊界.md) · [繁體中文（香港）](../../zh-hk/07-FAQ/Microsoft整合適用哪些安全及權限邊界.md)
 <!-- locale-switcher:end -->
 
 [← FAQ](README.md) · [← Guides](../02-guides/README.md)
