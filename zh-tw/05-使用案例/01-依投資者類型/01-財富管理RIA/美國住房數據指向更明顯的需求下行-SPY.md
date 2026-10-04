@@ -24,7 +24,7 @@ source_manifest: RX-USECASE-0009
 # 美國住房數據指向更明顯的需求下行 (SPY)
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/05-use-cases/01-investor-type/01-wealth-management-RIA/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md) · [한국어](../../../../ko/05-유스케이스/01-운용자별/01-웰스매니지먼트RIA/미국-주택-데이터가-더-뚜렷한-수요-둔화-시사-SPY.md) · [简体中文](../../../../zh-cn/05-使用案例/01-按投资者类型/01-财富管理RIA/美国住房数据指向更明显的需求下行-SPY.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/05-使用案例/01-按投資者類型/01-財富管理RIA/美國住房數據指向更明顯的需求下行-SPY.md)
+**Languages:** [English](../../../../en/05-use-cases/01-investor-type/01-wealth-management-RIA/u-s-housing-data-signal-a-sharper-demand-downshift-spy.md) · [日本語](../../../../ja/05-ユースケース/01-運用者別/01-ウェルスマネジメントRIA/米国住宅データが需要減速の強まりを示唆-SPY.md) · [한국어](../../../../ko/05-유스케이스/01-운용자별/01-웰스매니지먼트RIA/미국-주택-데이터가-더-뚜렷한-수요-둔화-시사-SPY.md) · [简体中文](../../../../zh-cn/05-使用案例/01-按投资者类型/01-财富管理RIA/美国住房数据指向更明显的需求下行-SPY.md) · **繁體中文（台灣）** · [繁體中文（香港）](../../../../zh-hk/05-使用案例/01-按投資者類型/01-財富管理RIA/美國住房數據指向更明顯的需求下行-SPY.md)
 <!-- locale-switcher:end -->
 
 [← 財富管理 / RIA 使用案例](README.md) · [全部使用案例](../../README.md)
