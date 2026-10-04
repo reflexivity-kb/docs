@@ -24,7 +24,7 @@ editorial_reviewed: 2026-10-04
 # MasTec: 16.5억 달러 Superior / 데이터센터 딜 (MTZ)
 
 <!-- locale-switcher:start -->
-**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/mastec-1-65b-superior-data-center-deal-mtz.md) · **한국어** · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/MasTec-16-5-亿美元-Superior-数据中心交易-MTZ.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/MasTec-16-5-億美元-Superior-資料中心交易-MTZ.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/MasTec-16-5-億美元-Superior-數據中心交易-MTZ.md)
+**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/mastec-1-65b-superior-data-center-deal-mtz.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/MasTec-16.5億ドルのSuperior買収-MTZ.md) · **한국어** · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/MasTec-16-5-亿美元-Superior-数据中心交易-MTZ.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/MasTec-16-5-億美元-Superior-資料中心交易-MTZ.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/MasTec-16-5-億美元-Superior-數據中心交易-MTZ.md)
 <!-- locale-switcher:end -->
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
