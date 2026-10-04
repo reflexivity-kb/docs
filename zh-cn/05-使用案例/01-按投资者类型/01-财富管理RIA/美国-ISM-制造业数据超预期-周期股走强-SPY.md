@@ -40,9 +40,6 @@ editorial_reviewed: 2026-10-04
 
 ## Insight 视图
 
-![Reflexivity Insight 概览](../../../../assets/use-cases/RX-USECASE-0008/insight-overview.webp)
-
-*该时点 Insight 的事件摘要与主要结论。*
 
 ![Reflexivity Graph](../../../../assets/use-cases/RX-USECASE-0008/reflexivity-graph.webp)
 
