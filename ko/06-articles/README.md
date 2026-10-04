@@ -8,7 +8,7 @@
 
 일반 공개가 가능한 각종 Articles와 리서치 자료는 이 섹션에 게시합니다.
 
-기관투자자용 AI 리서치, 리서치 워크플로, Alfred, 각종 연동, 관계형 인텔리전스에 관한 접근 제한 각종 Articles는 Reflexivity Platform에서 확인할 수 있습니다.
+기관투자자용 AI 리서치, 리서치 워크플로, Alfred, 각종 연동, 관계형 인텔리전스에 관한 접근 제한 콘텐츠는 Reflexivity Platform의 **각종 Articles**에서 확인할 수 있습니다.
 
 [Platform에서 각종 Articles 열기 (접근 권한 필요)](https://github.com/reflexivity-kb/platform/blob/main/ko/06-articles/README.md)
 
