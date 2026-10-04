@@ -9,10 +9,10 @@ language: ja
 locale: ja-JP
 published: 2026-07-16
 drafted: 2026-09-07
-revised: 2026-09-27
-status: draft
+revised: 2026-10-04
+status: published
 canonical_path: "usecases/byasset/equities/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md"
-translation_status: review-needed
+translation_status: current
 editorial_reviewed: 2026-10-04
 resource: "Reflexivity Insightsの調査例"
 prompt_status: not_provided
