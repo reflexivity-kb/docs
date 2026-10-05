@@ -13,6 +13,8 @@ These examples are dated platform outputs. Check them against current market dat
 
 ## QUICK Partner-Provided Use Cases
 
+- [Compare U.S. midterm elections with current cross-market conditions](../03-asset-class/05-multi-asset/us-midterm-election-cross-market-scenarios.md): QUICK | 2026-10-05
+
 - [Compare oil and gold through inflation, rates, and forward scenarios](../03-asset-class/05-multi-asset/oil-gold-inflation-rates-scenarios.md): QUICK | 2026-10-02
 
 - [Analyze the global rates outlook and the implications for USD/JPY](../03-asset-class/02-fixed-income/global-rates-outlook-and-usdjpy.md): QUICK | 2026-09-30

@@ -19,6 +19,8 @@ These pages preserve source context, dated observations, and scenario uncertaint
 
 ## QUICK Partner-Provided Use Cases
 
+- [Compare U.S. midterm elections with current cross-market conditions](us-midterm-election-cross-market-scenarios.md): QUICK | 2026-10-05
+
 - [Compare oil and gold through inflation, rates, and forward scenarios](oil-gold-inflation-rates-scenarios.md): QUICK | 2026-10-02
 
 - [Use the Market Leading Indicator to compare signals with actual market moves](market-leading-indicator-dashboard.md): QUICK | 2026-09-28
