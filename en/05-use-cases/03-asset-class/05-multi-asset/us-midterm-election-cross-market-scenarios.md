@@ -43,7 +43,17 @@ prompt_status: present
 
 The supplied analysis compares the **2010, 2014, 2018, and 2022** U.S. midterm elections. In all four observations, the S&P 500 was positive over the 12 months after the election, averaging about **+8.6%**. The Nasdaq 100 averaged about **+14.5%** over the same horizon.
 
+> The chart labels below remain in Japanese because the analysis was created in a Japanese-language environment.
+
+![Post-midterm 12-month returns across the S&P 500, Nasdaq 100, Nikkei 225, and USD/JPY](../../../../assets/use-cases/RX-USECASE-0074/01-post-midterm-12m-returns.png)
+
+*Original chart: 12-month returns after the 2010, 2014, 2018, and 2022 U.S. midterm elections.*
+
 In **2018**, the S&P 500 moved **-3.6%** over the three months before the election and **+11.7%** over the following 12 months. In **2022**, the corresponding figures were **-9.1%** and **+14.5%**. The source treats this as a historical anomaly rather than a causal rule.
+
+![S&P 500 returns for the three months before and 12 months after prior U.S. midterm elections](../../../../assets/use-cases/RX-USECASE-0074/02-sp500-pre-post-midterm-returns.png)
+
+*Original chart: S&P 500 pre-election and post-election returns for the four prior midterms.*
 
 
 
