@@ -19,6 +19,8 @@ These examples are dated platform outputs. Check them against current market dat
 
 ## QUICK Partner-Provided Use Case
 
+- [Compare the U.S. trade-balance outlook with past cross-market reactions](../03-asset-class/05-multi-asset/us-trade-balance-outlook-and-cross-market-reactions.md): QUICK | 2026-10-06
+
 - [Use the Market Leading Indicator to compare signals with actual market moves](../03-asset-class/05-multi-asset/market-leading-indicator-dashboard.md): QUICK | 2026-09-28
 
 ---

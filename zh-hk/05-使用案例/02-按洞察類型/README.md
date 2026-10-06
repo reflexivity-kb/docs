@@ -1,6 +1,6 @@
 # 按洞察類型瀏覽使用案例
 
-- [Market Catalyst](market-catalyst.md): 10 篇
+- [Market Catalyst](market-catalyst.md): 11 篇
 - [Geopolitical Catalyst](geopolitical-catalyst.md): 1 篇
 - [Company Catalyst](company-catalyst.md): 9 篇
 - [Earnings Catalyst](earnings-catalyst.md): 8 篇

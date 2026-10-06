@@ -1,6 +1,6 @@
 # 인사이트 유형별 유스케이스
 
-- [Market Catalyst](market-catalyst.md): 10건
+- [Market Catalyst](market-catalyst.md): 11건
 - [Geopolitical Catalyst](geopolitical-catalyst.md): 1건
 - [Company Catalyst](company-catalyst.md): 9건
 - [Earnings Catalyst](earnings-catalyst.md): 8건

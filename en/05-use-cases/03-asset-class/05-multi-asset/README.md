@@ -19,6 +19,8 @@ These pages preserve source context, dated observations, and scenario uncertaint
 
 ## QUICK Partner-Provided Use Cases
 
+- [Compare the U.S. trade-balance outlook with past cross-market reactions](us-trade-balance-outlook-and-cross-market-reactions.md): QUICK | 2026-10-06
+
 - [Compare U.S. midterm elections with current cross-market conditions](us-midterm-election-cross-market-scenarios.md): QUICK | 2026-10-05
 
 - [Compare oil and gold through inflation, rates, and forward scenarios](oil-gold-inflation-rates-scenarios.md): QUICK | 2026-10-02
