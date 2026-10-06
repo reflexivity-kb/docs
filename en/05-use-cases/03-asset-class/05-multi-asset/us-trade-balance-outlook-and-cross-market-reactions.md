@@ -34,7 +34,7 @@ prompt_status: present
 
 > This use case does not include a direct Reflexivity link.
 
-## Prompts used
+## Prompt used
 
 > [!IMPORTANT]
 > **First question:** What is the outlook for the U.S. trade balance being released today? Also, among equities, bonds, foreign exchange, and commodities, which market is likely to be most affected by this release?
@@ -72,9 +72,9 @@ From **2026-09-15 to 2026-10-02**, the analysis recorded:
 
 These moves are context, not a clean estimate of the trade-balance effect. Employment data, interest rates, Middle East developments, commodity supply-demand conditions, and other headlines were also being priced.
 
-> The source visual was created in Japanese. The chart below reconstructs its values and Japanese labels. U.S. 10-year yields are shown in basis points while the other markets are shown in percent, so bar heights are not directly comparable.
+> The chart labels below remain in Japanese because the source analysis was created in a Japanese-language environment. U.S. 10-year yields are shown in basis points while the other markets are shown in percent, so bar heights are not directly comparable.
 
-![Cross-market backdrop before the 2026-10-06 U.S. trade-balance release](../../../../assets/use-cases/RX-USECASE-0075/01-pre-release-cross-market-backdrop.svg)
+![Cross-market backdrop before the 2026-10-06 U.S. trade-balance release](../../../../assets/use-cases/RX-USECASE-0075/01-pre-release-cross-market-backdrop.png)
 
 ## What the prior four release days show
 
@@ -87,9 +87,9 @@ The follow-up compared the prior close with the close on each release day for th
 | 2026-06-09 | April | +0.5 | -3.8bp | -0.26% | -0.14% | -3.40% | -1.76% |
 | 2026-05-05 | March | +0.2 | +5.6bp | +0.81% | +0.05% | -3.90% | +0.78% |
 
-> The source chart below is reconstructed with its Japanese labels. The U.S. 10-year yield is shown separately in the table because the source expresses it in basis points.
+> The chart labels below remain in Japanese because the source analysis was created in a Japanese-language environment. The U.S. 10-year yield is shown separately in the table because the source expresses it in basis points.
 
-![S&P 500, DXY, WTI and gold moves on the prior four U.S. trade-balance release days](../../../../assets/use-cases/RX-USECASE-0075/02-prior-release-day-market-reactions.svg)
+![S&P 500, DXY, WTI and gold moves on the prior four U.S. trade-balance release days](../../../../assets/use-cases/RX-USECASE-0075/02-prior-release-day-market-reactions.png)
 
 ## How to interpret the result
 
@@ -112,10 +112,12 @@ The more useful research question is therefore not simply “which asset moves t
 
 **Time series:** US_G10Y.yield, SPX.price, DX:ICE.price, CL:NYMEX.price, GC:COMEX.price, NDX.price
 
-## Provided by
+## Source note
 
-This page is based on a Reflexivity use case provided by QUICK on 2026-10-06.
+This page is based on a QUICK-provided Reflexivity usage example dated 2026-10-06.
 
-Availability and reproducibility may vary by country or region, language environment, product, entitlements, and data coverage.
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Multi-Asset Use Cases](README.md) · [All Use Cases](../../README.md)
