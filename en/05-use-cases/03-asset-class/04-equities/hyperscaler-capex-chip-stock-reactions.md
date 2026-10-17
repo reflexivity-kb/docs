@@ -4,7 +4,7 @@ type: use-case
 language: en
 locale: en
 author: Reflexivity Research
-provided: 2026-10-17
+kb_imported: 2026-10-17
 status: draft
 translation_status: canonical
 source_type: reflexivity-native-deep-research-pdf
