@@ -19,7 +19,7 @@ These examples are dated platform outputs. Check them against current market dat
 
 - [Prepare for Micron earnings with the Earnings Preview workflow](../03-asset-class/04-equities/micron-earnings-preview-workflow.md): QUICK | 2026-09-30
 
-## Reflexivity Deep Research Examples — October 2026
+## Use Cases
 
 - [Hyperscaler capex and five-day semiconductor returns](../03-asset-class/04-equities/hyperscaler-capex-chip-stock-reactions.md) — cash-flow event proxy, not verbatim guidance
 - [Japanese bank returns and EPS after BOJ changes](../03-asset-class/04-equities/japanese-bank-returns-vs-topix-after-boj-hikes.md) — 20-trading-day comparison
