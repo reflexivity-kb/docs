@@ -16,6 +16,10 @@ prompt_basis: localized_from_en_verbatim
 
 # 筛选NVIDIA相关日本供应链及其财报后股价反应
 
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/japanese-nvidia-supply-chain-earnings-reactions.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/NVIDIA決算から日本の関連企業と株価反応を調べる.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/NVIDIA-실적발표와-일본-공급망-기업-주가반응-분석하기.md) · **简体中文** · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/從-NVIDIA-財報篩選日本供應鏈企業及股價反應.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/從-NVIDIA-業績篩選日本供應鏈企業及股價反應.md)
+<!-- locale-switcher:end -->
+
 [← 按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
 **适用用户：** 日本股票、半导体及主题投资经理  
