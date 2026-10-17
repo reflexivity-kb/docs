@@ -46,6 +46,10 @@ The example identified **13 historical episodes** between 1990 and 2024 in which
 
 ## Illustrative results
 
+![Historical conditional median one-month returns across TOPIX Core 30 constituents following sharp USDJPY declines](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0080-yen-shock-topix30.png)
+
+*Figure 1. Conditional historical **median forward one-month stock returns** after a qualifying 8% monthly USD/JPY fall; not regression betas or mechanically predicted future returns. Selected company labels are shown in the plot; full source observations differ in sample count.*
+
 | Company | Median one-month return following qualifying yen rallies | Category in the screen | Available historical episodes |
 | --- | ---: | --- | ---: |
 | Mitsubishi Corp | −4.90% | Exporter/global cyclical | 13 |
@@ -70,8 +74,6 @@ In the selected grouping, exporters averaged **−2.74%** versus **+4.31%** for 
 Reflexivity can turn a macro shock into a **named-equity sensitivity screen** with defined event thresholds, observation windows and group comparisons. The next step is to complement the historical conditioning with rolling FX regressions and company-level foreign revenue/hedge disclosure analysis.
 
 **Related example:** [Analyze the drivers of a rapid yen rally](yen-strength-background-outlook.md) asks why the currency moved and whether its move may persist; this example focuses on equities.
-
-<!-- Source visuals pending: EN PDF p2 30-name horizontal chart and p3–4 complete ranked table. -->
 
 ## Additional examples and supporting information
 
