@@ -38,7 +38,7 @@ A monetary-policy forecast is not yet an investment scenario. A Japanese macro p
 
 ## Rebase the rate path before modeling
 
-The requested hawkish destination of approximately 0.75% was already behind the reported policy path. The dated research therefore resets the starting BOJ policy rate to **1.25% as of September 30, 2026**, rather than pretending the older scenario anchors were still live. The contextual snapshot also used Nikkei 225 **67,777.52**, USD/JPY **158.64** and the ten-year JGB yield near **3.00%**.
+The requested hawkish destination of approximately 0.75% was already behind the reported policy path. The dated research therefore resets the starting BOJ policy rate to **1.25% as of September 30, 2026**, rather than pretending the older scenario anchors were still live. A separate **October 13, 2026 market-price snapshot** used Nikkei 225 **67,777.52**, USD/JPY **158.64** and the ten-year JGB yield near **3.00%**.
 
 ## Three conditional paths
 
