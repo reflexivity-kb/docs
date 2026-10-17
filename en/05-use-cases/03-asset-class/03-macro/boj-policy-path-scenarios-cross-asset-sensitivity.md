@@ -42,6 +42,10 @@ The requested hawkish destination of approximately 0.75% was already behind the 
 
 ## Three conditional paths
 
+![Three BOJ policy-rate paths from October 2026 through October 2027, including hawkish, base, and dovish scenarios](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0076-boj-policy-paths.png)
+
+*Figure 1. Conditional BOJ policy-rate paths, starting from the September 2026 rate reference. Hypothetical scenario levels, not official BOJ guidance.*
+
 | Path | BOJ policy path over approximately 12 months | Indicative USD/JPY | Indicative 10-year JGB yield |
 | --- | --- | --- | --- |
 | Hawkish acceleration | 1.25% → 1.50% → 1.75% by Q2 2027 | 150–158 | 3.30–3.60% |
@@ -53,6 +57,10 @@ In the hawkish case, narrowing rate differentials can support the yen while high
 **These are scenario calibrations, not return forecasts.** The analysis deliberately considers equity effects as a mix of exporter FX sensitivity, domestic demand and financial-sector rate sensitivity rather than assigning one sign to the whole index.
 
 ## Historical checks and analytical limits
+
+![Historical indexed market context showing Nikkei 225, USDJPY, ten-year JGB yield and BOJ policy rate between 2022 and October 2026](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0076-boj-historical-asset-trends.png)
+
+*Figure 2. Cross-asset historical context. Lines use different axes and units; their proximity does not imply comparable percentage changes or causality.*
 
 The historical lens covers the 2022–2024 yield-curve-control exit and subsequent normalization. The illustration includes a cross-market rate/FX/equity timeline and historical equity/FX performance after increases in JGB yields.
 
@@ -66,8 +74,6 @@ The historical lens covers the 2022–2024 yield-curve-control exit and subseque
 Deep Research can move from a long, conditional monetary-policy instruction to an auditable **scenario matrix** that connects fixed income, FX and Japanese equities. A PM can revise assumptions and request targeted sector or carry-unwind stress tests rather than accepting an undifferentiated directional call.
 
 **Related framework:** [Trace hawkish-policy beneficiaries from macro channels to companies](../05-multi-asset/hawkish-policy-beneficiaries-knowledge-graph.md).
-
-<!-- Source visuals pending faithful publication extraction: EN PDF page 2 policy paths, page 4 historical multi-axis chart, and source matrix. See private source-publication manifest. -->
 
 ## Additional examples and supporting information
 
