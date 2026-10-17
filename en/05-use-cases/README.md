@@ -35,19 +35,6 @@ Browse examples relevant to each investor type. Some examples may appear in more
 
 Some examples may also appear under another asset class when the same research question spans multiple markets.
 
-## October 2026: Reflexivity Deep Research Examples
-
-The following eight cases use dated Reflexivity-native English Deep Research outputs. Their original prompts, research approaches, selected findings, and limitations are kept together. All figures require verification against current market data.
-
-- [BOJ policy scenarios and Japanese asset sensitivity](03-asset-class/03-macro/boj-policy-path-scenarios-cross-asset-sensitivity.md) — macro / rates / FX
-- [Hyperscaler capital spending and chip-stock responses](03-asset-class/04-equities/hyperscaler-capex-chip-stock-reactions.md) — technology equities
-- [MUFG, SMFG and Mizuho after BOJ hikes](03-asset-class/04-equities/japanese-bank-returns-vs-topix-after-boj-hikes.md) — Japanese financials
-- [Japanese NVIDIA-related company event screening](03-asset-class/04-equities/japanese-nvidia-supply-chain-earnings-reactions.md) — thematic equities
-- [TOPIX Core 30 during sharp yen appreciation](03-asset-class/01-FX/usdjpy-appreciation-topix-core30-sensitivity.md) — FX/equity stress
-- [JPY positioning and Nikkei unwind asymmetry](03-asset-class/01-FX/jpy-positioning-nikkei-unwind-asymmetry.md) — macro / FX
-- [Multi-asset Monte Carlo with a 5% S&P 500 shock](03-asset-class/05-multi-asset/portfolio-monte-carlo-spx-five-percent-correction.md) — portfolio risk
-- [US bank earnings-day returns and NII guidance](03-asset-class/04-equities/us-bank-earnings-net-interest-income-guidance.md) — US financials
-
 ## Resources
 
 The KB includes Reflexivity-created research examples and reviewed partner-provided use cases. Each page is presented with the source and date context needed to understand how the example should be read.
