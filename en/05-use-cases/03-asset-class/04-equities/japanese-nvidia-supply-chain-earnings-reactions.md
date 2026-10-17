@@ -17,6 +17,10 @@ prompt_basis: source-verbatim
 
 # Screen Japanese NVIDIA-Related Suppliers Around NVIDIA Earnings
 
+<!-- locale-switcher:start -->
+**Languages:** **English** · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/NVIDIA決算から日本の関連企業と株価反応を調べる.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/NVIDIA-실적발표와-일본-공급망-기업-주가반응-분석하기.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/筛选-NVIDIA-相关日本供应链-及其财报后股价反应.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/從-NVIDIA-財報篩選日本供應鏈企業及股價反應.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/從-NVIDIA-業績篩選日本供應鏈企業及股價反應.md)
+<!-- locale-switcher:end -->
+
 [← All use cases](../../README.md) · [Asset-class index](README.md)
 
 **Research period:** Eight NVIDIA earnings releases, November 2024–August 2026  
