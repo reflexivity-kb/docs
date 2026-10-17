@@ -38,11 +38,19 @@ A diversified book of US equities and currency pairs does not necessarily move i
 
 ## Portfolio and conditional model
 
+![Estimated S&P 500 factor betas for the 20 US equities and three currency pairs in the illustrative portfolio](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0082-spx-beta-by-asset.png)
+
+*Figure 1. Estimated daily-return SPX beta by holding over the 2023–2026 sample. A high beta indicates stronger estimated factor response, **not** a guaranteed future loss.*
+
 The example includes **23 equal-weighted positions**: 20 US equities and three FX pairs (USD/JPY, EUR/USD, GBP/USD), each at approximately **4.35%** portfolio weight.
 
 A 50,000-draw simulation used a **linear SPX-beta factor shock of −5%**, adding correlated residuals estimated from daily price-return data from October 2023 to October 2026. The source also describes 158 historical 21-trading-day SPX drawdown episodes as a context check.
 
 ## Illustrative model output
+
+![First through ninety-ninth percentile bar summary of simulated conditional portfolio returns under a five percent S&P 500 decline](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0082-simulated-portfolio-quantiles.png)
+
+*Figure 2. Simulated portfolio **return quantiles**, not a histogram or smooth density. Model output conditions on a −5% SPX factor shock and fixed-beta, approximately Gaussian residual assumptions.*
 
 | Modeled statistic under the specified SPX shock | Reported result |
 | --- | ---: |
@@ -68,8 +76,6 @@ These values represent the **output of one modeled distribution**, not a verifie
 ## What this use case demonstrates
 
 Reflexivity can combine a natural-language multi-asset holdings list with beta estimates, covariance assumptions, simulation and tail-risk metrics. The value lies in making assumptions visible and supporting follow-up scenario comparisons—not in treating one 50,000-draw number as a guarantee.
-
-<!-- Source visuals pending: EN PDF p2 simulated return distribution, p4 asset beta chart, p5–7 metric and asset tables. -->
 
 ## Additional examples and supporting information
 
