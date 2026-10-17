@@ -10,6 +10,12 @@ Research and workflow examples for foreign exchange markets.
 
 These pages preserve source context, dated observations, limitations, and uncertainty.
 
+## Reflexivity Deep Research Examples — October 2026
+
+- [Assess TOPIX Core 30 sensitivity to sharp yen appreciation](usdjpy-appreciation-topix-core30-sensitivity.md) — FX and Japan equity PM · 1990–2024 episode study
+- [Examine short-JPY carry positioning and Nikkei unwind risk](jpy-positioning-nikkei-unwind-asymmetry.md) — FX / macro PM · August 2024 vs October 2026
+
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
