@@ -17,6 +17,10 @@ prompt_basis: source-verbatim
 
 # Assess TOPIX Core 30 Sensitivity to a Sharp Yen Appreciation
 
+<!-- locale-switcher:start -->
+**Languages:** **English** · [日本語](../../../../ja/05-ユースケース/03-運用資産別/01-FX/急激な円高でTOPIX-Core-30銘柄の影響を比較する.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/01-FX/엔화-급등-시-TOPIX-Core-30-종목별-민감도-비교하기.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/01-FX/评估-日元快速升值-对TOPIX-Core-30股票的影响.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/01-FX/評估-日圓快速升值-對TOPIX-Core-30個股的影響.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/01-FX/評估-日圓急升-對TOPIX-Core-30股票的影響.md)
+<!-- locale-switcher:end -->
+
 [← All use cases](../../README.md) · [Asset-class index](README.md)
 
 **Research period:** Historical events from 1990–2024; July–August 2024 illustration  
