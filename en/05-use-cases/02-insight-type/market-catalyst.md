@@ -23,7 +23,7 @@ These examples are dated platform outputs. Check them against current market dat
 
 - [Use the Market Leading Indicator to compare signals with actual market moves](../03-asset-class/05-multi-asset/market-leading-indicator-dashboard.md): QUICK | 2026-09-28
 
-## Reflexivity Deep Research Examples — October 2026
+## Use Cases
 
 - [JPY carry positioning and possible Nikkei unwind asymmetry](../03-asset-class/01-FX/jpy-positioning-nikkei-unwind-asymmetry.md) — FX/equity risk narrative; direct futures positioning unavailable in this example
 
