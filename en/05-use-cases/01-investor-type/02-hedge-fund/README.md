@@ -59,9 +59,7 @@ Partner-provided examples include provider and date context. Tier labels are use
 - [Find the common drivers behind last week's strongest equity themes](../../03-asset-class/04-equities/weekly-rising-themes.md): Provided by QUICK | 2026-08-03
 - [Turn strong themes into US and Japanese company candidates](../../03-asset-class/04-equities/top-themes-and-us-japan-company-picks.md): Provided by QUICK | 2025-12-26
 
-## Reflexivity Deep Research Examples — October 2026
-
-These dated examples are categorized by research question rather than a claimed hedge-fund tier.
+## Use Cases
 
 - [BOJ policy scenarios across Nikkei, USD/JPY and JGB yields](../../03-asset-class/03-macro/boj-policy-path-scenarios-cross-asset-sensitivity.md) — macro scenarios
 - [Hyperscaler spending and AI chip-stock reactions](../../03-asset-class/04-equities/hyperscaler-capex-chip-stock-reactions.md) — event research
