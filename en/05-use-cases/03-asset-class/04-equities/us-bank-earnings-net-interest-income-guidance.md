@@ -17,6 +17,10 @@ prompt_basis: source-verbatim
 
 # Study US Bank Earnings-Day Returns Against Net Interest Income Guidance
 
+<!-- locale-switcher:start -->
+**Languages:** **English** · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/米国銀行の決算反応と純金利収入ガイダンスを比較する.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/미국-은행-실적발표와-순이자이익-가이던스-비교하기.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/比较-美国银行财报反应-与净利息收入指引.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/比較-美國銀行財報反應-與淨利息收入指引.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/比較-美國銀行業績反應-與淨利息收入指引.md)
+<!-- locale-switcher:end -->
+
 [← All use cases](../../README.md) · [Asset-class index](README.md)
 
 **Research period:** Quarterly reports Q3 2021–Q3 2026  
