@@ -17,6 +17,10 @@ prompt_basis: source-verbatim
 
 # Build BOJ Policy Scenarios and Map Sensitivity Across Japanese Assets
 
+<!-- locale-switcher:start -->
+**Languages:** **English** · [日本語](../../../../ja/05-ユースケース/03-運用資産別/03-マクロ/BOJの政策金利シナリオと日本の資産感応度を分析する.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/03-매크로/BOJ-정책금리-시나리오와-일본-자산-민감도-분석하기.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/03-宏观/建立-日本央行-政策利率情景-并评估日本资产敏感度.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/03-總體/建立-日本銀行-政策利率情境-與日本資產敏感度.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/03-宏觀/建立-日本銀行-政策利率情景-與日本資產敏感度.md)
+<!-- locale-switcher:end -->
+
 [← All use cases](../../README.md) · [Asset-class index](README.md)
 
 **Research period:** September–October 2026 policy and market context  
