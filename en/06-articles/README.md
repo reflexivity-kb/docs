@@ -20,6 +20,8 @@ Public Articles on institutional AI research, trust, research workflows, and rel
 - **Part 3: Compliance** - [Compliance Has to Be Designed Into the Research Workflow](02-trust-and-auditability/compliance-has-to-be-designed-into-the-research-workflow.md)
 - **Global evidence** - [How Financial Institutions Across Major Markets Are Adopting AI: What Official Evidence Shows](02-trust-and-auditability/how-financial-institutions-across-major-markets-are-adopting-ai.md)
 
+- **Japan research workflows (October 2026)** — [From Investment Questions to Research Workflows: Eight Examples from Japan](04-research-workflows/from-investment-questions-to-research-workflows-japan-2026.md)
+
 Additional access-controlled Articles remain available in [Reflexivity Platform](https://github.com/reflexivity-kb/platform/blob/main/en/06-articles/README.md) (access required).
 
 For access or documentation questions, contact **jim@reflexivity.com**.
