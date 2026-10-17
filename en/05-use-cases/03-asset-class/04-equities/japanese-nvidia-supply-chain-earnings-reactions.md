@@ -46,6 +46,10 @@ The candidate ranking was based on qualitative supply-chain relevance, **not** o
 
 ## Illustrative market observations
 
+![Average next-TSE-session stock movement and same-direction hit rate for twelve Japanese company candidates around eight NVIDIA earnings releases](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0079-nvidia-japanese-suppliers.png)
+
+*Figure 1. **Two different percentage metrics share one axis**: mean stock-price return, typically within several percentage points, and direction agreement, often tens of percent. Compare them **within each metric**, not by bar length across metrics. The original first-TSE-session timing also needs post-US-earnings alignment verification.*
+
 | Japanese company | Average measured TSE session move | Same direction as NVDA |
 | --- | ---: | ---: |
 | Ibiden (4062) | +4.24% | 4/8 (50%) |
@@ -70,8 +74,6 @@ NVIDIA normally reports **after the US market closes**. Depending on the release
 The workflow uses a company event as the seed for **knowledge-graph universe expansion**, then tests that universe with market data. It is useful as a starting list for bottom-up fundamental research and event-timing QA—not a causal test of supplier revenue transmission.
 
 **Related example:** [Find Japanese companies related to rising US stocks](rising-us-stocks-related-japanese-companies.md).
-
-<!-- Source visuals pending: EN PDF p1–2 complete ranked company table and p3 combined market-reaction chart. -->
 
 ## Additional examples and supporting information
 
