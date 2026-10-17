@@ -17,6 +17,10 @@ prompt_basis: source-verbatim
 
 # Model Equal-Weighted Portfolio Risk During a Five-Percent S&P 500 Correction
 
+<!-- locale-switcher:start -->
+**Languages:** **English** · [日本語](../../../../ja/05-ユースケース/03-運用資産別/05-マルチアセット/SP500の5パーセント調整を想定したポートフォリオのモンテカルロ分析.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/05-멀티에셋/SP500-5퍼센트-조정-시-포트폴리오-몬테카를로-분석하기.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/05-多资产/用蒙特卡洛模拟-评估SP500下跌5百分比时的组合风险.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/05-多資產/用蒙地卡羅-評估SP500下跌5百分比時的組合風險.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/05-多資產/用蒙特卡羅-評估SP500下跌5百分比時的組合風險.md)
+<!-- locale-switcher:end -->
+
 [← All use cases](../../README.md) · [Asset-class index](README.md)
 
 **Research period:** Daily estimates October 2023–October 2026; SPX event reference 1965–2026  
