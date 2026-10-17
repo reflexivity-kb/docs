@@ -44,6 +44,10 @@ Bank and TOPIX cumulative price returns were measured over each post-announcemen
 
 ## Compare contrasting events
 
+![Twenty-trading-day TOPIX-relative returns for MUFG SMFG and Mizuho following five historical BOJ rate-change events](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0078-bank-excess-returns.png)
+
+*Figure 1. Bank excess price returns versus TOPIX (percentage points) over matched 20-trading-day windows following the identified BOJ events.*
+
 | BOJ change | MUFG excess | SMFG excess | Mizuho excess |
 | --- | ---: | ---: | ---: |
 | July 2024 | −9.95 pp | −8.69 pp | −9.46 pp |
@@ -57,6 +61,10 @@ The corresponding forward EPS observations also varied. In the June 2026 window,
 
 ## Why the earnings measure needs care
 
+![Forward twelve-month consensus EPS change for three major Japanese banks over BOJ event study windows](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0078-bank-eps-revisions.png)
+
+*Figure 2. Change in forward twelve-month consensus EPS over corresponding 20-trading-day windows (%). The estimate series may differ in currency, ADR basis and coverage across banks.*
+
 The dataset compares Tokyo-listed share returns in yen with forward EPS consensus sourced partly from **NYSE ADR coverage for MUFG/SMFG in USD**, and from a yen-denominated series for Mizuho. Percent changes reduce unit differences but do not automatically remove estimate-basis, reporting and ADR comparability issues.
 
 The July 2024 period contains broader market stress; these results are **associations over event windows**, not clean causal estimates of an isolated BOJ decision. Date alignment, market closures and estimate-series continuity should be rechecked before investment use.
@@ -64,8 +72,6 @@ The July 2024 period contains broader market stress; these results are **associa
 ## What this use case demonstrates
 
 Deep Research combines event calendars, price history, benchmark-relative returns and analyst estimates in one question. The resulting comparison can be expanded into a multi-bank earnings-sensitivity or net-interest-margin follow-up, with clear distinctions between policy events and concurrent market shocks.
-
-<!-- Source visuals pending: EN PDF p2 excess returns by event, p4 forward EPS revision chart, p5–6 bank-level table. -->
 
 ## Additional examples and supporting information
 
