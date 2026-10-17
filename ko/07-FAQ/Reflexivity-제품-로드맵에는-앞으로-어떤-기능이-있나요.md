@@ -1,6 +1,7 @@
 <!--
 id: RX-ARTICLE-0067
-type: article
+type: faq
+content_format: faq
 language: ko
 locale: ko
 author: Reflexivity GTM Team
