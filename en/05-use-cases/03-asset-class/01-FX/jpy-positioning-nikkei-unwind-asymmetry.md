@@ -38,6 +38,10 @@ The yen carry trade links spot FX, Japan–US rate differentials, leverage, fore
 
 ## Compare the carry setup
 
+![Historical USDJPY and Nikkei 225 levels from June 2024 through October 2026 illustrating the 2024 yen carry unwind and subsequent price movements](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0081-usdjpy-nikkei-history.png)
+
+*Figure 1. USD/JPY and Nikkei 225 historical levels on separate axes. Price co-movement is not a direct count of speculative yen positions or foreign currency-hedged equity ownership.*
+
 | Measure | August 2024 unwind context | October 2026 context |
 | --- | --- | --- |
 | USD/JPY | 161.70 peak → 144.20 trough | 158.64 quoted spot |
@@ -49,6 +53,10 @@ The yen carry trade links spot FX, Japan–US rate differentials, leverage, fore
 The narrower policy-rate gap implies a **smaller rate pickup** for the short-yen carry trade than in the 2024 comparison. That observation alone does not quantify the number or leverage of open speculative contracts.
 
 ## Stress the equity response, not just spot FX
+
+![Five-point summary of historical one-month Nikkei and USDJPY returns conditioned on twenty-two yen-appreciation proxy events](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0081-yen-unwind-quantiles.png)
+
+*Figure 2. Minimum, tenth percentile, median, ninetieth percentile and maximum of historical one-month returns following 22 proxy FX events. **Not** a probability density, BOJ-surprise forecast or direct measure of positioning.*
 
 The example uses historical yen-appreciation events to assess the distribution of Japanese-equity performance after FX shocks. Across its **22 historical proxy episodes**, it identified materially asymmetric adverse outcomes, including a one-month Nikkei downside observation around **−10.7%**, contrasted with a positive tail reference around **+8.6%**.
 
@@ -70,8 +78,6 @@ To convert the directional narrative into stronger evidence, add contemporaneous
 Cross-asset Deep Research can identify a **carry-trade stress narrative and its missing data inputs**. Good research explicitly flags when its conclusion rests on proxies rather than inventing a measured hedge ratio or net-short total.
 
 **Related example:** [Analyze the drivers of a rapid yen rally](yen-strength-background-outlook.md).
-
-<!-- Source visuals pending: EN PDF p2 USDJPY/Nikkei historical time series, p4 one-month conditional distribution, p5 carry comparison. -->
 
 ## Additional examples and supporting information
 
