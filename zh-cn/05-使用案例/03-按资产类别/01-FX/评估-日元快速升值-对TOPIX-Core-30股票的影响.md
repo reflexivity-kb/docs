@@ -16,6 +16,10 @@ prompt_basis: localized_from_en_verbatim
 
 # 评估日元快速升值对TOPIX Core 30股票的影响
 
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/05-use-cases/03-asset-class/01-FX/usdjpy-appreciation-topix-core30-sensitivity.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/01-FX/急激な円高でTOPIX-Core-30銘柄の影響を比較する.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/01-FX/엔화-급등-시-TOPIX-Core-30-종목별-민감도-비교하기.md) · **简体中文** · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/01-FX/評估-日圓快速升值-對TOPIX-Core-30個股的影響.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/01-FX/評估-日圓急升-對TOPIX-Core-30股票的影響.md)
+<!-- locale-switcher:end -->
+
 [← 按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
 
 **适用用户：** 日本股票、外汇投资经理及风险管理人员  
