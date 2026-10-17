@@ -19,11 +19,11 @@ Browse examples relevant to each investor type. Some examples may appear in more
 
 ## Browse by Insight Type
 
-- [Market Catalyst](02-insight-type/market-catalyst.md): 10 examples
+- [Market Catalyst](02-insight-type/market-catalyst.md): 11 examples
 - [Geopolitical Catalyst](02-insight-type/geopolitical-catalyst.md): 1 example
 - [Company Catalyst](02-insight-type/company-catalyst.md): 9 examples
-- [Earnings Catalyst](02-insight-type/earnings-catalyst.md): 8 examples
-- [Scenario Insight](02-insight-type/scenario-insight.md): 5 examples
+- [Earnings Catalyst](02-insight-type/earnings-catalyst.md): 12 examples
+- [Scenario Insight](02-insight-type/scenario-insight.md): 8 examples
 
 ## Browse by Asset Class
 
@@ -34,6 +34,19 @@ Browse examples relevant to each investor type. Some examples may appear in more
 - [Multi-Asset](03-asset-class/05-multi-asset)
 
 Some examples may also appear under another asset class when the same research question spans multiple markets.
+
+## October 2026: Reflexivity Deep Research Examples
+
+The following eight cases use dated Reflexivity-native English Deep Research outputs. Their original prompts, research approaches, selected findings, and limitations are kept together. All figures require verification against current market data.
+
+- [BOJ policy scenarios and Japanese asset sensitivity](03-asset-class/03-macro/boj-policy-path-scenarios-cross-asset-sensitivity.md) — macro / rates / FX
+- [Hyperscaler capital spending and chip-stock responses](03-asset-class/04-equities/hyperscaler-capex-chip-stock-reactions.md) — technology equities
+- [MUFG, SMFG and Mizuho after BOJ hikes](03-asset-class/04-equities/japanese-bank-returns-vs-topix-after-boj-hikes.md) — Japanese financials
+- [Japanese NVIDIA-related company event screening](03-asset-class/04-equities/japanese-nvidia-supply-chain-earnings-reactions.md) — thematic equities
+- [TOPIX Core 30 during sharp yen appreciation](03-asset-class/01-FX/usdjpy-appreciation-topix-core30-sensitivity.md) — FX/equity stress
+- [JPY positioning and Nikkei unwind asymmetry](03-asset-class/01-FX/jpy-positioning-nikkei-unwind-asymmetry.md) — macro / FX
+- [Multi-asset Monte Carlo with a 5% S&P 500 shock](03-asset-class/05-multi-asset/portfolio-monte-carlo-spx-five-percent-correction.md) — portfolio risk
+- [US bank earnings-day returns and NII guidance](03-asset-class/04-equities/us-bank-earnings-net-interest-income-guidance.md) — US financials
 
 ## Resources
 
