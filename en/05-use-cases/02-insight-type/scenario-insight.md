@@ -20,6 +20,13 @@ These examples are dated platform outputs. Check them against current market dat
 - [Analyze the global rates outlook and the implications for USD/JPY](../03-asset-class/02-fixed-income/global-rates-outlook-and-usdjpy.md): QUICK | 2026-09-30
 - [Compare AI, semiconductor and data-center themes in the US and Japan](../03-asset-class/04-equities/ai-semiconductor-data-center-themes-us-japan.md): QUICK | 2026-10-01
 
+## Reflexivity Deep Research Examples — October 2026
+
+- [Build BOJ policy paths and map cross-asset sensitivity](../03-asset-class/03-macro/boj-policy-path-scenarios-cross-asset-sensitivity.md) — three conditional monetary-policy scenarios
+- [Assess TOPIX Core 30 during an 8% yen appreciation](../03-asset-class/01-FX/usdjpy-appreciation-topix-core30-sensitivity.md) — historical shock episodes
+- [Model portfolio risk during a 5% SPX correction](../03-asset-class/05-multi-asset/portfolio-monte-carlo-spx-five-percent-correction.md) — Monte Carlo conditional stress
+
+
 ---
 
 [← All Use Cases](../README.md)
