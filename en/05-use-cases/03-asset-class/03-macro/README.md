@@ -26,6 +26,11 @@ Related examples are also listed here when they are useful for macro research.
 
 Cross-asset examples are included when they help connect macro analysis with other markets.
 
+## Reflexivity Deep Research Examples — October 2026
+
+- [Build BOJ policy scenarios and map Japanese asset sensitivity](boj-policy-path-scenarios-cross-asset-sensitivity.md) — macro PM / fixed income / FX · research context September–October 2026
+
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
