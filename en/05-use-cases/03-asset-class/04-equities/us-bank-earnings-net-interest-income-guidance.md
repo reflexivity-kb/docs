@@ -48,6 +48,10 @@ That is different from mechanically measuring the following calendar day's close
 
 ## Broad earnings-day reactions
 
+![Quarterly earnings release-day price reactions for JPMorgan Bank of America and Goldman Sachs from Q3 2021 through Q3 2026](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0083-us-banks-earnings-quarters.png)
+
+*Figure 1. Quarterly earnings-day stock-price reactions, aligned to pre-market reporting times where documented. These are **all earnings**, not a classification of NII guidance cuts, raises or holds.*
+
 | Bank | Quarterly observations | Mean release-day price reaction | Median |
 | --- | ---: | ---: | ---: |
 | JPM | 21 | −0.27% | −0.74% |
@@ -57,6 +61,10 @@ That is different from mechanically measuring the following calendar day's close
 These statistics summarize **overall earnings reactions**, not a clean NII guidance cut-versus-hold comparison. The bank-level averages differed, but the variation reflects all earnings information and market conditions.
 
 ## Where the requested classification remains incomplete
+
+![Mean and median earnings-release price reactions for JPMorgan Bank of America and Goldman Sachs over five years](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0083-us-banks-mean-median.png)
+
+*Figure 2. Mean/median **overall earnings-day** price reactions. This graphic does not answer the unavailable quarter-by-quarter NII cut-versus-flat-or-raise comparison.*
 
 The research could not verify a reliable, complete quarter-by-quarter **NII guidance direction** dataset for all three firms. Goldman Sachs does not consistently publish NII guidance as a comparable core indicator. The analysis therefore did **not** calculate a valid three-bank cut-versus-raised-or-flat panel.
 
@@ -73,8 +81,6 @@ For BAC, documented later-period constructive NII guidance was available; the re
 ## What this use case demonstrates
 
 Deep Research can assemble a five-year market-reaction panel and identify a meaningful **source coverage gap** instead of fabricating classifications. Before making a trading or marketing claim about NII guidance, the missing primary-guidance observations must be recovered.
-
-<!-- Source visuals pending: EN PDF p2 quarterly earnings reactions and p4 bank mean/median comparison; p5–9 event-level price table. -->
 
 ## Additional examples and supporting information
 
