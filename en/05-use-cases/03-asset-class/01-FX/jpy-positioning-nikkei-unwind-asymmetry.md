@@ -17,6 +17,10 @@ prompt_basis: source-verbatim
 
 # Examine Short-JPY Carry Positioning and Nikkei Unwind Risk
 
+<!-- locale-switcher:start -->
+**Languages:** **English** · [日本語](../../../../ja/05-ユースケース/03-運用資産別/01-FX/円ショートの混雑度と日経平均の巻き戻しリスクを検証する.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/01-FX/엔화-숏포지션과-닛케이-청산위험-분석하기.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/01-FX/分析-日元空头持仓-与日经指数挤仓风险.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/01-FX/分析-日圓空頭部位-與日經指數的平倉風險.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/01-FX/分析-日圓空倉-與日經指數的平倉風險.md)
+<!-- locale-switcher:end -->
+
 [← All use cases](../../README.md) · [Asset-class index](README.md)
 
 **Research period:** August 2024 unwind compared with October 2026 market context  
