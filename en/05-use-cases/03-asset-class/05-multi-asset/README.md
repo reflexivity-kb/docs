@@ -27,6 +27,11 @@ These pages preserve source context, dated observations, and scenario uncertaint
 
 - [Use the Market Leading Indicator to compare signals with actual market moves](market-leading-indicator-dashboard.md): QUICK | 2026-09-28
 
+## Reflexivity Deep Research Examples — October 2026
+
+- [Model equal-weighted portfolio risk during a 5% SPX correction](portfolio-monte-carlo-spx-five-percent-correction.md) — multi-asset PM / risk manager · 2023–2026 calibration
+
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
