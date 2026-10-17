@@ -44,6 +44,14 @@ Cross-asset examples are also included when they help connect equity analysis wi
 - [Prepare for Micron earnings with the Earnings Preview workflow](micron-earnings-preview-workflow.md): QUICK | 2026-09-30
 - [Compare AI, semiconductor and data-center themes in the US and Japan](ai-semiconductor-data-center-themes-us-japan.md): QUICK | 2026-10-01
 
+## Reflexivity Deep Research Examples — October 2026
+
+- [Test hyperscaler capital spending against AI chip-stock reactions](hyperscaler-capex-chip-stock-reactions.md) — technology equity PM · reported 2025–2026 quarters
+- [Compare Japanese bank returns and EPS revisions after BOJ hikes](japanese-bank-returns-vs-topix-after-boj-hikes.md) — Japan equity PM · 2024–2026
+- [Screen Japanese NVIDIA-related suppliers around NVIDIA earnings](japanese-nvidia-supply-chain-earnings-reactions.md) — thematic equity PM · eight NVIDIA earnings releases
+- [Study US bank earnings-day returns and NII guidance](us-bank-earnings-net-interest-income-guidance.md) — financials equity PM · 2021–2026
+
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
