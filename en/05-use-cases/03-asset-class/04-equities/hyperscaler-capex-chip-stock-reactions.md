@@ -38,11 +38,19 @@ Large increases in capital expenditure by Microsoft, Alphabet, Amazon and Meta c
 
 ## Measure spending first
 
+![Quarterly reported capital expenditures for Microsoft, Alphabet, Amazon and Meta from 2025 to 2026, in billions of US dollars](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0077-hyperscaler-reported-capex.png)
+
+*Figure 1. Reported quarterly capital expenditure in USD billions. This is an observed spending series, **not** management's forward capex guidance.*
+
 The research followed eight reported quarters of capital expenditure using cash-flow-statement data. Across the selected first-to-last observations, reported quarterly capex increased by approximately **126.6% at Microsoft**, **214.6% at Alphabet**, **94.8% at Amazon** and **108.7% at Meta**. Amazon's most recent reported quarterly figure reached approximately **$54.21 billion**.
 
 That is a useful spending trajectory, but it is not identical to management's **forward capex guidance**.
 
 ## Compare the five-trading-day market reaction
+
+![Average five-trading-day price returns for NVIDIA, Broadcom, TSMC and S&P 500 after selected hyperscaler capex-rise earnings calls](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0077-chip-five-day-returns.png)
+
+*Figure 2. Average five-trading-day returns for selected earnings windows. The event is a change in **reported capex**, and overlapping events prevent treating every window as an independent observation.*
 
 A "raise" event was defined as **quarter-on-quarter growth in reported capex** at an earnings call, yielding 21 observations. The example calculated five-trading-day price performance following those calls.
 
@@ -75,8 +83,6 @@ The resulting averages show modest positive excess performance for the semicondu
 Reflexivity can join financial-statement observations, earnings dates and market-price windows into a comparative event study while keeping the event definition explicit. The next research pass should rebuild events from verified management guidance and remove overlapping price windows.
 
 **Related example:** [Analyze hyperscaler off-balance-sheet obligations](../05-multi-asset/hyperscaler-off-balance-sheet-debt.md), which addresses financing risk rather than chip-stock event returns.
-
-<!-- Source visuals pending: EN PDF p2 hyperscaler capex lines, p4 five-day bar chart, p5–6 event table. -->
 
 ## Additional examples and supporting information
 
