@@ -23,7 +23,7 @@ These links point to the article in the asset-class view. Provider and source da
 - [Compare the themes leading US and Japanese equities](../../03-asset-class/04-equities/us-japan-market-leading-themes.md): Provided by QUICK | 2026-05-15
 - [Use Alfred across housing, precious metals, equities, and credit risk](../../03-asset-class/05-multi-asset/alfred-cross-asset-question-examples.md): Provided by QUICK | 2026-02-12
 
-## Reflexivity Deep Research Examples — October 2026
+## Use Cases
 
 - [BOJ policy scenarios across Japanese assets](../../03-asset-class/03-macro/boj-policy-path-scenarios-cross-asset-sensitivity.md) — macro / rates
 - [Hyperscaler capital spending and semiconductor responses](../../03-asset-class/04-equities/hyperscaler-capex-chip-stock-reactions.md) — technology equities
