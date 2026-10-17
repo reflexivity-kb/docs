@@ -4,6 +4,8 @@ Research and workflow examples for economic cycles, monetary policy, market narr
 
 ## Use Cases
 
+- [Build BOJ policy scenarios and map Japanese asset sensitivity](boj-policy-path-scenarios-cross-asset-sensitivity.md)
+
 - [Challenge a strong-US-economy thesis from the disconfirming side](challenge-strong-us-economy-thesis.md)
 - [Test whether the market narrative is supported by broad hard data](market-narrative-vs-hard-data-breadth.md)
 - [Structure complex research with long-form instructions](structured-long-form-research-prompts.md)
@@ -25,10 +27,6 @@ Related examples are also listed here when they are useful for macro research.
 - [Analyze the drivers of a rapid yen rally and whether it extends across FX](../01-FX/yen-strength-background-outlook.md)
 
 Cross-asset examples are included when they help connect macro analysis with other markets.
-
-## Reflexivity Deep Research Examples — October 2026
-
-- [Build BOJ policy scenarios and map Japanese asset sensitivity](boj-policy-path-scenarios-cross-asset-sensitivity.md) — macro PM / fixed income / FX · research context September–October 2026
 
 
 ---
