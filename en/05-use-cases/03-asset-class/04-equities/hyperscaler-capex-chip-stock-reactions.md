@@ -17,6 +17,10 @@ prompt_basis: source-verbatim
 
 # Test Hyperscaler Capital Spending Against AI Chip-Stock Reactions
 
+<!-- locale-switcher:start -->
+**Languages:** **English** · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/ハイパースケーラーの設備投資と半導体株の反応を比較する.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/하이퍼스케일러-설비투자와-반도체주-반응-비교하기.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/比较-超大规模云厂商-资本开支-与半导体股反应.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/比較-大型雲端業者-資本支出-與半導體股反應.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/比較-大型雲端企業-資本開支-與半導體股反應.md)
+<!-- locale-switcher:end -->
+
 [← All use cases](../../README.md) · [Asset-class index](README.md)
 
 **Research period:** Eight reported quarters ending in 2026  
