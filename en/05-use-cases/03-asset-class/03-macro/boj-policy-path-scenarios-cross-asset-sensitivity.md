@@ -75,7 +75,7 @@ The historical lens covers the 2022–2024 yield-curve-control exit and subseque
 
 ## What this use case demonstrates
 
-Deep Research can move from a long, conditional monetary-policy instruction to an auditable **scenario matrix** that connects fixed income, FX and Japanese equities. A PM can revise assumptions and request targeted sector or carry-unwind stress tests rather than accepting an undifferentiated directional call.
+The Reflexivity platform can move from a long, conditional monetary-policy instruction to an auditable **scenario matrix** that connects fixed income, FX and Japanese equities. A PM can revise assumptions and request targeted sector or carry-unwind stress tests rather than accepting an undifferentiated directional call.
 
 **Related framework:** [Trace hawkish-policy beneficiaries from macro channels to companies](../05-multi-asset/hawkish-policy-beneficiaries-knowledge-graph.md).
 
