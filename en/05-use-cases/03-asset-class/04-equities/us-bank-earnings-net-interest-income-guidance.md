@@ -84,7 +84,7 @@ For BAC, documented later-period constructive NII guidance was available; the re
 
 ## What this use case demonstrates
 
-Deep Research can assemble a five-year market-reaction panel and identify a meaningful **source coverage gap** instead of fabricating classifications. Before making a trading or marketing claim about NII guidance, the missing primary-guidance observations must be recovered.
+The Reflexivity platform can assemble a five-year market-reaction panel and identify a meaningful **source coverage gap** instead of fabricating classifications. Before making a trading or marketing claim about NII guidance, the missing primary-guidance observations must be recovered.
 
 ## Additional examples and supporting information
 
