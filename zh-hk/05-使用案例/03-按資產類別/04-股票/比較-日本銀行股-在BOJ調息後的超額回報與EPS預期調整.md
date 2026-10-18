@@ -16,6 +16,10 @@ prompt_basis: localized_from_en_verbatim
 
 # 比較日本銀行股在BOJ調息後的超額回報與EPS預期調整
 
+<!-- locale-switcher:start -->
+**Languages:** [English](../../../../en/05-use-cases/03-asset-class/04-equities/japanese-bank-returns-vs-topix-after-boj-hikes.md) · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/BOJの利上げ後に主要銀行株とEPS予想がどう動いたか比較する.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/BOJ-금리변경-후-일본-은행주와-EPS-변화-분석하기.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/比较-日本银行股-在央行调息后的相对收益和EPS调整.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/比較-日本銀行股-在BOJ利率調整後的超額報酬與EPS修正.md) · **繁體中文（香港）**
+<!-- locale-switcher:end -->
+
 [← 按資產類別瀏覽](../README.md) · [所有使用案例](../../README.md)
 
 **適用對象：** 日本股票、銀行業及多資產基金經理  
