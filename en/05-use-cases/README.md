@@ -19,11 +19,11 @@ Browse examples relevant to each investor type. Some examples may appear in more
 
 ## Browse by Insight Type
 
-- [Market Catalyst](02-insight-type/market-catalyst.md): 10 examples
+- [Market Catalyst](02-insight-type/market-catalyst.md): 11 examples
 - [Geopolitical Catalyst](02-insight-type/geopolitical-catalyst.md): 1 example
 - [Company Catalyst](02-insight-type/company-catalyst.md): 9 examples
-- [Earnings Catalyst](02-insight-type/earnings-catalyst.md): 8 examples
-- [Scenario Insight](02-insight-type/scenario-insight.md): 5 examples
+- [Earnings Catalyst](02-insight-type/earnings-catalyst.md): 12 examples
+- [Scenario Insight](02-insight-type/scenario-insight.md): 8 examples
 
 ## Browse by Asset Class
 

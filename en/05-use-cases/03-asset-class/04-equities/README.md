@@ -4,6 +4,11 @@ Research and workflow examples for equity themes, company events, earnings, scre
 
 ## Use Cases
 
+- [Test hyperscaler capital spending against AI chip-stock reactions](hyperscaler-capex-chip-stock-reactions.md)
+- [Compare Japanese bank returns and EPS revisions after BOJ hikes](japanese-bank-returns-vs-topix-after-boj-hikes.md)
+- [Screen Japanese NVIDIA-related suppliers around NVIDIA earnings](japanese-nvidia-supply-chain-earnings-reactions.md)
+- [Study US bank earnings-day returns and NII guidance](us-bank-earnings-net-interest-income-guidance.md)
+
 - [Compare the themes leading US and Japanese equities](us-japan-market-leading-themes.md)
 - [Find the common drivers behind last week's strongest equity themes](weekly-rising-themes.md)
 - [Test AAPL's price pattern around iPhone launches](iphone-launch-and-aapl-price-pattern.md)
@@ -43,6 +48,7 @@ Cross-asset examples are also included when they help connect equity analysis wi
 - [Analyze the impact of NVIDIA's $150 billion share-repurchase increase](nvidia-share-repurchase-impact.md): QUICK | 2026-09-29
 - [Prepare for Micron earnings with the Earnings Preview workflow](micron-earnings-preview-workflow.md): QUICK | 2026-09-30
 - [Compare AI, semiconductor and data-center themes in the US and Japan](ai-semiconductor-data-center-themes-us-japan.md): QUICK | 2026-10-01
+
 
 ---
 

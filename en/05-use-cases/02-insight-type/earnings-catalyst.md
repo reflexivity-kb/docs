@@ -19,6 +19,14 @@ These examples are dated platform outputs. Check them against current market dat
 
 - [Prepare for Micron earnings with the Earnings Preview workflow](../03-asset-class/04-equities/micron-earnings-preview-workflow.md): QUICK | 2026-09-30
 
+## Use Cases
+
+- [Hyperscaler capex and five-day semiconductor returns](../03-asset-class/04-equities/hyperscaler-capex-chip-stock-reactions.md) — cash-flow event proxy, not verbatim guidance
+- [Japanese bank returns and EPS after BOJ changes](../03-asset-class/04-equities/japanese-bank-returns-vs-topix-after-boj-hikes.md) — 20-trading-day comparison
+- [Japanese NVIDIA suppliers around eight earnings releases](../03-asset-class/04-equities/japanese-nvidia-supply-chain-earnings-reactions.md) — cross-time-zone event QA
+- [JPM, BAC and GS earnings-day reactions](../03-asset-class/04-equities/us-bank-earnings-net-interest-income-guidance.md) — NII-guidance classification limitations
+
+
 ---
 
 [← All Use Cases](../README.md)

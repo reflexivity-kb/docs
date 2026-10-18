@@ -4,6 +4,8 @@ Research and workflow examples that test one investment question across multiple
 
 ## Use Cases
 
+- [Model equal-weighted portfolio risk during a 5% SPX correction](portfolio-monte-carlo-spx-five-percent-correction.md)
+
 - [Test whether bond-market signals relate to forward equity returns](bond-signals-vs-forward-equity-returns.md)
 - [Trace hawkish-policy beneficiaries from macro channels to companies](hawkish-policy-beneficiaries-knowledge-graph.md)
 - [Compare oil-price surges by regime and trace the sector impact](oil-price-surge-regime-comparison.md)
@@ -26,6 +28,7 @@ These pages preserve source context, dated observations, and scenario uncertaint
 - [Compare oil and gold through inflation, rates, and forward scenarios](oil-gold-inflation-rates-scenarios.md): QUICK | 2026-10-02
 
 - [Use the Market Leading Indicator to compare signals with actual market moves](market-leading-indicator-dashboard.md): QUICK | 2026-09-28
+
 
 ---
 

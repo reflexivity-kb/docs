@@ -15,4 +15,6 @@ These articles cover continuous monitoring, on-demand analysis, persistent resea
 - [How Always-On Monitoring Changes Coverage](how-always-on-monitoring-changes-coverage.md)
 - [From Signal Detection to Decision Support](from-signal-detection-to-decision-support.md)
 
+- [From Investment Questions to Research Workflows: Eight Examples from Japan](from-investment-questions-to-research-workflows-japan-2026.md) — dated Reflexivity Deep Research examples across macro, equities, events and portfolio risk.
+
 - [AI Is Only Useful When It Arrives at the Point of Decision](ai-is-only-useful-when-it-arrives-at-the-point-of-decision.md)

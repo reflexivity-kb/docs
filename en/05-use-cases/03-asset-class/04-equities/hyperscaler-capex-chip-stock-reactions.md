@@ -1,0 +1,97 @@
+<!--
+id: RX-USECASE-0077
+type: use-case
+language: en
+locale: en
+author: Reflexivity Research
+kb_imported: 2026-10-17
+status: draft
+translation_status: canonical
+source_type: reflexivity-native-deep-research-pdf
+source_manifest: RX-USECASE-0077
+asset_class: Equities, Technology
+roles: Technology Equity PMs, Thematic PMs, Hedge Funds
+prompt_status: present
+prompt_basis: source-verbatim
+-->
+
+# Test Hyperscaler Capital Spending Against AI Chip-Stock Reactions
+
+<!-- locale-switcher:start -->
+**Languages:** **English** · [日本語](../../../../ja/05-ユースケース/03-運用資産別/04-株式/ハイパースケーラーの設備投資と半導体株の反応を比較する.md) · [한국어](../../../../ko/05-유스케이스/03-운용자산별/04-주식/하이퍼스케일러-설비투자와-반도체주-반응-비교하기.md) · [简体中文](../../../../zh-cn/05-使用案例/03-按资产类别/04-股票/比较-超大规模云厂商-资本开支-与半导体股反应.md) · [繁體中文（台灣）](../../../../zh-tw/05-使用案例/03-依資產類別/04-股票/比較-大型雲端業者-資本支出-與半導體股反應.md) · [繁體中文（香港）](../../../../zh-hk/05-使用案例/03-按資產類別/04-股票/比較-大型雲端企業-資本開支-與半導體股反應.md)
+<!-- locale-switcher:end -->
+
+[← All use cases](../../README.md) · [Asset-class index](README.md)
+
+**Research period:** Eight reported quarters ending in 2026  
+**Relevant users:** Technology Equity PMs, Thematic PMs, Hedge Funds  
+**Assets:** Equities, Technology
+
+> This is a dated research illustration. Figures and scenario assumptions are not live market data and require independent verification before investment use.
+
+**[Open this research example in Reflexivity →](https://app.reflexivity.com/alfred?mode=research&conversationId=181a2fc1-8aed-4178-b95f-7f315ba6166d&scrollTo=top)**
+
+## Prompt used
+
+> [!IMPORTANT]
+> Over the last eight quarters, how has capex guidance from Microsoft, Alphabet, Amazon and Meta changed on each earnings call? How did Nvidia, Broadcom and TSMC shares perform in the five trading days after each hyperscaler raised guidance, compared with the S&P 500?
+
+## Investment question
+
+Large increases in capital expenditure by Microsoft, Alphabet, Amazon and Meta can signal demand for compute and data-center equipment. An equity investor still needs to distinguish the spending announcement from **actual subsequent performance** in NVIDIA, Broadcom and TSMC, and then compare the outcome with the S&P 500.
+
+## Measure spending first
+
+![Quarterly reported capital expenditures for Microsoft, Alphabet, Amazon and Meta from 2025 to 2026, in billions of US dollars](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0077-hyperscaler-reported-capex.png)
+
+*Figure 1. Reported quarterly capital expenditure in USD billions. This is an observed spending series, **not** management's forward capex guidance.*
+
+The research followed eight reported quarters of capital expenditure using cash-flow-statement data. Across the selected first-to-last observations, reported quarterly capex increased by approximately **126.6% at Microsoft**, **214.6% at Alphabet**, **94.8% at Amazon** and **108.7% at Meta**. Amazon's most recent reported quarterly figure reached approximately **$54.21 billion**.
+
+That is a useful spending trajectory, but it is not identical to management's **forward capex guidance**.
+
+## Compare the five-trading-day market reaction
+
+![Average five-trading-day price returns for NVIDIA, Broadcom, TSMC and S&P 500 after selected hyperscaler capex-rise earnings calls](../../../../assets/usecases/reflexivity/deep-research-2026-10/RX-USECASE-0077-chip-five-day-returns.png)
+
+*Figure 2. Average five-trading-day returns for selected earnings windows. The event is a change in **reported capex**, and overlapping events prevent treating every window as an independent observation.*
+
+A "raise" event was defined as **quarter-on-quarter growth in reported capex** at an earnings call, yielding 21 observations. The example calculated five-trading-day price performance following those calls.
+
+| Security | Mean five-day return after selected capex-rise events | Excess over S&P 500 |
+| --- | ---: | ---: |
+| Broadcom (AVGO) | +1.88% | +1.03 percentage points |
+| TSMC (TSM) | +1.70% | +0.85 percentage points |
+| NVIDIA (NVDA) | +1.19% | +0.34 percentage points |
+| S&P 500 | +0.85% | Benchmark |
+
+The resulting averages show modest positive excess performance for the semiconductor names, with Broadcom strongest in this sample. **They do not establish that capex drove the returns.** For example, the same chip-price window can appear multiple times when hyperscalers report on the same day.
+
+## Research workflow
+
+1. Build a dated capital-expenditure series for each company and normalize reporting periods.
+2. Classify the event using a documented rule: reported capex growth or independently checked forward **guidance**—do not conflate them.
+3. Align earnings timestamps with the next five trading sessions for the chip stocks and the benchmark.
+4. De-duplicate overlapping event windows or explicitly flag the shared market exposure.
+5. Compare absolute and excess returns with both hit rate and event-by-event outcomes.
+
+## Limitations
+
+- The measured event is **reported capex growth**, a proxy for guidance; this execution could not reliably extract every verbatim forward-dollar guidance announcement.
+- Multiple earnings announcements share return windows. The 21 observations therefore do not represent 21 independent trading signals.
+- Returns are price-only, and market conditions, concurrent chip earnings and other news can dominate the observed five-day performance.
+- The data are a historical illustration, not an assessment of current capex guidance.
+
+## What this use case demonstrates
+
+Reflexivity can join financial-statement observations, earnings dates and market-price windows into a comparative event study while keeping the event definition explicit. The next research pass should rebuild events from verified management guidance and remove overlapping price windows.
+
+**Related example:** [Analyze hyperscaler off-balance-sheet obligations](../05-multi-asset/hyperscaler-off-balance-sheet-debt.md), which addresses financing risk rather than chip-stock event returns.
+
+## Additional examples and supporting information
+
+Additional research examples and cross-platform comparisons may be available upon request, subject to applicable access and redistribution permissions. Contact **jim@reflexivity.com** and reference **RX-USECASE-0077**.
+
+---
+
+[← All use cases](../../README.md) · [Asset-class index](README.md)

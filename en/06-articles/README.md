@@ -4,8 +4,6 @@
 **Languages:** **English** · [日本語](../../ja/06-articles/README.md) · [한국어](../../ko/06-articles/README.md) · [简体中文](../../zh-cn/06-articles/README.md) · [繁體中文（台灣）](../../zh-tw/06-articles/README.md) · [繁體中文（香港）](../../zh-hk/06-articles/README.md)
 <!-- locale-switcher:end -->
 
-undefined
-
 Public Articles on institutional AI research, trust, research workflows, and relationship intelligence.
 
 - [AI Research Foundations](01-ai-research-foundations/README.md)
@@ -19,6 +17,8 @@ Public Articles on institutional AI research, trust, research workflows, and rel
 - **Part 2: Flow** - [AI Is Only Useful When It Arrives at the Point of Decision](04-research-workflows/ai-is-only-useful-when-it-arrives-at-the-point-of-decision.md)
 - **Part 3: Compliance** - [Compliance Has to Be Designed Into the Research Workflow](02-trust-and-auditability/compliance-has-to-be-designed-into-the-research-workflow.md)
 - **Global evidence** - [How Financial Institutions Across Major Markets Are Adopting AI: What Official Evidence Shows](02-trust-and-auditability/how-financial-institutions-across-major-markets-are-adopting-ai.md)
+
+- **Japan research workflows (October 2026)** — [From Investment Questions to Research Workflows: Eight Examples from Japan](04-research-workflows/from-investment-questions-to-research-workflows-japan-2026.md)
 
 Additional access-controlled Articles remain available in [Reflexivity Platform](https://github.com/reflexivity-kb/platform/blob/main/en/06-articles/README.md) (access required).
 

@@ -25,6 +25,13 @@ These links point to the article in the asset-class view. Provider and source da
 - [Compare 10-year government-bond yields across major markets](../../03-asset-class/02-fixed-income/global-10y-government-yields.md): Provided by QUICK | 2026-09-01
 - [Analyze the cross-asset impact of an Iran-attack scenario](../../03-asset-class/05-multi-asset/iran-attack-cross-asset-impact.md): Provided by QUICK | 2026-03-02
 
+## Use Cases
+
+- [BOJ policy scenarios and Japanese asset implications](../../03-asset-class/03-macro/boj-policy-path-scenarios-cross-asset-sensitivity.md) — macro scenario analysis
+- [Japanese equity sensitivity to abrupt yen appreciation](../../03-asset-class/01-FX/usdjpy-appreciation-topix-core30-sensitivity.md) — overseas allocation risk
+- [Portfolio downside risk in a 5% S&P 500 correction](../../03-asset-class/05-multi-asset/portfolio-monte-carlo-spx-five-percent-correction.md) — multi-asset stress testing
+
+
 ---
 
 [← All Use Cases](../../README.md)

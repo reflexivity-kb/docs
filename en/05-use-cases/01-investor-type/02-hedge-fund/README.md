@@ -59,6 +59,18 @@ Partner-provided examples include provider and date context. Tier labels are use
 - [Find the common drivers behind last week's strongest equity themes](../../03-asset-class/04-equities/weekly-rising-themes.md): Provided by QUICK | 2026-08-03
 - [Turn strong themes into US and Japanese company candidates](../../03-asset-class/04-equities/top-themes-and-us-japan-company-picks.md): Provided by QUICK | 2025-12-26
 
+## Use Cases
+
+- [BOJ policy scenarios across Nikkei, USD/JPY and JGB yields](../../03-asset-class/03-macro/boj-policy-path-scenarios-cross-asset-sensitivity.md) — macro scenarios
+- [Hyperscaler spending and AI chip-stock reactions](../../03-asset-class/04-equities/hyperscaler-capex-chip-stock-reactions.md) — event research
+- [Japanese bank returns and EPS after BOJ decisions](../../03-asset-class/04-equities/japanese-bank-returns-vs-topix-after-boj-hikes.md) — rates/financials
+- [Japanese NVIDIA supply-chain and earnings reactions](../../03-asset-class/04-equities/japanese-nvidia-supply-chain-earnings-reactions.md) — thematic stocks
+- [TOPIX Core 30 sensitivity to sharp yen appreciation](../../03-asset-class/01-FX/usdjpy-appreciation-topix-core30-sensitivity.md) — FX-to-equity stress
+- [Short-JPY positioning and Nikkei unwind asymmetry](../../03-asset-class/01-FX/jpy-positioning-nikkei-unwind-asymmetry.md) — macro positioning
+- [Multi-asset Monte Carlo stress under a 5% SPX fall](../../03-asset-class/05-multi-asset/portfolio-monte-carlo-spx-five-percent-correction.md) — portfolio risk
+- [US banks' earnings-day returns and NII guidance](../../03-asset-class/04-equities/us-bank-earnings-net-interest-income-guidance.md) — earnings research
+
+
 ---
 
 [← All Use Cases](../../README.md)
