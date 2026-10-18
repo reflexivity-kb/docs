@@ -79,7 +79,7 @@ To convert the directional narrative into stronger evidence, add contemporaneous
 
 ## What this use case demonstrates
 
-Cross-asset Deep Research can identify a **carry-trade stress narrative and its missing data inputs**. Good research explicitly flags when its conclusion rests on proxies rather than inventing a measured hedge ratio or net-short total.
+Cross-asset research on Reflexivity can identify a **carry-trade stress narrative and its missing data inputs**. Good research explicitly flags when its conclusion rests on proxies rather than inventing a measured hedge ratio or net-short total.
 
 **Related example:** [Analyze the drivers of a rapid yen rally](yen-strength-background-outlook.md).
 
