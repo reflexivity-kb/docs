@@ -75,7 +75,7 @@ The July 2024 period contains broader market stress; these results are **associa
 
 ## What this use case demonstrates
 
-Deep Research combines event calendars, price history, benchmark-relative returns and analyst estimates in one question. The resulting comparison can be expanded into a multi-bank earnings-sensitivity or net-interest-margin follow-up, with clear distinctions between policy events and concurrent market shocks.
+The Reflexivity platform combines event calendars, price history, benchmark-relative returns and analyst estimates in one question. The resulting comparison can be expanded into a multi-bank earnings-sensitivity or net-interest-margin follow-up, with clear distinctions between policy events and concurrent market shocks.
 
 ## Additional examples and supporting information
 
