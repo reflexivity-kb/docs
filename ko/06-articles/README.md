@@ -20,6 +20,8 @@ undefined
 - **Part 3: Compliance** - [리서치 워크플로에 컴플라이언스를 설계해야 하는 이유](02-신뢰성과-감사가능성/리서치-워크플로에-컴플라이언스를-설계해야-하는-이유.md)
 - **글로벌 동향** - [주요 금융시장에서 금융기관은 AI를 어떻게 도입하고 있는가](02-신뢰성과-감사가능성/주요-금융시장에서-금융기관은-AI를-어떻게-도입하고-있는가.md)
 
+- **Alfred에 대한 고찰:** [Alfred가 지향하는 것: 답변하는 AI에서 금융 업무를 이해하는 AI로](04-리서치-워크플로/Alfred가-지향하는-것-답변하는-AI에서-금융-업무를-이해하는-AI로.md)
+
 그 밖의 접근 제한 Articles는 [Reflexivity Platform](https://github.com/reflexivity-kb/platform/blob/main/ko/06-articles/README.md)에서 확인할 수 있습니다 (접근 권한 필요).
 
 접근 권한이나 문서 관련 문의는 **jim@reflexivity.com**으로 연락해 주세요.
