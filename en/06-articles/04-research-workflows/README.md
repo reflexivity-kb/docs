@@ -16,3 +16,4 @@ These articles cover continuous monitoring, on-demand analysis, persistent resea
 - [From Signal Detection to Decision Support](from-signal-detection-to-decision-support.md)
 
 - [AI Is Only Useful When It Arrives at the Point of Decision](ai-is-only-useful-when-it-arrives-at-the-point-of-decision.md)
+- [Alfred's North Star: From AI Answers to Investment Workflows](alfreds-north-star-from-ai-answers-to-investment-workflows.md)
