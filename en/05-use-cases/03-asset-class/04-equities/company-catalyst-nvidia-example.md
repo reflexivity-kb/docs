@@ -106,4 +106,10 @@ This content was provided by QUICK.
 
 Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
+## Related product features
+
+- [Insights — Company Catalyst](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/insights.md)
+
+The linked manual may require authorized access.
+
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
