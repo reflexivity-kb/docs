@@ -27,6 +27,15 @@ These pages preserve source context, dated observations, and scenario uncertaint
 
 - [Use the Market Leading Indicator to compare signals with actual market moves](market-leading-indicator-dashboard.md): QUICK | 2026-09-28
 
+## New research workflows (August–November 2026)
+
+- [Trace the bond, FX and equity reaction to a US CPI surprise](trace-the-bond-fx-and-equity-reaction-to-a-us-cpi-surprise.md): 2026-11-11 · alfred
+- [Explain different US and Japan equity reactions to midterm results](explain-different-us-and-japan-equity-reactions-to-midterm-results.md): 2026-11-05 · alfred
+- [Build a morning Japan market briefing with a short Alfred prompt](build-a-morning-japan-market-briefing-with-a-short-alfred-prompt.md): 2026-11-04 · alfred
+- [Compare volatility before and after US midterm elections](compare-volatility-before-and-after-us-midterm-elections.md): 2026-10-26 · alfred
+- [Map cross-asset effects of expanded EU sanctions on Russia](map-cross-asset-effects-of-expanded-eu-sanctions-on-russia.md): 2026-10-13 · alfred
+- [Build a six-month WTI oil outlook from supply and demand](build-a-six-month-wti-oil-outlook-from-supply-and-demand.md): 2026-10-09 · alfred
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)

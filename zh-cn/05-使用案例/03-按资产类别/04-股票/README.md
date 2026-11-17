@@ -42,6 +42,28 @@
 - [用 Earnings Preview 为 Micron 财报做准备](美光财报预览.md): QUICK 提供 | 2026-09-30
 - [比较美国与日本的 AI、半导体和数据中心主题](AI-半导体-数据中心美日比较.md): QUICK 提供 | 2026-10-01
 
+## 2026年8月至11月研究案例
+
+- [从防务无人机主题寻找相关上市公司](从防务无人机主题寻找相关上市公司.md): 2026-11-16 · search, themes, screener
+- [比较创始人 CEO 辞任后的股价与行业影响](比较创始人-CEO-辞任后的股价与行业影响.md): 2026-11-13 · alfred
+- [比较日本 AI 基础设施受益股的强弱](比较日本-AI-基础设施受益股的强弱.md): 2026-11-12 · alfred
+- [以 Salesforce 为例制作公司摘要报告](以-Salesforce-为例制作公司摘要报告.md): 2026-11-10 · alfred, asset-overview, themes
+- [检验美国大型 IPO 长期跌破发行价的案例](检验美国大型-IPO-长期跌破发行价的案例.md): 2026-11-09 · alfred
+- [评估 AI 板块回调对 Anthropic IPO 定价的影响](评估-AI-板块回调对-Anthropic-IPO-定价的影响.md): 2026-11-06 · alfred
+- [检验美国中期选举后六个月标普 500 回报](检验美国中期选举后六个月标普-500-回报.md): 2026-11-02 · alfred
+- [梳理 AI 投资者与算力供应商的循环融资](梳理-AI-投资者与算力供应商的循环融资.md): 2026-10-30 · alfred, knowledge-graph
+- [横向比较美国大型科技公司的财报与股价反应](横向比较美国大型科技公司的财报与股价反应.md): 2026-10-29 · alfred
+- [按美国东部时间和日本时间列示财报](按美国东部时间和日本时间列示财报.md): 2026-10-28 · alfred, events
+- [解读 Anthropic S-1 与 IPO 连锁影响](解读-Anthropic-S-1-与-IPO-连锁影响.md): 2026-10-27 · alfred, asset-overview
+- [比较半导体材料主题中的日本公司表现](比较半导体材料主题中的日本公司表现.md): 2026-10-23 · themes, knowledge-graph, alfred
+- [借助关联主题分析跨行业的 SpaceX](借助关联主题分析跨行业的-SpaceX.md): 2026-10-22 · asset-overview, themes, insights
+- [研判 AI 与半导体行情是否见顶](研判-AI-与半导体行情是否见顶.md): 2026-10-21 · alfred
+- [用事件日历与个股概览准备美国财报季](用事件日历与个股概览准备美国财报季.md): 2026-10-20 · events, asset-overview, insights
+- [比较星巴克调整与美日咖啡连锁竞争](比较星巴克调整与美日咖啡连锁竞争.md): 2026-10-15 · alfred
+- [按发布日期整理美国财报季关注公司](按发布日期整理美国财报季关注公司.md): 2026-10-15 · alfred, events
+- [从仪表盘主题表现深入成分股](从仪表盘主题表现深入成分股.md): 2026-10-07 · dashboard, themes
+- [通过业绩预览与回顾研究 NVIDIA 财报](通过业绩预览与回顾研究-NVIDIA-财报.md): 2026-08-25 · events, insights, asset-overview
+
 ---
 
 [← 按资产类别浏览](../README.md) · [全部使用案例](../../README.md)

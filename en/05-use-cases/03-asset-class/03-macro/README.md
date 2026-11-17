@@ -26,6 +26,11 @@ Related examples are also listed here when they are useful for macro research.
 
 Cross-asset examples are included when they help connect macro analysis with other markets.
 
+## New research workflows (August–November 2026)
+
+- [Compare Fed, ECB and BOJ policy stances and bond-market risks](compare-fed-ecb-and-boj-policy-stances-and-bond-market-risks.md): 2026-10-28 · alfred
+- [Compare China GDP sensitivity in Japanese and Hong Kong equities](compare-china-gdp-sensitivity-in-japanese-and-hong-kong-equities.md): 2026-10-19 · alfred
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)

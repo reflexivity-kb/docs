@@ -43,6 +43,28 @@
 - [Micron 실적을 Earnings Preview로 준비하기](마이크론-실적-프리뷰.md): QUICK 제공 | 2026-09-30: `RX-USECASE-0071`
 - [미국과 일본의 AI·반도체·데이터센터 테마를 비교하기](AI-반도체-데이터센터-미일비교.md): QUICK 제공 | 2026-10-01: `RX-USECASE-0072`
 
+## 2026년 8~11월 리서치 사례
+
+- [방위용 드론 테마에서 관련 기업 찾기](방위용-드론-테마에서-관련-기업-찾기.md): 2026-11-16 · search, themes, screener
+- [창업자 CEO 사임 이후 주가와 업계 영향 비교](창업자-CEO-사임-이후-주가와-업계-영향-비교.md): 2026-11-13 · alfred
+- [일본 AI 인프라 관련주의 강세·약세 비교](일본-AI-인프라-관련주의-강세·약세-비교.md): 2026-11-12 · alfred
+- [Salesforce 예시로 기업 요약 보고서 작성](Salesforce-예시로-기업-요약-보고서-작성.md): 2026-11-10 · alfred, asset-overview, themes
+- [미국 대형 IPO의 공모가 하회 사례 검증](미국-대형-IPO의-공모가-하회-사례-검증.md): 2026-11-09 · alfred
+- [AI 관련주 급락이 Anthropic IPO 가격에 미치는 영향](AI-관련주-급락이-Anthropic-IPO-가격에-미치는-영향.md): 2026-11-06 · alfred
+- [미국 중간선거 후 6개월 S&P500 수익률 검증](미국-중간선거-후-6개월-S&P500-수익률-검증.md): 2026-11-02 · alfred
+- [AI 투자자와 컴퓨트 공급사의 순환 금융 구조 분석](AI-투자자와-컴퓨트-공급사의-순환-금융-구조-분석.md): 2026-10-30 · alfred, knowledge-graph
+- [미국 주요 IT 기업의 실적·EPS 서프라이즈 비교](미국-주요-IT-기업의-실적·EPS-서프라이즈-비교.md): 2026-10-29 · alfred
+- [미국 실적 발표 시각을 ET·JST로 정리](미국-실적-발표-시각을-ET·JST로-정리.md): 2026-10-28 · alfred, events
+- [Anthropic S-1 기반 재무 및 IPO 파급 분석](Anthropic-S-1-기반-재무-및-IPO-파급-분석.md): 2026-10-27 · alfred, asset-overview
+- [반도체 소재 테마의 일본 기업 성과 비교](반도체-소재-테마의-일본-기업-성과-비교.md): 2026-10-23 · themes, knowledge-graph, alfred
+- [SpaceX를 업종 외 연관 테마로 분석](SpaceX를-업종-외-연관-테마로-분석.md): 2026-10-22 · asset-overview, themes, insights
+- [AI·반도체 상승세의 정점 여부 분석](AI·반도체-상승세의-정점-여부-분석.md): 2026-10-21 · alfred
+- [Events와 종목 개요로 미국 실적 시즌 준비](Events와-종목-개요로-미국-실적-시즌-준비.md): 2026-10-20 · events, asset-overview, insights
+- [스타벅스 구조조정과 미·일 커피 체인 비교](스타벅스-구조조정과-미·일-커피-체인-비교.md): 2026-10-15 · alfred
+- [미국 실적 시즌 관심 기업을 날짜별로 정리](미국-실적-시즌-관심-기업을-날짜별로-정리.md): 2026-10-15 · alfred, events
+- [대시보드 테마 성과에서 구성 종목 분석](대시보드-테마-성과에서-구성-종목-분석.md): 2026-10-07 · dashboard, themes
+- [NVIDIA 실적 발표 전후 프리뷰와 리뷰 활용](NVIDIA-실적-발표-전후-프리뷰와-리뷰-활용.md): 2026-08-25 · events, insights, asset-overview
+
 ---
 
 [← 운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
