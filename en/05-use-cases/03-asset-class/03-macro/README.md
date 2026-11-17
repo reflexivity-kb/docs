@@ -26,6 +26,13 @@ Related examples are also listed here when they are useful for macro research.
 
 Cross-asset examples are included when they help connect macro analysis with other markets.
 
+## QUICK Research Examples (October–November 2026)
+
+- [Compare Fed ECB and BOJ policy stances and french bond risks](compare-fed-ecb-and-boj-policy-stances-and-french-bond-risks.md)
+- [Compare japan and hong kong equity sensitivity to china s GDP](compare-japan-and-hong-kong-equity-sensitivity-to-china-s-gdp.md)
+- [Prepare a japanese market morning briefing with alfred](prepare-a-japanese-market-morning-briefing-with-alfred.md)
+
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
