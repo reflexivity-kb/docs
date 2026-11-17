@@ -3,9 +3,8 @@ id: RX-USECASE-0092
 type: use-case
 language: ja
 locale: ja
-author: Reflexivity GTM Team
 source_type: partner-provided-use-case
-provider: QUICK
+provider: 株式会社QUICK
 source_manifest: RX-USECASE-0092
 source_created: 2026-10-27
 published: 2026-11-17
@@ -39,7 +38,7 @@ prompt_basis: source-verbatim
 
 ## 提供時点の分析
 
-原資料は2025年売上約46億ドル、2026年上期売上約163億ドルと大規模な非現金調整を含む損失を示しました。Broadcom、Alphabet、Microsoft、Amazon、AMDの計算資源関連契約と波及可能性を整理します。
+2025年売上約46億ドル、2026年上期売上約163億ドルと大規模な非現金調整を含む損失を示しました。Broadcom、Alphabet、Microsoft、Amazon、AMDの計算資源関連契約と波及可能性を整理します。
 
 ## 読み方と注意点
 
@@ -55,6 +54,8 @@ prompt_basis: source-verbatim
 
 ## 提供元
 
-本コンテンツは株式会社QUICKから提供されたReflexivity活用例です。数値と市場の見方は提供日時点のもので、現在の予測ではありません。
+本コンテンツは、株式会社QUICKよりご提供いただいたものです。
+
+国・地域や言語環境、利用製品、データ提供範囲などによっては、内容をそのまま適用できない場合があります。
 
 [← Use Cases](../../README.md)

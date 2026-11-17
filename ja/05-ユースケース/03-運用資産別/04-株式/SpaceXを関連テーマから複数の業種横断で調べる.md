@@ -3,9 +3,8 @@ id: RX-USECASE-0090
 type: use-case
 language: ja
 locale: ja
-author: Reflexivity GTM Team
 source_type: partner-provided-use-case
-provider: QUICK
+provider: 株式会社QUICK
 source_manifest: RX-USECASE-0090
 source_created: 2026-10-22
 published: 2026-11-17
@@ -29,7 +28,7 @@ prompt_status: not_provided
 
 ## 使用したプロンプト
 
-画面操作の例であり、入力したプロンプトは提供されていません。
+提供資料では、使用したプロンプトの全文は確認できません。
 
 ## この調査の進め方
 
@@ -53,6 +52,8 @@ SpaceXを単一の「宇宙関連」業種として扱わず、銘柄概要の�
 
 ## 提供元
 
-本コンテンツは株式会社QUICKより提供されたReflexivity活用例です。数値やテーマと画面は提供日時点のもので、現在の提供範囲と異なる場合があります。
+本コンテンツは、株式会社QUICKよりご提供いただいたものです。
+
+国・地域や言語環境、利用製品、データ提供範囲などによっては、内容をそのまま適用できない場合があります。
 
 [← Use Cases](../../README.md)
