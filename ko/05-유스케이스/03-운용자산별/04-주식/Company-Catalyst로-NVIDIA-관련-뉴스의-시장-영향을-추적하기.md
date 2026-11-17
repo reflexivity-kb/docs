@@ -108,7 +108,7 @@ Company Catalyst는 헤드라인을 리서치 맵으로 바꿀 때 가장 유용
 
 ## 관련 제품 기능
 
-- [인사이트 — 기업 카탈리스트](https://github.com/reflexivity-kb/platform/blob/main/ko/03-%EC%A0%9C%ED%92%88/insights.md)
+- [인사이트: 기업 카탈리스트](https://github.com/reflexivity-kb/platform/blob/main/ko/03-%EC%A0%9C%ED%92%88/insights.md)
 
 제품 매뉴얼 열람에는 접근 권한이 필요할 수 있습니다.
 
