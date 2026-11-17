@@ -63,4 +63,10 @@ This content was provided by QUICK.
 
 Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
+## Related product feature
+
+- [Dashboard — Leading Indicator](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/dashboard.md)
+
+Access to the product manual may require approval.
+
 [← Multi-Asset use cases](README.md) · [All use cases](../../README.md)
