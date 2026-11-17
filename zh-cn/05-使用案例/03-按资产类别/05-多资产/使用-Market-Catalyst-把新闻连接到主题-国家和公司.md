@@ -105,7 +105,7 @@ QUICK 原资料包括例如：
 
 ## 相关产品功能
 
-- [研究洞察 — 市场催化剂](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/03-%E4%BA%A7%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
+- [研究洞察: 市场催化剂](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/03-%E4%BA%A7%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
 
 查看产品手册可能需要访问权限。
 
