@@ -86,6 +86,11 @@ The Nikkei 225 rose in three of the four historical comparisons: **+12.2% in 201
 - Election results, prediction-market probabilities, and model outputs were not final and can change.
 - Returns are price returns and exclude dividends and reinvestment.
 
+## Longer-history follow-up: volatility and six-month S&P 500 returns
+
+A subsequent QUICK question on **October 26, 2026** compared the week before and after previous US midterms. The example separated implied volatility (VIX) from realized price volatility: a decline in VIX after the result does not mean that every following equity session will be calm. On **November 2**, a separate 14-midterm sample from 1970 through 2022 calculated six-month S&P 500 price returns; its reported average was **+13.65%** and all 14 observations in that selected window were positive. These are different historical samples and horizons from the four-event cross-asset study above. Neither result proves that elections cause a rally or determines a 2026 return.
+
+
 ## Source note
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-10-05.
