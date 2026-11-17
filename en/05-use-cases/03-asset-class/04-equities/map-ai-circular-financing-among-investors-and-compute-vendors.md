@@ -53,6 +53,12 @@ Official filing: [SEC Anthropic Form S-1](https://www.sec.gov/Archives/edgar/dat
 
 Product manual access may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-10-30 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0095/01-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.
