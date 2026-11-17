@@ -51,6 +51,16 @@ SpaceX를 단순한 우주 기업으로만 보지 않고 종목 개요의 관련
 
 제품 매뉴얼을 열람하려면 접근 권한이 필요할 수 있습니다.
 
+## 조사 화면과 도표
+
+아래는 제공 당시의 실제 조사 화면과 도표이며 현재 시장 데이터가 아닙니다.
+
+![2026-10-22 조사 화면과 도표 1](../../../../assets/usecases/quick/RX-USECASE-0090/01-source-screen.png)
+
+![2026-10-22 조사 화면과 도표 2](../../../../assets/usecases/quick/RX-USECASE-0090/02-source-screen.png)
+
+![2026-10-22 조사 화면과 도표 3](../../../../assets/usecases/quick/RX-USECASE-0090/03-source-screen.png)
+
 ## 제공처
 
 본 콘텐츠는 QUICK에서 제공한 자료입니다.
