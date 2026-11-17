@@ -52,6 +52,15 @@ Being related to a theme does not establish that a company is listed, liquid, or
 
 Access to the linked product manuals may require authorization.
 
+## Original workflow screenshots
+
+These two screenshots show the 16 November 2026 theme search and the move from related companies to performance, Watchlist or Screener.
+
+![Defense Drones theme research screen 1](../../../../assets/usecases/quick/RX-USECASE-0104/01-source-screen.png)
+
+![Defense Drones theme research screen 2](../../../../assets/usecases/quick/RX-USECASE-0104/02-source-screen.png)
+
+
 ## Provider
 
 This content was provided by QUICK.
