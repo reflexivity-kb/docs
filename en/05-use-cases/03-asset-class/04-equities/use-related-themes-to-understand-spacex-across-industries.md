@@ -51,6 +51,16 @@ Rank denotes thematic relationship, not revenue proportion, portfolio weight or 
 
 Product manual access may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-10-22 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0090/01-source-screen.png)
+
+![2026-10-22 Research screens and charts 2](../../../../assets/usecases/quick/RX-USECASE-0090/02-source-screen.png)
+
+![2026-10-22 Research screens and charts 3](../../../../assets/usecases/quick/RX-USECASE-0090/03-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

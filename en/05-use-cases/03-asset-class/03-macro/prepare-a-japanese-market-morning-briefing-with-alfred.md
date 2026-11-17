@@ -47,6 +47,12 @@ A morning preview can mix spot closes, overnight futures and forecasts. Always l
 
 Product manual access may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-11-04 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0096/01-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

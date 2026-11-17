@@ -51,6 +51,14 @@ GAAP과 조정 EPS, 회계연도와 달력 연도를 혼동하면 안 됩니다.
 
 제품 매뉴얼 열람에는 접근 권한이 필요할 수 있습니다.
 
+## 조사 화면과 도표
+
+아래는 제공 당시의 실제 조사 화면과 도표이며 현재 시장 데이터가 아닙니다.
+
+![2026-11-10 조사 화면과 도표 1](../../../../assets/usecases/quick/RX-USECASE-0100/01-source-screen.png)
+
+![2026-11-10 조사 화면과 도표 2](../../../../assets/usecases/quick/RX-USECASE-0100/02-source-screen.png)
+
 ## 제공처
 
 이 사례는 QUICK이 제공한 Reflexivity 분석으로, 수치는 제공 당시 기준이며 현재 전망이 아닙니다.

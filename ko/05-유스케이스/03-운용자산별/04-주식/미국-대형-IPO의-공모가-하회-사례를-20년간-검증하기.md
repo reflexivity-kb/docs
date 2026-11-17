@@ -47,6 +47,12 @@ prompt_basis: faithful-translation
 
 제품 매뉴얼은 접근 권한이 필요할 수 있습니다.
 
+## 조사 화면과 도표
+
+아래는 제공 당시의 실제 조사 화면과 도표이며 현재 시장 데이터가 아닙니다.
+
+![2026-11-09 조사 화면과 도표 1](../../../../assets/usecases/quick/RX-USECASE-0099/01-source-screen.png)
+
 ## 제공처
 
 이 문서는 QUICK이 제공한 2026년 Reflexivity 활용 사례입니다. 수치와 전망은 당시 기준입니다.

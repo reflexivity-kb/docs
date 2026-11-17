@@ -51,6 +51,14 @@ GAAP and adjusted EPS are not interchangeable; fiscal quarters may differ from c
 
 Product manual access may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-11-10 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0100/01-source-screen.png)
+
+![2026-11-10 Research screens and charts 2](../../../../assets/usecases/quick/RX-USECASE-0100/02-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

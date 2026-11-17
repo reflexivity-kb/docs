@@ -51,6 +51,12 @@ Price windows and the accounting basis of consensus and reported EPS must match.
 
 Product manual access may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-10-29 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0094/01-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

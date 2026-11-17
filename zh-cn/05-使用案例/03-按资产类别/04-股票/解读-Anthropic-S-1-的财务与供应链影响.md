@@ -53,6 +53,12 @@ prompt_basis: faithful-translation
 
 產品手冊可能需要獲授權才能查閱。
 
+## 研究界面与图表
+
+以下为提供日期的原始研究画面与图表，并非当前市场数据。
+
+![2026-10-27 研究界面与图表 1](../../../../assets/usecases/quick/RX-USECASE-0092/01-source-screen.png)
+
 ## 提供方
 
 本案例由 QUICK 提供，所列數據及判斷均屬當時研究快照，並非當前預測。

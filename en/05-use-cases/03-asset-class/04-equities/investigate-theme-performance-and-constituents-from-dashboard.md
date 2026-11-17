@@ -50,6 +50,18 @@ The source is a dated interface walkthrough, not a live ranking. Thematic associ
 
 The linked Product manual may require authorized access.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-10-07 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0084/01-source-screen.png)
+
+![2026-10-07 Research screens and charts 2](../../../../assets/usecases/quick/RX-USECASE-0084/02-source-screen.png)
+
+![2026-10-07 Research screens and charts 3](../../../../assets/usecases/quick/RX-USECASE-0084/03-source-screen.png)
+
+![2026-10-07 Research screens and charts 4](../../../../assets/usecases/quick/RX-USECASE-0084/04-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

@@ -51,6 +51,14 @@ The example was produced before the release; consensus is not the actual GDP pri
 
 The linked Product manual may require authorized access.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-10-19 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0088/01-source-screen.png)
+
+![2026-10-19 Research screens and charts 2](../../../../assets/usecases/quick/RX-USECASE-0088/02-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

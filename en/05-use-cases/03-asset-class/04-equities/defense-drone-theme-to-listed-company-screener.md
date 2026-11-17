@@ -52,6 +52,14 @@ Being related to a theme does not establish that a company is listed, liquid, or
 
 Access to the linked product manuals may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-11-16 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0104/01-source-screen.png)
+
+![2026-11-16 Research screens and charts 2](../../../../assets/usecases/quick/RX-USECASE-0104/02-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

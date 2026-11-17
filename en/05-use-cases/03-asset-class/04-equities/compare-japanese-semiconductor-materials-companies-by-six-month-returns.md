@@ -52,6 +52,12 @@ The 15-stock sample is selected by graph relevance, not market cap. Earnings Rec
 
 Product manual access may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-10-23 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0091/01-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.
