@@ -55,6 +55,8 @@ prompt_basis: faithful-translation
 
 ## 제공처
 
-이 사례는 QUICK이 제공한 Reflexivity 분석으로, 수치는 제공 당시 기준이며 현재 전망이 아닙니다.
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← Use Cases](../../README.md)
