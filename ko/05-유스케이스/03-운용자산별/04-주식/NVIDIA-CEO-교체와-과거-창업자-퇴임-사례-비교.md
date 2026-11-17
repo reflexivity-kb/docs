@@ -53,6 +53,14 @@ prompt_basis: faithful-translation
 
 제품 매뉴얼 열람에는 접근 권한이 필요할 수 있습니다.
 
+## 조사 화면과 도표
+
+아래는 제공 당시의 실제 조사 화면과 도표이며 현재 시장 데이터가 아닙니다.
+
+![2026-11-13 조사 화면과 도표 1](../../../../assets/usecases/quick/RX-USECASE-0103/01-source-screen.png)
+
+![2026-11-13 조사 화면과 도표 2](../../../../assets/usecases/quick/RX-USECASE-0103/02-source-screen.png)
+
 ## 제공처
 
 본 콘텐츠는 QUICK에서 제공한 자료입니다.

@@ -51,6 +51,14 @@ These are October 2026 source assumptions, not a current forecast. Supply interr
 
 The linked Product manual may require authorized access.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-10-09 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0085/01-source-screen.png)
+
+![2026-10-09 Research screens and charts 2](../../../../assets/usecases/quick/RX-USECASE-0085/02-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

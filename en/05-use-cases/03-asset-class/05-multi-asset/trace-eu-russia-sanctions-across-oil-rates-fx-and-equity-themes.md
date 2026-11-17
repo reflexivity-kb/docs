@@ -51,6 +51,12 @@ Market moves also depend on other conflicts, peace negotiations and refinery dis
 
 The linked Product manual may require authorized access.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-10-13 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0086/01-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

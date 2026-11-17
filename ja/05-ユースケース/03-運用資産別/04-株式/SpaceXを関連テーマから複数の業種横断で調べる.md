@@ -50,6 +50,16 @@ SpaceXを単一の「宇宙関連」業種として扱わず、銘柄概要の�
 
 製品マニュアルの閲覧にはアクセス権が必要な場合があります。
 
+## 調査画面と図表
+
+以下は提供日時点の調査画面・図表であり、現在の市場数値ではありません。
+
+![2026-10-22 調査画面と図表 1](../../../../assets/usecases/quick/RX-USECASE-0090/01-source-screen.png)
+
+![2026-10-22 調査画面と図表 2](../../../../assets/usecases/quick/RX-USECASE-0090/02-source-screen.png)
+
+![2026-10-22 調査画面と図表 3](../../../../assets/usecases/quick/RX-USECASE-0090/03-source-screen.png)
+
 ## 提供元
 
 本コンテンツは、株式会社QUICKよりご提供いただいたものです。

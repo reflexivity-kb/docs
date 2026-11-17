@@ -51,6 +51,12 @@ The seven-session period is short; the election, company-specific earnings, comm
 
 Product manual access may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-11-12 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0102/01-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

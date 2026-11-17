@@ -51,6 +51,14 @@ This is a meeting-eve historical scenario, not today's policy-rate table. Cross-
 
 Product manual access may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-10-28 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0093/01-source-screen.png)
+
+![2026-10-28 Research screens and charts 2](../../../../assets/usecases/quick/RX-USECASE-0093/02-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.

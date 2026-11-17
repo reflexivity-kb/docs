@@ -62,6 +62,20 @@ That makes the earnings event a structured research process rather than a one-of
 The August 25, 2026 NVIDIA example begins from **Events**, checks the scheduled earnings date, reads **Earnings Preview** for consensus revenue/EPS and notable KPIs, then opens the full Catalyst analysis for related themes and companies. The October 20 example shows the same pre-event path from the company-specific **Asset Overview**, as well as the cross-company calendar. After publication, the review is compared with the questions asked beforehand. All schedule and consensus figures belong to the source date.
 
 
+## Additional original research visuals
+
+These source-date visuals extend the historical workflow. They are not current market observations.
+
+![2026-08-25 Additional original research visuals 1](../../../../assets/usecases/quick/RX-USECASE-0071/2026-08-25-01-source-screen.png)
+
+![2026-08-25 Additional original research visuals 2](../../../../assets/usecases/quick/RX-USECASE-0071/2026-08-25-02-source-screen.png)
+
+![2026-10-20 Additional original research visuals 3](../../../../assets/usecases/quick/RX-USECASE-0071/2026-10-20-01-source-screen.png)
+
+![2026-10-20 Additional original research visuals 4](../../../../assets/usecases/quick/RX-USECASE-0071/2026-10-20-02-source-screen.png)
+
+![2026-10-20 Additional original research visuals 5](../../../../assets/usecases/quick/RX-USECASE-0071/2026-10-20-03-source-screen.png)
+
 ## Source note
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-09-30. Only information visible in the supplied email and screenshots is included.
