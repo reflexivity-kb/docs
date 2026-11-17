@@ -65,7 +65,7 @@ Depending on country or region, language environment, product used, entitlements
 
 ## Related product feature
 
-- [Dashboard — Leading Indicator](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/dashboard.md)
+- [Dashboard: Leading Indicator](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/dashboard.md)
 
 Access to the product manual may require approval.
 
