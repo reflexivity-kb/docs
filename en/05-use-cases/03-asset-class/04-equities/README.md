@@ -4,11 +4,6 @@ Research and workflow examples for equity themes, company events, earnings, scre
 
 ## Use Cases
 
-- [Test AAPL's price pattern around iPhone launches](iphone-launch-and-aapl-price-pattern.md)
-
-- [Compare the Magnificent Seven's financial capacity and rate resilience](magnificent-seven-financial-comparison.md)
-- [Find Japanese companies related to rising US stocks](rising-us-stocks-related-japanese-companies.md)
-
 ## Hedge Fund Examples
 
 - [Nvidia launches $500B AI infrastructure funding push (NVDA)](nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md)
@@ -50,6 +45,9 @@ Cross-asset examples are also included when they help connect equity analysis wi
 - [Compare AI, semiconductor and data-center themes in the US and Japan](ai-semiconductor-data-center-themes-us-japan.md): QUICK | 2026-10-01
 - [Prepare for Micron earnings with the Earnings Preview workflow](micron-earnings-preview-workflow.md): QUICK | 2026-09-30
 - [Analyze the impact of NVIDIA's $150 billion share-repurchase increase](nvidia-share-repurchase-impact.md): QUICK | 2026-09-29
+- [Find Japanese companies related to rising US stocks](rising-us-stocks-related-japanese-companies.md): QUICK | 2026-09-18
+- [Compare the Magnificent Seven's financial capacity and rate resilience](magnificent-seven-financial-comparison.md): QUICK | 2026-09-17
+- [Test AAPL's price pattern around iPhone launches](iphone-launch-and-aapl-price-pattern.md): QUICK | 2026-09-11
 - [Analyze the US IPO market through completed deals and the forward pipeline](us-ipo-market-analysis.md): QUICK | 2026-09-10
 - [Use Company Catalyst to trace the market impact of NVIDIA-related news](company-catalyst-nvidia-example.md): QUICK | 2026-09-04
 - [Build a research workflow around US retail earnings week](us-retail-earnings-calendar-workflow.md): QUICK | 2026-08-18
