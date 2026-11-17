@@ -7,7 +7,7 @@ provider: 株式会社QUICK
 provided: 2026-09-04
 status: published
 translation_status: local-only
-revised: 2026-09-27
+revised: 2026-11-17
 editorial_reviewed: 2026-09-27
 source_type: partner-provided-use-case
 source_manifest: RX-USECASE-0057
@@ -87,6 +87,12 @@ Company Catalystは、見出しの内容を短く知るためだけのもので�
 ## このユースケースの位置づけ
 
 Company Catalystを単なるニュース要約として見るのではなく、重要ポイント、経営陣発言、ネットワーク波及、地域エクスポージャーへ順番に掘り下げる例です。
+
+## 関連機能
+
+- [インサイト — 企業カタリスト](https://github.com/reflexivity-kb/platform/blob/main/ja/03-%E8%A3%BD%E5%93%81/%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88.md)
+
+製品マニュアルの閲覧にはアクセス権が必要な場合があります。
 
 [← ユースケース一覧](../../README.md)
 
