@@ -2,6 +2,7 @@
 
 Research and workflow examples for equity themes, company events, earnings, screening, and market leadership.
 
+
 ## Use Cases
 
 - [Compare the themes leading US and Japanese equities](us-japan-market-leading-themes.md)
@@ -15,6 +16,7 @@ Research and workflow examples for equity themes, company events, earnings, scre
 
 - [Compare the Magnificent Seven's financial capacity and rate resilience](magnificent-seven-financial-comparison.md)
 - [Find Japanese companies related to rising US stocks](rising-us-stocks-related-japanese-companies.md)
+
 
 ## Hedge Fund Examples
 
@@ -40,27 +42,23 @@ Cross-asset examples are also included when they help connect equity analysis wi
 
 ## QUICK Partner-Provided Use Cases
 
-- [Analyze the impact of NVIDIA's $150 billion share-repurchase increase](nvidia-share-repurchase-impact.md): QUICK | 2026-09-29
-- [Prepare for Micron earnings with the Earnings Preview workflow](micron-earnings-preview-workflow.md): QUICK | 2026-09-30
+- [Defense drone theme to listed company screener](defense-drone-theme-to-listed-company-screener.md): QUICK | 2026-11-16
+- [Compare founder ceo departures and NVIDIA s industry spillovers](compare-founder-ceo-departures-and-nvidia-s-industry-spillovers.md): QUICK | 2026-11-13
+- [Separate japanese AI picks and shovels winners from laggards](separate-japanese-ai-picks-and-shovels-winners-from-laggards.md): QUICK | 2026-11-12
+- [Build a reusable salesforce analyst style company report](build-a-reusable-salesforce-analyst-style-company-report.md): QUICK | 2026-11-10
+- [Test how long us large ipos trade below their offer prices](test-how-long-us-large-ipos-trade-below-their-offer-prices.md): QUICK | 2026-11-09
+- [Assess how a technology selloff can affect an upcoming anthropic IPO](assess-how-a-technology-selloff-can-affect-an-upcoming-anthropic-ipo.md): QUICK | 2026-11-06
+- [Map AI circular financing among investors and compute vendors](map-ai-circular-financing-among-investors-and-compute-vendors.md): QUICK | 2026-10-30
+- [Compare us technology earnings beats with share price reactions](compare-us-technology-earnings-beats-with-share-price-reactions.md): QUICK | 2026-10-29
+- [Anthropic S-1 financial growth compute costs and affected suppliers](anthropic-s-1-financial-growth-compute-costs-and-affected-suppliers.md): QUICK | 2026-10-27
+- [Compare japanese semiconductor materials companies by six month returns](compare-japanese-semiconductor-materials-companies-by-six-month-returns.md): QUICK | 2026-10-23
+- [Use related themes to understand spacex across industries](use-related-themes-to-understand-spacex-across-industries.md): QUICK | 2026-10-22
+- [Is the AI and semiconductor rally peaking](is-the-ai-and-semiconductor-rally-peaking.md): QUICK | 2026-10-21
+- [Compare starbucks restructuring with us coffee chain competitors](compare-starbucks-restructuring-with-us-coffee-chain-competitors.md): QUICK | 2026-10-15
+- [Investigate theme performance and constituents from dashboard](investigate-theme-performance-and-constituents-from-dashboard.md): QUICK | 2026-10-07
 - [Compare AI, semiconductor and data-center themes in the US and Japan](ai-semiconductor-data-center-themes-us-japan.md): QUICK | 2026-10-01
-
-## QUICK Research Examples (October–November 2026)
-
-- [Anthropic S-1 financial growth compute costs and affected suppliers](anthropic-s-1-financial-growth-compute-costs-and-affected-suppliers.md)
-- [Assess how a technology selloff can affect an upcoming anthropic IPO](assess-how-a-technology-selloff-can-affect-an-upcoming-anthropic-ipo.md)
-- [Build a reusable salesforce analyst style company report](build-a-reusable-salesforce-analyst-style-company-report.md)
-- [Compare founder ceo departures and NVIDIA s industry spillovers](compare-founder-ceo-departures-and-nvidia-s-industry-spillovers.md)
-- [Compare japanese semiconductor materials companies by six month returns](compare-japanese-semiconductor-materials-companies-by-six-month-returns.md)
-- [Compare starbucks restructuring with us coffee chain competitors](compare-starbucks-restructuring-with-us-coffee-chain-competitors.md)
-- [Compare us technology earnings beats with share price reactions](compare-us-technology-earnings-beats-with-share-price-reactions.md)
-- [Defense drone theme to listed company screener](defense-drone-theme-to-listed-company-screener.md)
-- [Investigate theme performance and constituents from dashboard](investigate-theme-performance-and-constituents-from-dashboard.md)
-- [Is the AI and semiconductor rally peaking](is-the-ai-and-semiconductor-rally-peaking.md)
-- [Map AI circular financing among investors and compute vendors](map-ai-circular-financing-among-investors-and-compute-vendors.md)
-- [Separate japanese AI picks and shovels winners from laggards](separate-japanese-ai-picks-and-shovels-winners-from-laggards.md)
-- [Test how long us large ipos trade below their offer prices](test-how-long-us-large-ipos-trade-below-their-offer-prices.md)
-- [Use related themes to understand spacex across industries](use-related-themes-to-understand-spacex-across-industries.md)
-
+- [Prepare for Micron earnings with the Earnings Preview workflow](micron-earnings-preview-workflow.md): QUICK | 2026-09-30
+- [Analyze the impact of NVIDIA's $150 billion share-repurchase increase](nvidia-share-repurchase-impact.md): QUICK | 2026-09-29
 
 ---
 
