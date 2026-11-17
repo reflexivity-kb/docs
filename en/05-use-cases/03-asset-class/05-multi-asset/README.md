@@ -6,8 +6,6 @@ Research and workflow examples that test one investment question across multiple
 
 - [Test whether bond-market signals relate to forward equity returns](bond-signals-vs-forward-equity-returns.md)
 - [Trace hawkish-policy beneficiaries from macro channels to companies](hawkish-policy-beneficiaries-knowledge-graph.md)
-- [Compare oil-price surges by regime and trace the sector impact](oil-price-surge-regime-comparison.md)
-- [Trace how higher US long-term rates transmit into Japanese markets](us-rates-impact-on-japan.md)
 - [Turn today's newsflow into five investment ideas to study](newsflow-top-five-investment-ideas.md)
 
 These pages preserve source context, dated observations, and scenario uncertainty.
@@ -22,7 +20,9 @@ These pages preserve source context, dated observations, and scenario uncertaint
 - [Compare U.S. midterm elections with current cross-market conditions](us-midterm-election-cross-market-scenarios.md): QUICK | 2026-10-05
 - [Compare oil and gold through inflation, rates, and forward scenarios](oil-gold-inflation-rates-scenarios.md): QUICK | 2026-10-02
 - [Use the Market Leading Indicator to compare signals with actual market moves](market-leading-indicator-dashboard.md): QUICK | 2026-09-28
+- [Compare oil-price surges by regime and trace the sector impact](oil-price-surge-regime-comparison.md): QUICK | 2026-09-14
 - [Test the price relationship between Robinhood and Bitcoin](robinhood-bitcoin-correlation.md): QUICK | 2026-08-24
+- [Trace how higher US long-term rates transmit into Japanese markets](us-rates-impact-on-japan.md): QUICK | 2026-08-20
 - [Trace news into themes, countries, and companies with Market Catalyst](market-catalyst-news-to-themes-countries-companies.md): QUICK | 2026-08-17
 - [Analyze hyperscaler off-balance-sheet obligations](hyperscaler-off-balance-sheet-debt.md): QUICK | 2026-08-05
 - [Analyze the cross-asset impact of an Iran-attack scenario](iran-attack-cross-asset-impact.md): QUICK | 2026-03-02
