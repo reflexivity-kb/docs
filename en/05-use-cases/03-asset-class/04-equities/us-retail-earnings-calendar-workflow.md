@@ -131,6 +131,13 @@ Depending on country or region, language environment, product used, entitlements
 The October 15 example uses Alfred to flag which US companies have earnings in the October 20 to November 6 window and why their reports matter. The October 20 example demonstrates two starting points: the cross-company **Events** calendar and the individual company's earnings date in **Asset Overview**. On October 28, the same approach is used to distinguish the US announcement date from Japan-time viewing before moving from Earnings Preview to the post-release review. These examples are dated planning workflows, not today's earnings calendar.
 
 
+
+## Additional earnings-watchlist screenshot
+
+The 15 October 2026 research example shows how an upcoming earnings period can be reduced to a focused list of companies worth monitoring.
+
+![Earnings-watchlist screen from 15 October 2026](../../../../assets/usecases/quick/RX-USECASE-0056/2026-10-15-01-source-screen.png)
+
 ## Related product features
 
 - [Events: earnings calendar](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/events.md)
