@@ -6,6 +6,7 @@ locale: ko
 author: Reflexivity GTM Team
 source_type: partner-provided-use-case
 provider: QUICK
+source_manifest: RX-USECASE-0097
 source_created: 2026-11-05
 published: 2026-11-17
 revised: 2026-11-17
