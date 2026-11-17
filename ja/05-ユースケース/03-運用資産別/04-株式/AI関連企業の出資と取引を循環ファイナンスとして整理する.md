@@ -44,7 +44,7 @@ AI企業への出資者が同時にクラウドやチップの供給者となる
 
 出資、拘束力のある購入義務、選択的な将来購入、供給者の売上は別の概念です。金額の単純合算や二重計上を避け、契約発効時期と支払条件を区別します。
 
-公式一次資料: [SEC Form S-1](An equity investment, a binding purchase commitment, an option to buy compute and the resulting supplier revenue are not the same cash flow. Do not sum headline amounts, infer double-counted revenue, or assume every contractual dollar is realized.,出資、拘束力のある購入義務、選択的な将来購入、供給者の売上は別の概念です。金額の単純合算や二重計上を避け、契約発効時期と支払条件を区別します。,출자금, 확정 구매 의무, 선택적 미래 계약, 공급업체 매출은 서로 다릅니다. 금액을 단순 합산하거나 실제 매출로 확정해 해석하면 안 됩니다.,股权投资、强制购买承诺、选择性算力采购及供应商收入不是同一现金流。不能简单相加或把承诺全部当成已实现收入。,股權投資、強制購買承諾、選擇性算力採購及供應商收入不是同一現金流。不可直接加總或把承諾全數當成已實現收入。,股權投資、強制採購承諾、選擇性算力採購及供應商收入並非同一現金流。不可直接加總或把承諾全部當作已實現收入。)
+公式資料: [SEC Anthropic Form S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 
 ## 関連機能
 
