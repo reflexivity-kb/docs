@@ -27,6 +27,14 @@ These pages preserve source context, dated observations, and scenario uncertaint
 
 - [Use the Market Leading Indicator to compare signals with actual market moves](market-leading-indicator-dashboard.md): QUICK | 2026-09-28
 
+## QUICK Research Examples (October–November 2026)
+
+- [Analyze wti crude oil supply inventories and a six month price outlook](analyze-wti-crude-oil-supply-inventories-and-a-six-month-price-outlook.md)
+- [Compare post midterm AI shares across us and japan with FX scenarios](compare-post-midterm-ai-shares-across-us-and-japan-with-fx-scenarios.md)
+- [Trace eu russia sanctions across oil rates FX and equity themes](trace-eu-russia-sanctions-across-oil-rates-fx-and-equity-themes.md)
+- [Trace us cpi surprises through bonds FX and equities](trace-us-cpi-surprises-through-bonds-fx-and-equities.md)
+
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
