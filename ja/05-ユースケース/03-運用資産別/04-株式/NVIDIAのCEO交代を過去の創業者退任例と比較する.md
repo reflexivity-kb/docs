@@ -52,6 +52,15 @@ prompt_basis: source-verbatim
 
 製品マニュアルの閲覧にはアクセス権が必要な場合があります。
 
+## 調査画面と図表
+
+次の2枚は2026年11月13日に作成された創業者CEO退任比較と株価・業界への波及分析の画面です。
+
+![NVIDIAのCEO交代と過去事例の比較画面 1](../../../../assets/usecases/quick/RX-USECASE-0103/01-source-screen.png)
+
+![NVIDIAのCEO交代と過去事例の比較画面 2](../../../../assets/usecases/quick/RX-USECASE-0103/02-source-screen.png)
+
+
 ## 提供元
 
 本コンテンツは、株式会社QUICKよりご提供いただいたものです。
