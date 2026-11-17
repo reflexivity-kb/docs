@@ -29,7 +29,7 @@ prompt_status: not_provided
 
 ## Prompt used
 
-No text prompt was provided; this example uses the product interface.
+The approved source does not specify the exact prompt used.
 
 ## Research workflow
 
@@ -51,8 +51,10 @@ Rank denotes thematic relationship, not revenue proportion, portfolio weight or 
 
 Product manual access may require authorization.
 
-## Source and scope
+## Provider
 
-Research example provided by QUICK for Reflexivity, dated as shown. Figures, themes and interface availability may differ today or by access level.
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Use Cases](../../README.md)

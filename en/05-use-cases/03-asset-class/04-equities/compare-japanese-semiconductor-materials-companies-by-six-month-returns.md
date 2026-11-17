@@ -52,8 +52,10 @@ The 15-stock sample is selected by graph relevance, not market cap. Earnings Rec
 
 Product manual access may require authorization.
 
-## Source and scope
+## Provider
 
-Research example provided by QUICK for Reflexivity, dated as shown. Figures, themes and interface availability may differ today or by access level.
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Use Cases](../../README.md)

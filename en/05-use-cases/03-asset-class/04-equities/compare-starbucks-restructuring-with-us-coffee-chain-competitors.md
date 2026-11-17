@@ -53,6 +53,8 @@ The linked Product manual may require authorized access.
 
 ## Provider
 
-Provided by QUICK for Reflexivity customers. All market numbers and conclusions describe the stated 2026 source period, not current prices or forecasts.
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Use Cases](../../README.md)
