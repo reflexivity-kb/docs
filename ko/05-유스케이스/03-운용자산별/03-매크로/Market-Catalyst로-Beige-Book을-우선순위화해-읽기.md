@@ -75,7 +75,7 @@ Market Catalyst는 이벤트 헤드라인에서 분석으로 들어가는 시작
 
 ## 관련 제품 기능
 
-- [인사이트 — 마켓 카탈리스트](https://github.com/reflexivity-kb/platform/blob/main/ko/03-%EC%A0%9C%ED%92%88/insights.md)
+- [인사이트: 마켓 카탈리스트](https://github.com/reflexivity-kb/platform/blob/main/ko/03-%EC%A0%9C%ED%92%88/insights.md)
 
 제품 매뉴얼은 접근 권한이 필요할 수 있습니다.
 
