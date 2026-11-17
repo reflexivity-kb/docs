@@ -53,6 +53,15 @@ prompt_basis: faithful-translation
 
 제품 매뉴얼 열람에는 접근 권한이 필요할 수 있습니다.
 
+## 조사 화면과 차트
+
+아래 두 화면은 2026년 11월 13일의 창업자 CEO 퇴임 사례 및 주가·산업 파급 분석을 보여줍니다.
+
+![NVIDIA CEO 교체와 과거 사례 비교 화면 1](../../../../assets/usecases/quick/RX-USECASE-0103/01-source-screen.png)
+
+![NVIDIA CEO 교체와 과거 사례 비교 화면 2](../../../../assets/usecases/quick/RX-USECASE-0103/02-source-screen.png)
+
+
 ## 제공처
 
 본 콘텐츠는 QUICK에서 제공한 자료입니다.
