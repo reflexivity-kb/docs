@@ -103,7 +103,7 @@ Market Catalyst에서 이벤트를 연 뒤 표시되는 연결 엔티티는 **�
 
 ## 관련 제품 기능
 
-- [인사이트 — 마켓 카탈리스트](https://github.com/reflexivity-kb/platform/blob/main/ko/03-%EC%A0%9C%ED%92%88/insights.md)
+- [인사이트: 마켓 카탈리스트](https://github.com/reflexivity-kb/platform/blob/main/ko/03-%EC%A0%9C%ED%92%88/insights.md)
 
 제품 매뉴얼 열람에는 접근 권한이 필요할 수 있습니다.
 
