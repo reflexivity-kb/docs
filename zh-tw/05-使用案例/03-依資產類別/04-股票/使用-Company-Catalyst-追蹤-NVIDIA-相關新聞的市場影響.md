@@ -110,7 +110,7 @@ Company Catalyst 最有價值的情況，是它能把新聞標題轉成研究地
 
 ## 相關產品功能
 
-- [研究洞察 — 公司催化劑](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/03-%E7%94%A2%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
+- [研究洞察: 公司催化劑](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/03-%E7%94%A2%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
 
 查看產品手冊可能需要存取權限。
 
