@@ -91,6 +91,17 @@ The Nikkei 225 rose in three of the four historical comparisons: **+12.2% in 201
 A subsequent QUICK question on **October 26, 2026** compared the week before and after previous US midterms. The example separated implied volatility (VIX) from realized price volatility: a decline in VIX after the result does not mean that every following equity session will be calm. On **November 2**, a separate 14-midterm sample from 1970 through 2022 calculated six-month S&P 500 price returns; its reported average was **+13.65%** and all 14 observations in that selected window were positive. These are different historical samples and horizons from the four-event cross-asset study above. Neither result proves that elections cause a rally or determines a 2026 return.
 
 
+
+## Additional historical election charts
+
+The 26 October 2026 follow-up separates pre-election implied volatility from post-election realized S&P 500 volatility. The 2 November follow-up covers six-month returns after earlier midterm elections. The samples and time horizons differ; these are historical comparisons, not forecasts.
+
+![Midterm election volatility comparison, October 26 1](../../../../assets/usecases/quick/RX-USECASE-0074/2026-10-26-01-source-screen.png)
+
+![Midterm election volatility comparison, October 26 2](../../../../assets/usecases/quick/RX-USECASE-0074/2026-10-26-02-source-screen.png)
+
+![Historical S&P 500 returns after midterm elections, November 2 1](../../../../assets/usecases/quick/RX-USECASE-0074/2026-11-02-01-source-screen.png)
+
 ## Source note
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-10-05.
