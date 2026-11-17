@@ -57,6 +57,11 @@ The practical pattern is a two-step earnings workflow:
 
 That makes the earnings event a structured research process rather than a one-off headline check.
 
+## Further pre-earnings examples: NVIDIA and the Events view
+
+The August 25, 2026 NVIDIA example begins from **Events**, checks the scheduled earnings date, reads **Earnings Preview** for consensus revenue/EPS and notable KPIs, then opens the full Catalyst analysis for related themes and companies. The October 20 example shows the same pre-event path from the company-specific **Asset Overview**, as well as the cross-company calendar. After publication, the review is compared with the questions asked beforehand. All schedule and consensus figures belong to the source date.
+
+
 ## Source note
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-09-30. Only information visible in the supplied email and screenshots is included.
