@@ -77,7 +77,7 @@ Market Catalyst 提供從事件標題進入分析的入口。工作流程先把�
 
 ## 相關產品功能
 
-- [研究洞察 — 市場催化劑](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/03-%E7%94%A2%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
+- [研究洞察: 市場催化劑](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/03-%E7%94%A2%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
 
 查看產品手冊可能需要存取權限。
 
