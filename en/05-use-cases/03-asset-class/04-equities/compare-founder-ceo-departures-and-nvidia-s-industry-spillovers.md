@@ -53,6 +53,15 @@ Official confirmation: [NVIDIA CEO transition](https://nvidianews.nvidia.com/new
 
 Product manual access may require authorization.
 
+## Original research charts
+
+The two screenshots below accompany the 13 November 2026 comparison of founder-CEO transitions and their share-price and industry implications.
+
+![NVIDIA founder-CEO transition research screenshot 1](../../../../assets/usecases/quick/RX-USECASE-0103/01-source-screen.png)
+
+![NVIDIA founder-CEO transition research screenshot 2](../../../../assets/usecases/quick/RX-USECASE-0103/02-source-screen.png)
+
+
 ## Provider
 
 This content was provided by QUICK.
