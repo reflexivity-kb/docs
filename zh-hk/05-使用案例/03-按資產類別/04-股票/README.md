@@ -4,11 +4,6 @@
 
 ## 使用案例
 
-- [檢驗 iPhone 發布前後 AAPL 的股價模式](檢驗-iPhone-發布前後-AAPL-的股價模式.md)
-
-- [比較 Magnificent Seven 的財務狀況與利率韌性](比較-Magnificent-Seven-的財務狀況與利率韌性.md)
-- [從上漲的美國股票尋找相關日本公司](從上漲的美國股票尋找相關日本公司.md)
-
 ## 對沖基金案例
 
 - [Gulf Resources：分析師下調銷售預測 (GURE)](Gulf-Resources-分析師下調銷售預測-GURE.md): 2026-08-11: 看空
@@ -48,6 +43,9 @@
 - [比較美國與日本的 AI、半導體及數據中心主題](AI-半導體-數據中心美日比較.md): QUICK 提供 | 2026-10-01
 - [用 Earnings Preview 為 Micron 業績做準備](美光業績預覽.md): QUICK 提供 | 2026-09-30
 - [分析 NVIDIA 增加 1,500 億美元股份回購授權的影響](NVIDIA-股份回購影響.md): QUICK 提供 | 2026-09-29
+- [從上漲的美國股票尋找相關日本公司](從上漲的美國股票尋找相關日本公司.md): QUICK 提供 | 2026-09-18
+- [比較 Magnificent Seven 的財務狀況與利率韌性](比較-Magnificent-Seven-的財務狀況與利率韌性.md): QUICK 提供 | 2026-09-17
+- [檢驗 iPhone 發布前後 AAPL 的股價模式](檢驗-iPhone-發布前後-AAPL-的股價模式.md): QUICK 提供 | 2026-09-11
 - [從已完成交易與未來 pipeline 分析美國 IPO 市場](從已完成交易與未來-pipeline-分析美國-IPO-市場.md): QUICK 提供 | 2026-09-10
 - [用 Company Catalyst 追蹤 NVIDIA 相關新聞的市場影響](用-Company-Catalyst-追蹤-NVIDIA-相關新聞的市場影響.md): QUICK 提供 | 2026-09-04
 - [圍繞美國零售股業績周建立研究流程](圍繞美國零售股業績周建立研究流程.md): QUICK 提供 | 2026-08-18
