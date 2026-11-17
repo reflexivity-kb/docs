@@ -106,4 +106,10 @@ Company Catalyst는 헤드라인을 리서치 맵으로 바꿀 때 가장 유용
 
 국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
+## 관련 제품 기능
+
+- [인사이트 — 기업 카탈리스트](https://github.com/reflexivity-kb/platform/blob/main/ko/03-%EC%A0%9C%ED%92%88/insights.md)
+
+제품 매뉴얼 열람에는 접근 권한이 필요할 수 있습니다.
+
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
