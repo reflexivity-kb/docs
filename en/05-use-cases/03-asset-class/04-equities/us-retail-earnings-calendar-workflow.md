@@ -128,7 +128,7 @@ Depending on country or region, language environment, product used, entitlements
 
 ## Related product features
 
-- [Events — earnings calendar](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/events.md)
+- [Events: earnings calendar](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/events.md)
 
 The linked manual may require authorized access.
 
