@@ -2,6 +2,7 @@
 
 Research and workflow examples for economic cycles, monetary policy, market narratives, and cross-market evidence.
 
+
 ## Use Cases
 
 - [Challenge a strong-US-economy thesis from the disconfirming side](challenge-strong-us-economy-thesis.md)
@@ -13,6 +14,7 @@ Research and workflow examples for economic cycles, monetary policy, market narr
 - [Frame Jackson Hole speech scenarios and possible market reactions](jackson-hole-scenario-analysis.md)
 
 - [Examine how the S&P 500 moved around US-China summits](us-china-summit-sp500-impact.md)
+
 
 ## Related Cross-Asset Use Cases
 
@@ -26,12 +28,11 @@ Related examples are also listed here when they are useful for macro research.
 
 Cross-asset examples are included when they help connect macro analysis with other markets.
 
-## QUICK Research Examples (October–November 2026)
+## QUICK Partner-Provided Use Cases
 
-- [Compare Fed ECB and BOJ policy stances and french bond risks](compare-fed-ecb-and-boj-policy-stances-and-french-bond-risks.md)
-- [Compare japan and hong kong equity sensitivity to china s GDP](compare-japan-and-hong-kong-equity-sensitivity-to-china-s-gdp.md)
-- [Prepare a japanese market morning briefing with alfred](prepare-a-japanese-market-morning-briefing-with-alfred.md)
-
+- [Prepare a japanese market morning briefing with alfred](prepare-a-japanese-market-morning-briefing-with-alfred.md): QUICK | 2026-11-04
+- [Compare Fed ECB and BOJ policy stances and french bond risks](compare-fed-ecb-and-boj-policy-stances-and-french-bond-risks.md): QUICK | 2026-10-28
+- [Compare japan and hong kong equity sensitivity to china s GDP](compare-japan-and-hong-kong-equity-sensitivity-to-china-s-gdp.md): QUICK | 2026-10-19
 
 ---
 
