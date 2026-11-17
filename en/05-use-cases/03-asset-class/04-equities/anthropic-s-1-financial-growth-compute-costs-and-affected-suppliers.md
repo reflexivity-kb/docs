@@ -30,7 +30,7 @@ prompt_basis: faithful-translation
 ## Prompt used
 
 > [!IMPORTANT]
-> Anthropicの発行したS-1を読んで、直近と今後の財務情報を分析してください。またこの会社のIPOにより恩恵を受ける会社や大きな影響を受ける会社についても調べてください。
+> Analyze Anthropic's S-1 filing, its recent and projected financials, and companies likely to benefit from or be affected by its IPO.
 
 ## Research workflow
 
@@ -44,7 +44,7 @@ The source-period analysis reported 2025 revenue around $4.6B and 2026 first-hal
 
 Contract totals in the email combine firm minimums and potential future purchases, so they must not be added indiscriminately. S-1 was preliminary: the October 26 statement did not specify an offering price range. Verify operational losses separately from fair-value accounting adjustments.
 
-Official primary filing: [SEC Form S-1](Contract totals in the email combine firm minimums and potential future purchases, so they must not be added indiscriminately. S-1 was preliminary: the October 26 statement did not specify an offering price range. Verify operational losses separately from fair-value accounting adjustments.,メール中の契約額には確定義務と将来の見込みが混在します。単純合算せず、純損失と営業損失も分けます。10月26日時点のS-1では公開価格レンジは未定でした。,원문 계약 규모에는 확정 지급 의무와 향후 예상액이 섞여 있으므로 단순 합산하면 안 됩니다. 순손실과 영업손실도 구분하며 10월 26일 가격 범위는 미정이었습니다.,电子邮件的合同总额混合确定承诺和潜在采购，不能简单累加；还需区分净亏损与经营亏损。10 月 26 日价格区间尚未确定。,電郵中的合約總額混合確定承諾與潛在採購，不可直接加總；亦需區分淨虧損與營業虧損。10 月 26 日價格區間尚未確定。,電郵中的合約總額混合確定承諾及潛在採購，不可直接加總；亦需區分淨虧損及營業虧損。10 月 26 日價格區間尚未確定。)
+Official filing: [SEC Anthropic Form S-1](https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm)
 
 ## Related Product
 
