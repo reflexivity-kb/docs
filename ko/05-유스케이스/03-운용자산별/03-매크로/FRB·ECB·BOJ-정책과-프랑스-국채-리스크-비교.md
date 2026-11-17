@@ -30,7 +30,7 @@ prompt_basis: faithful-translation
 ## 사용한 프롬프트
 
 > [!IMPORTANT]
-> FRB、ECB、BOJのそれぞれの金融スタンスと、利上げや利下げの可能性をどのように考えているかをまとめてください。
+> FRB·ECB·BOJ의 통화정책 기조와 향후 금리 인상·인하 가능성을 정리해 주세요.
 
 ## 분석 방법
 
@@ -43,8 +43,6 @@ prompt_basis: faithful-translation
 ## 해석과 한계
 
 회의 직전의 과거 시나리오로 현재 정책금리 현황이 아닙니다. 금리 정의와 기준일, 시장 전망 및 실제 중앙은행 결정을 구별해야 합니다.
-
-공식 1차 공시: [SEC Form S-1](This is a meeting-eve historical scenario, not today's policy-rate table. Cross-country headline rate comparisons require correct instrument definitions, dates and pricing of forward rates.,会合前の歴史的シナリオであり、現在の政策金利一覧ではありません。金利の定義、基準日、市場予想と中銀の実際の政策を区別します。,회의 직전의 과거 시나리오로 현재 정책금리 현황이 아닙니다. 금리 정의와 기준일, 시장 전망 및 실제 중앙은행 결정을 구별해야 합니다.,这是会议前的历史情景，而非当前利率表。比较时须区分政策工具定义、日期、市场预期及实际决策。,這是會議前的歷史情境，而非當前利率表。比較時須區分政策工具定義、日期、市場預期及實際決策。,這是會議前的歷史情境，並非現時利率表。比較時須區分政策工具定義、日期、市場預期及實際決策。)
 
 ## 관련 제품
 
