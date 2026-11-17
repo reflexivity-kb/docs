@@ -2,21 +2,12 @@
 
 Research and workflow examples for equity themes, company events, earnings, screening, and market leadership.
 
-
 ## Use Cases
 
-- [Compare the themes leading US and Japanese equities](us-japan-market-leading-themes.md)
-- [Find the common drivers behind last week's strongest equity themes](weekly-rising-themes.md)
 - [Test AAPL's price pattern around iPhone launches](iphone-launch-and-aapl-price-pattern.md)
-- [Turn strong themes into US and Japanese company candidates](top-themes-and-us-japan-company-picks.md)
-- [Analyze the US IPO market through completed deals and the forward pipeline](us-ipo-market-analysis.md)
-- [Compare the S&P 500 with the Russell 2000 and identify small-cap leaders](sp500-vs-russell2000-leaders.md)
-- [Build a research workflow around US retail earnings week](us-retail-earnings-calendar-workflow.md)
-- [Use Company Catalyst to trace the market impact of NVIDIA-related news](company-catalyst-nvidia-example.md)
 
 - [Compare the Magnificent Seven's financial capacity and rate resilience](magnificent-seven-financial-comparison.md)
 - [Find Japanese companies related to rising US stocks](rising-us-stocks-related-japanese-companies.md)
-
 
 ## Hedge Fund Examples
 
@@ -59,6 +50,13 @@ Cross-asset examples are also included when they help connect equity analysis wi
 - [Compare AI, semiconductor and data-center themes in the US and Japan](ai-semiconductor-data-center-themes-us-japan.md): QUICK | 2026-10-01
 - [Prepare for Micron earnings with the Earnings Preview workflow](micron-earnings-preview-workflow.md): QUICK | 2026-09-30
 - [Analyze the impact of NVIDIA's $150 billion share-repurchase increase](nvidia-share-repurchase-impact.md): QUICK | 2026-09-29
+- [Analyze the US IPO market through completed deals and the forward pipeline](us-ipo-market-analysis.md): QUICK | 2026-09-10
+- [Use Company Catalyst to trace the market impact of NVIDIA-related news](company-catalyst-nvidia-example.md): QUICK | 2026-09-04
+- [Build a research workflow around US retail earnings week](us-retail-earnings-calendar-workflow.md): QUICK | 2026-08-18
+- [Compare the S&P 500 with the Russell 2000 and identify small-cap leaders](sp500-vs-russell2000-leaders.md): QUICK | 2026-08-05
+- [Find the common drivers behind last week's strongest equity themes](weekly-rising-themes.md): QUICK | 2026-08-03
+- [Compare the themes leading US and Japanese equities](us-japan-market-leading-themes.md): QUICK | 2026-05-15
+- [Turn strong themes into US and Japanese company candidates](top-themes-and-us-japan-company-picks.md): QUICK | 2025-12-26
 
 ---
 
