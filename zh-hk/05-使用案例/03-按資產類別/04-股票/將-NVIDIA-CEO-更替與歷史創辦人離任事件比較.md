@@ -53,6 +53,15 @@ prompt_basis: faithful-translation
 
 產品手冊可能需要獲授權才能查閱。
 
+## 研究畫面及圖表
+
+以下兩幅截圖展示 2026 年 11 月 13 日針對創辦人行政總裁離任、股價表現及行業影響的歷史比較。
+
+![NVIDIA 行政總裁更替與歷史案例研究畫面 1](../../../../assets/usecases/quick/RX-USECASE-0103/01-source-screen.png)
+
+![NVIDIA 行政總裁更替與歷史案例研究畫面 2](../../../../assets/usecases/quick/RX-USECASE-0103/02-source-screen.png)
+
+
 ## 提供者
 
 本內容由 QUICK 提供。
