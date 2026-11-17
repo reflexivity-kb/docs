@@ -53,6 +53,15 @@ prompt_basis: faithful-translation
 
 產品手冊可能需要獲授權才能查閱。
 
+## 研究界面和图表
+
+以下两幅截图展示了 2026 年 11 月 13 日针对创始人 CEO 离任、股价表现及行业影响的历史比较。
+
+![NVIDIA CEO 更替与历史案例研究截图 1](../../../../assets/usecases/quick/RX-USECASE-0103/01-source-screen.png)
+
+![NVIDIA CEO 更替与历史案例研究截图 2](../../../../assets/usecases/quick/RX-USECASE-0103/02-source-screen.png)
+
+
 ## 提供方
 
 本内容由 QUICK 提供。
