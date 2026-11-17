@@ -75,4 +75,10 @@ Market Catalyst 提供由事件標題進入分析的入口。流程先把資訊�
 
 視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
 
+## 相關產品功能
+
+- [研究洞察 — 市場催化劑](https://github.com/reflexivity-kb/platform/blob/main/zh-hk/03-%E7%94%A2%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
+
+查閱產品手冊可能需要存取權限。
+
 [← 宏觀使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
