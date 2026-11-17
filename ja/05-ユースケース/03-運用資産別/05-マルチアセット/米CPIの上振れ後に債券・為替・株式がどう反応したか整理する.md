@@ -3,9 +3,8 @@ id: RX-USECASE-0101
 type: use-case
 language: ja
 locale: ja
-author: Reflexivity GTM Team
 source_type: partner-provided-use-case
-provider: QUICK
+provider: 株式会社QUICK
 source_manifest: RX-USECASE-0101
 source_created: 2026-11-11
 published: 2026-11-17
@@ -39,7 +38,7 @@ CPIの予想差を出発点に、米国債利回りをbp、為替をレートま
 
 ## 提供時点の結果
 
-11月11日の原資料ではCPI前月比+0.4%（予想+0.3%）、米2年国債+20.1bp、10年+13.8bp、ドル円158.74円、S&P500約-0.4%として整理しました。
+11月11日のCPI前月比+0.4%（予想+0.3%）、米2年国債+20.1bp、10年+13.8bp、ドル円158.74円、S&P500約-0.4%として整理しました。
 
 ## 読み方と留意点
 
@@ -53,6 +52,8 @@ CPIの予想差を出発点に、米国債利回りをbp、為替をレートま
 
 ## 提供元
 
-本コンテンツは株式会社QUICKより提供されたReflexivity活用例です。数値は提供日時点の分析で、現在の予測ではありません。
+本コンテンツは、株式会社QUICKよりご提供いただいたものです。
+
+国・地域や言語環境、利用製品、データ提供範囲などによっては、内容をそのまま適用できない場合があります。
 
 [← Use Cases](../../README.md)

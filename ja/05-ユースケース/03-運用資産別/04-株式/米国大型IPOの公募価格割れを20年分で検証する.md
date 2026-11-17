@@ -3,9 +3,8 @@ id: RX-USECASE-0099
 type: use-case
 language: ja
 locale: ja
-author: Reflexivity GTM Team
 source_type: partner-provided-use-case
-provider: QUICK
+provider: 株式会社QUICK
 source_manifest: RX-USECASE-0099
 source_created: 2026-11-09
 published: 2026-11-17
@@ -49,6 +48,8 @@ prompt_basis: source-verbatim
 
 ## 提供元
 
-本コンテンツは株式会社QUICKより提供されたReflexivityの2026年の活用例です。数値と見通しは分析日時点のものです。
+本コンテンツは、株式会社QUICKよりご提供いただいたものです。
+
+国・地域や言語環境、利用製品、データ提供範囲などによっては、内容をそのまま適用できない場合があります。
 
 [← Use Cases](../../README.md)
