@@ -49,6 +49,8 @@ Product manual access may require authorization.
 
 ## Provider
 
-QUICK-provided 2026 Reflexivity research example. Market figures and forecasts reflect the original observation date.
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Use Cases](../../README.md)

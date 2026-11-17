@@ -27,9 +27,9 @@ prompt_status: not_provided
 
 **2026-11-16 | QUICK**
 
-## Research question
+## Prompt used
 
-No natural-language prompt was supplied; this is a direct UI workflow.
+The approved source does not specify the exact prompt used.
 
 ## Workflow
 
@@ -54,6 +54,8 @@ Access to the linked product manuals may require authorization.
 
 ## Provider
 
-QUICK provided this Reflexivity example on 2026-11-16. Screen layouts, coverage and entitlements may differ by account.
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Use Cases](../../README.md)

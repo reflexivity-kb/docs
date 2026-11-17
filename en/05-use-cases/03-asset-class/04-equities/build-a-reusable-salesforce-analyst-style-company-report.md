@@ -53,6 +53,8 @@ Product manual access may require authorization.
 
 ## Provider
 
-QUICK-provided Reflexivity example. Values and conclusions reflect the dated source, not current forecasts.
+This content was provided by QUICK.
+
+Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
 
 [← Use Cases](../../README.md)
