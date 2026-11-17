@@ -108,7 +108,7 @@ Depending on country or region, language environment, product used, entitlements
 
 ## Related product features
 
-- [Insights — Company Catalyst](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/insights.md)
+- [Insights: Company Catalyst](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/insights.md)
 
 The linked manual may require authorized access.
 
