@@ -47,6 +47,12 @@ Distinguish 'never above offer at the close' from 'currently below offer'; they 
 
 Product manual access may require authorization.
 
+## Research screens and charts
+
+These original research visuals reflect the source date, not today's market.
+
+![2026-11-09 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0099/01-source-screen.png)
+
 ## Provider
 
 This content was provided by QUICK.
