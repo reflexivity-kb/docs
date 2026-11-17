@@ -53,6 +53,8 @@ prompt_basis: faithful-translation
 
 ## 제공처
 
-QUICK에서 제공한 Reflexivity 활용 사례입니다. 수치와 테마, 화면은 제공 당시 기준이며 현재 제공 범위와 다를 수 있습니다.
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← Use Cases](../../README.md)
