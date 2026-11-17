@@ -90,7 +90,7 @@ Company Catalystを単なるニュース要約として見るのではなく、�
 
 ## 関連機能
 
-- [インサイト — 企業カタリスト](https://github.com/reflexivity-kb/platform/blob/main/ja/03-%E8%A3%BD%E5%93%81/%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88.md)
+- [インサイト: 企業カタリスト](https://github.com/reflexivity-kb/platform/blob/main/ja/03-%E8%A3%BD%E5%93%81/%E3%82%A4%E3%83%B3%E3%82%B5%E3%82%A4%E3%83%88.md)
 
 製品マニュアルの閲覧にはアクセス権が必要な場合があります。
 
