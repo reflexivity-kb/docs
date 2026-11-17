@@ -49,6 +49,8 @@ prompt_basis: faithful-translation
 
 ## 提供者
 
-本案例由 QUICK 於 2026 年提供。市場數據及預測均反映當時觀察日期。
+本內容由 QUICK 提供。
+
+依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
 
 [← Use Cases](../../README.md)
