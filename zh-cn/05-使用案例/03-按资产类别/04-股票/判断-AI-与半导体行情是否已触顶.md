@@ -53,6 +53,8 @@ prompt_basis: faithful-translation
 
 ## 提供方
 
-本案例由 QUICK 提供，数据、主题和界面均为当时的研究快照，当前可用范围可能有所不同。
+本内容由 QUICK 提供。
+
+根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
 
 [← Use Cases](../../README.md)
