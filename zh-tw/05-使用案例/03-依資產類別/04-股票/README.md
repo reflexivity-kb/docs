@@ -4,11 +4,6 @@
 
 ## 使用案例
 
-- [檢驗 iPhone 發表前後的 AAPL 股價模式](檢驗-iPhone-發表前後的-AAPL-股價模式.md)
-
-- [比較 Magnificent Seven 的財務實力與利率韌性](比較-Magnificent-Seven-的財務實力與利率韌性.md)
-- [從上漲的美國股票尋找相關日本公司](從上漲的美國股票尋找相關日本公司.md)
-
 ## 對沖基金案例
 
 - [Nvidia：5000 億美元 AI 基礎設施融資計畫 (NVDA)](Nvidia-5000-億美元-AI-基礎設施融資計畫-NVDA.md)
@@ -48,6 +43,9 @@
 - [比較美國與日本的 AI、半導體與資料中心主題](AI-半導體-資料中心美日比較.md): QUICK 提供 | 2026-10-01
 - [用 Earnings Preview 為 Micron 財報做準備](美光財報預覽.md): QUICK 提供 | 2026-09-30
 - [分析 NVIDIA 增加 1,500 億美元庫藏股授權的影響](NVIDIA-股份回購影響.md): QUICK 提供 | 2026-09-29
+- [從上漲的美國股票尋找相關日本公司](從上漲的美國股票尋找相關日本公司.md): QUICK 提供 | 2026-09-18
+- [比較 Magnificent Seven 的財務實力與利率韌性](比較-Magnificent-Seven-的財務實力與利率韌性.md): QUICK 提供 | 2026-09-17
+- [檢驗 iPhone 發表前後的 AAPL 股價模式](檢驗-iPhone-發表前後的-AAPL-股價模式.md): QUICK 提供 | 2026-09-11
 - [從已完成交易與後續供給管線分析美國 IPO 市場](從已完成交易與後續供給管線分析美國-IPO-市場.md): QUICK 提供 | 2026-09-10
 - [使用 Company Catalyst 追蹤 NVIDIA 相關新聞的市場影響](使用-Company-Catalyst-追蹤-NVIDIA-相關新聞的市場影響.md): QUICK 提供 | 2026-09-04
 - [圍繞美國零售業財報週建立研究工作流程](圍繞美國零售業財報週建立研究工作流程.md): QUICK 提供 | 2026-08-18
