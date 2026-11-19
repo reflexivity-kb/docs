@@ -23,8 +23,10 @@ resource: Market Summary examples, 2026-11-12 to 2026-11-18
 
 [← FAQ](README.md)
 
-Pre-Market, Midday Market, and End-of-Day describe the stages of a market session: before regular trading, during trading, and after trading ends. They are not names of geographic news filters.
+Market Summary is updated three times around the U.S. equity market trading day. Pre-Market is the update before the regular U.S. trading session, Midday Market is during trading, and End-of-Day is after the U.S. market close. These labels describe the update times, not the countries or regions covered by the news.
 
-Check the displayed time zone, date, and relevant market before comparing summaries. Market hours and dates differ across exchanges, so the session label alone does not guarantee that every story relates to that market or trading day.
+Each update is generated from the news available at that time. Stories about companies and markets outside the U.S. can therefore appear, and the geographic mix varies by date and update. There is no time-of-day rule that switches the news to a particular country or region. A high proportion of stories from one region on a specific day does not, by itself, indicate a regional filter.
+
+Displayed times are converted to the user's time zone. In Japan, updates for the same U.S. trading day can span two local calendar dates, so compare the three sessions by U.S. trading day rather than by Japan's calendar date alone.
 
 [← FAQ](README.md)
