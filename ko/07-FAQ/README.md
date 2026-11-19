@@ -10,6 +10,12 @@ Reflexivity, Platform, Knowledge Graph, 제품 로드맵, 데모, Microsoft 365 
 
 이 FAQ에서 연결하는 제품 상세, 구현, 릴리스 근거 자료, Knowledge Graph 상세 문서 중 일부는 열람 권한이 필요합니다.
 
+## Market Summary
+
+- [Market Summary는 특정 국가나 지역의 뉴스만 다루나요?](Market-Summary는-특정-지역의-뉴스만-다루나요.md)
+- [Pre-Market, Midday Market, End-of-Day는 무엇을 뜻하나요?](Market-Summary의-세션별-구분은-무엇인가요.md)
+- [Market Summary만으로 시장 전체의 흐름을 파악할 수 있나요?](Market-Summary만으로-시장-전체를-파악할-수-있나요.md)
+
 ## AI·LLM·시장 데이터 연결
 
 - [범용 LLM이 같은 시장 데이터에 접근하면 Reflexivity와 같아지나요?](범용-LLM이-같은-시장-데이터에-접근하면-Reflexivity와-같아지나요.md)

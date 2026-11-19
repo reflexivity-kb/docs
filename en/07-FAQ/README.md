@@ -10,6 +10,12 @@ Frequently asked questions about Reflexivity, the Platform, the Knowledge Graph,
 
 Some detailed product, implementation, release-source, and Knowledge Graph references linked from this FAQ require authorized access.
 
+## Market Summary
+
+- [Does Market Summary cover news from only one country or region?](does-market-summary-cover-only-one-region.md)
+- [What do Pre-Market, Midday Market, and End-of-Day mean?](what-do-market-summary-market-sessions-mean.md)
+- [Does Market Summary provide a complete picture of the market?](does-market-summary-cover-the-whole-market.md)
+
 ## AI, LLMs, and market-data connections
 
 - [If a General-Purpose LLM Has the Same Market Data, Is It Equivalent to Reflexivity?](if-a-general-purpose-llm-has-the-same-market-data-is-it-equivalent-to-reflexivity.md)

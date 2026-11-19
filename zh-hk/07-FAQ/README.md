@@ -10,6 +10,12 @@
 
 本 FAQ 連結的部分產品細節、實作說明、發布依據資料與 Knowledge Graph 詳細文件需要相應存取權限。
 
+## Market Summary
+
+- [Market Summary 是否只涵蓋某個國家或地區的新聞？](Market-Summary是否只涵蓋單一地區新聞.md)
+- [Pre-Market、Midday Market 及 End-of-Day 分別是甚麼意思？](Market-Summary各市場時段是甚麼意思.md)
+- [單靠 Market Summary 能否掌握整體市場走勢？](Market-Summary能否全面反映市場走勢.md)
+
 ## AI、LLM 與市場數據連接
 
 - [通用 LLM 接入相同的市場數據後，就等同於 Reflexivity 嗎？](通用LLM接入相同市場數據後是否等同於Reflexivity.md)

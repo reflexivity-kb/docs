@@ -10,6 +10,12 @@ Reflexivity、Platform、Knowledge Graph、製品ロードマップ、デモ、M
 
 このFAQからリンクしている製品詳細、実装、リリース資料、Knowledge Graphの一部の詳細資料は、閲覧権限が必要です。
 
+## Market Summary
+
+- [Market Summaryは特定の国や地域のニュースだけを対象としていますか？](Market-Summaryは特定の国や地域のニュースだけを対象としていますか.md)
+- [Pre-Market、Midday Market、End-of-Dayは何を意味しますか？](Pre-MarketとMidday-MarketとEnd-of-Dayの意味は何ですか.md)
+- [Market Summaryだけで市場全体の動向を把握できますか？](Market-Summaryだけで市場全体の動向を把握できますか.md)
+
 ## AI・LLM・市場データ接続
 
 - [汎用LLMが同じ市場データにアクセスできれば、Reflexivityと同じですか？](汎用LLMが同じ市場データにアクセスできればReflexivityと同じか.md)

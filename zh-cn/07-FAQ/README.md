@@ -10,6 +10,12 @@
 
 本 FAQ 中链接的部分产品详情、实现说明、发布依据资料和 Knowledge Graph 详细文档需要相应访问权限。
 
+## Market Summary
+
+- [Market Summary 是否只涵盖某个国家或地区的新闻？](Market-Summary是否只涵盖单一地区新闻.md)
+- [Pre-Market、Midday Market 和 End-of-Day 分别是什么意思？](Market-Summary各市场时段是什么意思.md)
+- [仅凭 Market Summary 能否全面了解市场走势？](Market-Summary能否全面反映市场走势.md)
+
 ## AI、LLM 与市场数据连接
 
 - [通用LLM接入相同的市场数据后，就等同于Reflexivity吗？](通用LLM接入相同市场数据后是否等同于Reflexivity.md)
