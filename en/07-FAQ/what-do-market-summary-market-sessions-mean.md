@@ -27,6 +27,12 @@ Market Summary is updated three times around the U.S. equity market trading day.
 
 Each update is generated from the news available at that time. Stories about companies and markets outside the U.S. can therefore appear, and the geographic mix varies by date and update. There is no time-of-day rule that switches the news to a particular country or region. A high proportion of stories from one region on a specific day does not, by itself, indicate a regional filter.
 
-Displayed times are converted to the user's time zone. In Japan, updates for the same U.S. trading day can span two local calendar dates, so compare the three sessions by U.S. trading day rather than by Japan's calendar date alone.
+Displayed times are converted to the user's time zone. For example, for the U.S. trading day of November 18, 2026, during Eastern Standard Time (EST), the corresponding times in Japan (JST, GMT+9) are:
+
+- Pre-Market: November 18, 11:00 PM JST
+- Midday Market: November 19, 4:00 AM JST (next day)
+- End-of-Day Market: November 19, 7:00 AM JST (next day)
+
+Thus, the three updates for one U.S. trading day span two calendar dates in Japan. When interpreting the times, distinguish the U.S. trading date from the local date shown for each session. This is a time-conversion example, not confirmation of how a particular card's underlying records are grouped.
 
 [← FAQ](README.md)
