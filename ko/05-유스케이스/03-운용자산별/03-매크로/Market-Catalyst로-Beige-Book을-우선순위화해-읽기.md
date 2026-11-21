@@ -69,16 +69,11 @@ Market Catalyst는 이벤트 헤드라인에서 분석으로 들어가는 시작
 
 ---
 
-본 콘텐츠는 QUICK에서 제공한 자료입니다.
-
-국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
-
 ## 관련 제품 기능
 
 - [인사이트: 마켓 카탈리스트](https://github.com/reflexivity-kb/platform/blob/main/ko/03-%EC%A0%9C%ED%92%88/insights.md)
 
 제품 매뉴얼은 접근 권한이 필요할 수 있습니다.
-
 
 *본 유스케이스는 일본 파트너 QUICK의 협조로 제공되었습니다.* · [면책 고지](../../DISCLAIMER.md)
 
