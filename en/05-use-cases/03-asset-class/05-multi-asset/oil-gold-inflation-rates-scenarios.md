@@ -55,7 +55,6 @@ The source compares WTI crude oil and spot gold as of **2026-10-01**. WTI had re
 
 The same source snapshot shows **US CPI at 3.4% YoY** and the **US 10-year Treasury yield at 5.285%**, roughly **1.142 percentage points higher than one year earlier**.
 
-
 ![Source chart: normalized WTI crude oil and gold prices with US CPI and the US 10-year yield](../../../../assets/use-cases/RX-USECASE-0073/01-wti-gold-cpi-us10y-timeseries.png)
 
 *Source chart (Japanese labels): WTI crude oil and gold normalized to 100, with US CPI YoY and the US 10-year yield.*
@@ -73,7 +72,6 @@ Using 59 monthly observations over the past five years, the source reports:
 | Gold vs CPI | -0.038 |
 
 The source interprets these as weak-to-moderate regime relationships rather than stable causal laws. Gold was more clearly inversely related to long-term yields, while oil had a modest positive relationship with yields. Same-month CPI correlations were weak, and the analysis notes that commodity prices can move ahead of reported inflation.
-
 
 ![Source chart: five-year monthly-change correlation coefficients for oil, gold, CPI and the US 10-year yield](../../../../assets/use-cases/RX-USECASE-0073/02-monthly-change-correlations.png)
 
@@ -106,8 +104,7 @@ The analysis combines WTI, spot gold, CPI, US 10-year yields, monthly-change cor
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-10-02.
 
-This content was provided by QUICK.
 
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [All use cases](../../README.md)
