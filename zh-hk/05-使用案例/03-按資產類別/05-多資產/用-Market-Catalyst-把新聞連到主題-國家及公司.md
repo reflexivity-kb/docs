@@ -94,15 +94,13 @@ QUICK 材料包括：
 
 ---
 
-
-本內容由 QUICK 提供。
-
-視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
-
 ## 相關產品功能
 
 - [研究洞察: 市場催化劑](https://github.com/reflexivity-kb/platform/blob/main/zh-hk/03-%E7%94%A2%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
 
 查閱產品手冊可能需要存取權限。
+
+
+*本使用案例由我們在日本的合作夥伴 QUICK 惠予提供。* · [免責聲明](../../DISCLAIMER.md)
 
 [← 多資產使用案例](README.md) · [按資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
