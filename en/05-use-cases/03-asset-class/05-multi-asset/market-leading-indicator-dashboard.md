@@ -59,14 +59,12 @@ The example is not presented as a stand-alone forecast. Its practical value is t
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-09-28. It preserves the demonstrated workflow without inferring undocumented methodology behind the indicator.
 
-This content was provided by QUICK.
-
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
-
 ## Related product feature
 
 - [Dashboard: Leading Indicator](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/dashboard.md)
 
 Access to the product manual may require approval.
+
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [All use cases](../../README.md)

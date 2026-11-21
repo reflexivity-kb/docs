@@ -95,8 +95,6 @@ This example moves from “what went up?” to “why did these groups move toge
 
 ---
 
-This content was provided by QUICK.
-
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

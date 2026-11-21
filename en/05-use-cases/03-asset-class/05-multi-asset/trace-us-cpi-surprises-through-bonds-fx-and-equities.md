@@ -51,10 +51,6 @@ The source noted that internal time series stopped on November 9, so November 10
 
 Product manual access may require authorization.
 
-## Provider
-
-This content was provided by QUICK.
-
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Use Cases](../../README.md)

@@ -11,13 +11,11 @@ Research and workflow examples for sovereign rates, yield curves, credit, and re
 
 These pages preserve source context, dated observations, limitations, and uncertainty.
 
-## QUICK Partner-Provided Use Cases
-
-- [Analyze the global rates outlook and the implications for USD/JPY](global-rates-outlook-and-usdjpy.md): QUICK | 2026-09-30
-- [Analyze the US bond-issuance market by issuer, use of proceeds, supply-demand, and yield](us-bond-issuance-market-analysis.md): QUICK | 2026-09-25
-- [Compare the 5% US 10-year Treasury threshold with the past 20 years](us-10y-yield-5-percent-threshold.md): QUICK | 2026-09-16
-- [Compare 10-year government-bond yields across major markets](global-10y-government-yields.md): QUICK | 2026-09-01
-- [Read a rise in the US 30-year yield through the full yield curve](us-30y-yield-curve-bear-steepening.md): QUICK | 2026-08-19
+- [Analyze the global rates outlook and the implications for USD/JPY](global-rates-outlook-and-usdjpy.md) (2026-09-30)
+- [Analyze the US bond-issuance market by issuer, use of proceeds, supply-demand, and yield](us-bond-issuance-market-analysis.md) (2026-09-25)
+- [Compare the 5% US 10-year Treasury threshold with the past 20 years](us-10y-yield-5-percent-threshold.md) (2026-09-16)
+- [Compare 10-year government-bond yields across major markets](global-10y-government-yields.md) (2026-09-01)
+- [Read a rise in the US 30-year yield through the full yield curve](us-30y-yield-curve-bear-steepening.md) (2026-08-19)
 
 ---
 

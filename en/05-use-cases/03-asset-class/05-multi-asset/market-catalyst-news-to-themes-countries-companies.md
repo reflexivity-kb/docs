@@ -97,14 +97,12 @@ This workflow shows how to move from a filtered market event into its possible t
 
 ---
 
-This content was provided by QUICK.
-
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
-
 ## Related product features
 
 - [Insights: Market Catalyst](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/insights.md)
 
 The linked manual may require authorized access.
+
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

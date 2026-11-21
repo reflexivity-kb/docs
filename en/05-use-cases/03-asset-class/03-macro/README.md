@@ -7,6 +7,16 @@ Research and workflow examples for economic cycles, monetary policy, market narr
 - [Challenge a strong-US-economy thesis from the disconfirming side](challenge-strong-us-economy-thesis.md)
 - [Test whether the market narrative is supported by broad hard data](market-narrative-vs-hard-data-breadth.md)
 
+- [Prepare a japanese market morning briefing with alfred](prepare-a-japanese-market-morning-briefing-with-alfred.md) (2026-11-04)
+- [Compare Fed ECB and BOJ policy stances and french bond risks](compare-fed-ecb-and-boj-policy-stances-and-french-bond-risks.md) (2026-10-28)
+- [Compare japan and hong kong equity sensitivity to china s GDP](compare-japan-and-hong-kong-equity-sensitivity-to-china-s-gdp.md) (2026-10-19)
+- [Examine how the S&P 500 moved around US-China summits](us-china-summit-sp500-impact.md) (2026-09-24)
+- [Frame FOMC rate-hike scenarios before the meeting](fomc-rate-hike-scenarios.md) (2026-09-15)
+- [Prioritize the week's US market events by likely impact](weekly-us-market-events.md) (2026-09-08)
+- [Use Market Catalyst to triage the Beige Book](beige-book-market-catalyst-workflow.md) (2026-09-03)
+- [Frame Jackson Hole speech scenarios and possible market reactions](jackson-hole-scenario-analysis.md) (2026-08-21)
+- [Structure complex research with long-form instructions](structured-long-form-research-prompts.md) (2026-06-18)
+
 ## Related Cross-Asset Use Cases
 
 Related examples are also listed here when they are useful for macro research.
@@ -18,18 +28,6 @@ Related examples are also listed here when they are useful for macro research.
 - [Analyze the drivers of a rapid yen rally and whether it extends across FX](../01-FX/yen-strength-background-outlook.md)
 
 Cross-asset examples are included when they help connect macro analysis with other markets.
-
-## QUICK Partner-Provided Use Cases
-
-- [Prepare a japanese market morning briefing with alfred](prepare-a-japanese-market-morning-briefing-with-alfred.md): QUICK | 2026-11-04
-- [Compare Fed ECB and BOJ policy stances and french bond risks](compare-fed-ecb-and-boj-policy-stances-and-french-bond-risks.md): QUICK | 2026-10-28
-- [Compare japan and hong kong equity sensitivity to china s GDP](compare-japan-and-hong-kong-equity-sensitivity-to-china-s-gdp.md): QUICK | 2026-10-19
-- [Examine how the S&P 500 moved around US-China summits](us-china-summit-sp500-impact.md): QUICK | 2026-09-24
-- [Frame FOMC rate-hike scenarios before the meeting](fomc-rate-hike-scenarios.md): QUICK | 2026-09-15
-- [Prioritize the week's US market events by likely impact](weekly-us-market-events.md): QUICK | 2026-09-08
-- [Use Market Catalyst to triage the Beige Book](beige-book-market-catalyst-workflow.md): QUICK | 2026-09-03
-- [Frame Jackson Hole speech scenarios and possible market reactions](jackson-hole-scenario-analysis.md): QUICK | 2026-08-21
-- [Structure complex research with long-form instructions](structured-long-form-research-prompts.md): QUICK | 2026-06-18
 
 ---
 

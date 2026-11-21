@@ -55,8 +55,6 @@ In **2018**, the S&P 500 moved **-3.6%** over the three months before the electi
 
 *Original chart: S&P 500 pre-election and post-election returns for the four prior midterms.*
 
-
-
 ## Why the 2026 setup is different
 
 The supplied snapshot places the S&P 500 at **7,666.45** and the Nasdaq 100 at **26,871.60**, both near recent highs. It also shows the federal funds rate at about **3.75%**, CPI at about **3.35%**, and USD/JPY at about **158.07**.
@@ -90,8 +88,6 @@ The Nikkei 225 rose in three of the four historical comparisons: **+12.2% in 201
 
 A subsequent QUICK question on **October 26, 2026** compared the week before and after previous US midterms. The example separated implied volatility (VIX) from realized price volatility: a decline in VIX after the result does not mean that every following equity session will be calm. On **November 2**, a separate 14-midterm sample from 1970 through 2022 calculated six-month S&P 500 price returns; its reported average was **+13.65%** and all 14 observations in that selected window were positive. These are different historical samples and horizons from the four-event cross-asset study above. Neither result proves that elections cause a rally or determines a 2026 return.
 
-
-
 ## Additional historical election charts
 
 The 26 October 2026 follow-up separates pre-election implied volatility from post-election realized S&P 500 volatility. The 2 November follow-up covers six-month returns after earlier midterm elections. The samples and time horizons differ; these are historical comparisons, not forecasts.
@@ -106,8 +102,6 @@ The 26 October 2026 follow-up separates pre-election implied volatility from pos
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-10-05.
 
-This content was provided by QUICK.
-
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [All use cases](../../README.md)

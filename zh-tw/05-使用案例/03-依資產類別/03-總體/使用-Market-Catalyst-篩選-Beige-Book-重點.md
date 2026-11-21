@@ -71,14 +71,13 @@ Market Catalyst 提供從事件標題進入分析的入口。工作流程先把�
 
 ---
 
-本內容由 QUICK 提供。
-
-依國家或地區、語言環境、使用產品、權限與資料涵蓋範圍不同，可能無法完全依照本文方式重現本案例。
-
 ## 相關產品功能
 
 - [研究洞察: 市場催化劑](https://github.com/reflexivity-kb/platform/blob/main/zh-tw/03-%E7%94%A2%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
 
 查看產品手冊可能需要存取權限。
+
+
+*本使用案例承蒙我們在日本的合作夥伴 QUICK 提供。* · [免責聲明](../../DISCLAIMER.md)
 
 [← 總體使用案例](README.md) · [依資產類別瀏覽](../README.md) · [全部使用案例](../../README.md)
