@@ -136,7 +136,6 @@ This is a scenario-analysis template for turning a geopolitical shock into a cro
 
 ---
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
