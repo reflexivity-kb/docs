@@ -71,14 +71,13 @@ Market Catalyst 从事件标题提供进入分析的入口。工作流先把信�
 
 ---
 
-本内容由 QUICK 提供。
-
-根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
-
 ## 相关产品功能
 
 - [研究洞察: 市场催化剂](https://github.com/reflexivity-kb/platform/blob/main/zh-cn/03-%E4%BA%A7%E5%93%81/%E7%A0%94%E7%A9%B6%E6%B4%9E%E5%AF%9F.md)
 
 查看产品手册可能需要访问权限。
+
+
+*本使用案例由我们在日本的合作伙伴 QUICK 友情提供。* · [免责声明](../../DISCLAIMER.md)
 
 [← 宏观使用案例](README.md) · [按资产类别浏览](../README.md) · [全部使用案例](../../README.md)
