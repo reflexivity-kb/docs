@@ -59,13 +59,6 @@ prompt_basis: faithful-translation
 
 ![2026-10-09 조사 화면과 도표 2](../../../../assets/usecases/quick/RX-USECASE-0085/02-source-screen.png)
 
-## 제공처
-
-본 콘텐츠는 QUICK에서 제공한 자료입니다.
-
-국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
-
-
 *본 유스케이스는 일본 파트너 QUICK의 협조로 제공되었습니다.* · [면책 고지](../../DISCLAIMER.md)
 
 [← Use Cases](../../README.md)
