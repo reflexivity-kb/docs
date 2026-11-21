@@ -108,7 +108,6 @@ This example shows how to move from a company headline through market reaction a
 
 The linked manual may require authorized access.
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

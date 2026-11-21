@@ -139,7 +139,6 @@ This workflow starts with market leadership and turns it into a cross-market res
 
 The linked product manuals may require authorized access.
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
