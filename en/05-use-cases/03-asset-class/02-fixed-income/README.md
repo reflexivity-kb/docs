@@ -16,7 +16,7 @@ These pages preserve source context, dated observations, limitations, and uncert
 - [Compare the 5% US 10-year Treasury threshold with the past 20 years](us-10y-yield-5-percent-threshold.md) (2026-09-16)
 - [Compare 10-year government-bond yields across major markets](global-10y-government-yields.md) (2026-09-01)
 - [Read a rise in the US 30-year yield through the full yield curve](us-30y-yield-curve-bear-steepening.md) (2026-08-19)
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
-

@@ -16,9 +16,6 @@ Research and workflow examples for economic cycles, monetary policy, market narr
 - [Use Market Catalyst to triage the Beige Book](beige-book-market-catalyst-workflow.md) (2026-09-03)
 - [Frame Jackson Hole speech scenarios and possible market reactions](jackson-hole-scenario-analysis.md) (2026-08-21)
 - [Structure complex research with long-form instructions](structured-long-form-research-prompts.md) (2026-06-18)
----
-
-[← Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 ## Related Cross-Asset Use Cases
 
@@ -32,3 +29,6 @@ Related examples are also listed here when they are useful for macro research.
 
 Cross-asset examples are included when they help connect macro analysis with other markets.
 
+---
+
+[← Browse by asset class](../README.md) · [All use cases](../../README.md)

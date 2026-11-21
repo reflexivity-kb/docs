@@ -25,7 +25,7 @@ These pages preserve source context, dated observations, and scenario uncertaint
 - [Analyze hyperscaler off-balance-sheet obligations](hyperscaler-off-balance-sheet-debt.md) (2026-08-05)
 - [Analyze the cross-asset impact of an Iran-attack scenario](iran-attack-cross-asset-impact.md) (2026-03-02)
 - [Use Alfred across housing, precious metals, equities, and credit risk](alfred-cross-asset-question-examples.md) (2026-02-12)
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
-

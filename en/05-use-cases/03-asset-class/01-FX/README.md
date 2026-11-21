@@ -10,7 +10,7 @@ Research and workflow examples for foreign exchange markets.
 These pages preserve source context, dated observations, limitations, and uncertainty.
 
 - [Analyze the drivers of a rapid yen rally and whether it extends across FX](yen-strength-background-outlook.md) (2026-09-09)
+
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
-

@@ -31,9 +31,6 @@ Research and workflow examples for equity themes, company events, earnings, scre
 - [Find the common drivers behind last week's strongest equity themes](weekly-rising-themes.md) (2026-08-03)
 - [Compare the themes leading US and Japanese equities](us-japan-market-leading-themes.md) (2026-05-15)
 - [Turn strong themes into US and Japanese company candidates](top-themes-and-us-japan-company-picks.md) (2025-12-26)
----
-
-[← Browse by asset class](../README.md) · [All use cases](../../README.md)
 
 ## Hedge Fund Examples
 
@@ -57,3 +54,6 @@ Research and workflow examples for equity themes, company events, earnings, scre
 
 Cross-asset examples are also included when they help connect equity analysis with other markets.
 
+---
+
+[← Browse by asset class](../README.md) · [All use cases](../../README.md)
