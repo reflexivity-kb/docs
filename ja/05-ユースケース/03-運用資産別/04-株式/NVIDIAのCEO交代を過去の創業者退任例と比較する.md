@@ -61,10 +61,6 @@ prompt_basis: source-verbatim
 ![NVIDIAのCEO交代と過去事例の比較画面 2](../../../../assets/usecases/quick/RX-USECASE-0103/02-source-screen.png)
 
 
-## 提供元
-
-本コンテンツは、株式会社QUICKよりご提供いただいたものです。
-
-国・地域や言語環境、利用製品、データ提供範囲などによっては、内容をそのまま適用できない場合があります。
+*本ユースケースは、日本のパートナーである株式会社QUICKのご厚意により提供されました。* · [免責事項](../../DISCLAIMER.md)
 
 [← Use Cases](../../README.md)
