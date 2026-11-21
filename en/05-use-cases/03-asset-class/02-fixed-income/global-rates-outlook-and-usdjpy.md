@@ -76,7 +76,6 @@ The source explicitly states that the future rate path and USD/JPY view are anal
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-09-30.
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Fixed Income use cases](README.md) · [All use cases](../../README.md)
