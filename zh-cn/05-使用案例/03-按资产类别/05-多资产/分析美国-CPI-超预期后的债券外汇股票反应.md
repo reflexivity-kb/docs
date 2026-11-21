@@ -51,10 +51,7 @@ prompt_basis: faithful-translation
 
 產品手冊可能需要獲授權才能查閱。
 
-## 提供方
 
-本内容由 QUICK 提供。
-
-根据国家或地区、语言环境、所用产品、权限及数据覆盖范围，可能无法完全按本文方式复现该案例。
+*本使用案例由我们在日本的合作伙伴 QUICK 友情提供。* · [免责声明](../../DISCLAIMER.md)
 
 [← Use Cases](../../README.md)
