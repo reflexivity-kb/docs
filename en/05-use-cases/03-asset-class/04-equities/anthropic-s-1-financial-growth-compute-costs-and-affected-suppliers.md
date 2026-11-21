@@ -59,9 +59,6 @@ These original research visuals reflect the source date, not today's market.
 
 ![2026-10-27 Research screens and charts 1](../../../../assets/usecases/quick/RX-USECASE-0092/01-source-screen.png)
 
-## Provider
-
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Use Cases](../../README.md)
