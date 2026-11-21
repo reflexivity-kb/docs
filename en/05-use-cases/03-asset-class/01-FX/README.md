@@ -9,10 +9,8 @@ Research and workflow examples for foreign exchange markets.
 
 These pages preserve source context, dated observations, limitations, and uncertainty.
 
-## QUICK Partner-Provided Use Cases
-
-- [Analyze the drivers of a rapid yen rally and whether it extends across FX](yen-strength-background-outlook.md): QUICK | 2026-09-09
-
+- [Analyze the drivers of a rapid yen rally and whether it extends across FX](yen-strength-background-outlook.md) (2026-09-09)
 ---
 
 [← Browse by asset class](../README.md) · [All use cases](../../README.md)
+
