@@ -127,7 +127,6 @@ This example shows how to prepare for a policy event without reducing the task t
 
 ---
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

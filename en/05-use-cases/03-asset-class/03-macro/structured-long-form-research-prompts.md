@@ -104,7 +104,6 @@ This workflow shows how to design the research process in the prompt itself so t
 
 ---
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

@@ -26,6 +26,7 @@ prompt_status: not_provided
 [← Use Cases](../../README.md)
 
 **2026-11-16**
+
 ## Prompt used
 
 The approved source does not specify the exact prompt used.
@@ -58,9 +59,6 @@ These two screenshots show the 16 November 2026 theme search and the move from r
 ![Defense Drones theme research screen 1](../../../../assets/usecases/quick/RX-USECASE-0104/01-source-screen.png)
 
 ![Defense Drones theme research screen 2](../../../../assets/usecases/quick/RX-USECASE-0104/02-source-screen.png)
-
-## Provider
-
 
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 

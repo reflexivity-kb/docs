@@ -61,9 +61,6 @@ The two screenshots below accompany the 13 November 2026 comparison of founder-C
 
 ![NVIDIA founder-CEO transition research screenshot 2](../../../../assets/usecases/quick/RX-USECASE-0103/02-source-screen.png)
 
-## Provider
-
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Use Cases](../../README.md)

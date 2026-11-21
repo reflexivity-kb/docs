@@ -75,7 +75,6 @@ This is a workflow example for moving from a broad information source into a pri
 
 The linked product manuals may require authorized access.
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

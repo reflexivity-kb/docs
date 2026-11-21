@@ -78,7 +78,6 @@ The historical pattern in the source is that summits with meaningful trade-polic
 
 ---
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Macro use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
