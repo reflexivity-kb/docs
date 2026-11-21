@@ -132,8 +132,7 @@ This is a dated use case. Its value is the research pattern: separate a sharp FX
 
 ---
 
-This content was provided by QUICK.
 
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← FX use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

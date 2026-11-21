@@ -100,8 +100,7 @@ A useful follow-up is to examine issuance by AI-related companies or Treasury-au
 
 ---
 
-This content was provided by QUICK.
 
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Fixed income use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
