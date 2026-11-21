@@ -75,8 +75,7 @@ The exercise is useful because the same headline themes do not produce the same 
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-10-01.
 
-This content was provided by QUICK.
 
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Equities use cases](README.md) · [All use cases](../../README.md)

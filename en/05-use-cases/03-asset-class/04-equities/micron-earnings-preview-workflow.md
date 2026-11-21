@@ -61,8 +61,6 @@ That makes the earnings event a structured research process rather than a one-of
 
 The August 25, 2026 NVIDIA example begins from **Events**, checks the scheduled earnings date, reads **Earnings Preview** for consensus revenue/EPS and notable KPIs, then opens the full Catalyst analysis for related themes and companies. The October 20 example shows the same pre-event path from the company-specific **Asset Overview**, as well as the cross-company calendar. After publication, the review is compared with the questions asked beforehand. All schedule and consensus figures belong to the source date.
 
-
-
 ## More earnings workflows: NVIDIA and company calendars
 
 The NVIDIA example of 25 August 2026 shows how to begin with a scheduled earnings event and review pre-release consensus and related catalysts. Screens from 20 October show the earnings date on Asset Overview and the broader Events calendar before moving to Preview and Review.
@@ -81,15 +79,14 @@ The NVIDIA example of 25 August 2026 shows how to begin with a scheduled earning
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-09-30. Only information visible in the supplied email and screenshots is included.
 
-This content was provided by QUICK.
-
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
-
 ## Related product features
 
 - [Events (earnings calendar)](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/events.md)
 - [Insights (Earnings Preview)](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/insights.md)
 
 The linked manuals may require authorized access.
+
+
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Equities use cases](README.md) · [All use cases](../../README.md)
