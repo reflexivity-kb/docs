@@ -103,7 +103,6 @@ This workflow shows how to move from a filtered market event into its possible t
 
 The linked manual may require authorized access.
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

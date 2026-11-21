@@ -102,7 +102,6 @@ The 26 October 2026 follow-up separates pre-election implied volatility from pos
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-10-05.
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [All use cases](../../README.md)

@@ -104,7 +104,6 @@ The analysis combines WTI, spot gold, CPI, US 10-year yields, monthly-change cor
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-10-02.
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [All use cases](../../README.md)

@@ -116,7 +116,6 @@ This is a cross-asset framework for separating apparently similar commodity rall
 
 ---
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

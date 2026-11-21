@@ -104,7 +104,6 @@ This workflow moves from apparent cross-asset co-movement to return-based correl
 
 ---
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

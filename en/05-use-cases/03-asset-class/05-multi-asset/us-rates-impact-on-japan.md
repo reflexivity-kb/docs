@@ -118,7 +118,6 @@ This is a reusable cross-asset workflow for tracing a foreign rates shock throug
 
 ---
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

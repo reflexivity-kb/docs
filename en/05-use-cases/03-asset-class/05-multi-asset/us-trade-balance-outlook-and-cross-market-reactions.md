@@ -116,7 +116,6 @@ The more useful research question is therefore not simply “which asset moves t
 
 This page is based on a QUICK-provided Reflexivity usage example dated 2026-10-06.
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Multi-Asset Use Cases](README.md) · [All Use Cases](../../README.md)
