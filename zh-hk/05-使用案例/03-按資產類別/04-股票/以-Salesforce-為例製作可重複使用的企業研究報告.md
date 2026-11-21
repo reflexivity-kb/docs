@@ -59,10 +59,7 @@ prompt_basis: faithful-translation
 
 ![2026-11-10 研究畫面與圖表 2](../../../../assets/usecases/quick/RX-USECASE-0100/02-source-screen.png)
 
-## 提供者
 
-本內容由 QUICK 提供。
-
-視乎國家或地區、語言環境、使用產品、權限及數據涵蓋範圍，未必可以完全按本文方式重現本案例。
+*本使用案例由我們在日本的合作夥伴 QUICK 惠予提供。* · [免責聲明](../../DISCLAIMER.md)
 
 [← Use Cases](../../README.md)
