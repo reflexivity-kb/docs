@@ -122,15 +122,9 @@ This example links an event calendar to pre-event preparation, post-event review
 
 ---
 
-This content was provided by QUICK.
-
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
-
 ## Additional earnings-calendar workflows (October 2026)
 
 The October 15 example uses Alfred to flag which US companies have earnings in the October 20 to November 6 window and why their reports matter. The October 20 example demonstrates two starting points: the cross-company **Events** calendar and the individual company's earnings date in **Asset Overview**. On October 28, the same approach is used to distinguish the US announcement date from Japan-time viewing before moving from Earnings Preview to the post-release review. These examples are dated planning workflows, not today's earnings calendar.
-
-
 
 ## Additional earnings-watchlist screenshot
 
@@ -143,5 +137,8 @@ The 15 October 2026 research example shows how an upcoming earnings period can b
 - [Events: earnings calendar](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/events.md)
 
 The linked manual may require authorized access.
+
+
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)

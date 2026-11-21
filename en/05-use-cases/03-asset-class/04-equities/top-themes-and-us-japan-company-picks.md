@@ -133,14 +133,13 @@ This workflow starts with market leadership and turns it into a cross-market res
 
 ---
 
-This content was provided by QUICK.
-
-Depending on country or region, language environment, product used, entitlements, and data coverage, the example may not be directly reproducible as written.
-
 ## Related product features
 
 - [Dashboard (Theme Performance)](https://github.com/reflexivity-kb/platform/blob/main/en/03-product/dashboard.md)
 
 The linked product manuals may require authorized access.
+
+
+*Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
