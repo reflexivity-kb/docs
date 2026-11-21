@@ -86,7 +86,6 @@ This page is based on a QUICK-provided Reflexivity usage example dated 2026-09-3
 
 The linked manuals may require authorized access.
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Equities use cases](README.md) · [All use cases](../../README.md)

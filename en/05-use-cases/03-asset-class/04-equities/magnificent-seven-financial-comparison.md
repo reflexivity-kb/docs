@@ -92,7 +92,6 @@ A deeper follow-up could compare debt maturities, fixed-versus-floating exposure
 
 ---
 
-
 *Courtesy of QUICK, our partner in Japan.* · [Use Case Disclaimer](../../DISCLAIMER.md)
 
 [← Equities use cases](README.md) · [Browse by asset class](../README.md) · [All use cases](../../README.md)
